@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<buttonmap>
+  <controller id="game.controller.dreamcast" type="analog">
+    <feature name="a" mapto="b"/>
+    <feature name="b" mapto="a"/>
+    <feature name="x" mapto="y"/>
+    <feature name="y" mapto="x"/>
+    <feature name="start" mapto="start"/>
+    <feature name="up" mapto="up"/>
+    <feature name="down" mapto="down"/>
+    <feature name="right" mapto="right"/>
+    <feature name="left" mapto="left"/>
+    <feature name="lefttrigger" mapto="l"/>
+    <feature name="righttrigger" mapto="r"/>
+    <feature name="analogstick" mapto="leftstick"/>
+  </controller>
+</buttonmap>

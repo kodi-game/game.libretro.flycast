@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="labelenum" id="reicast_cpu_mode" values="dynamic_recompiler|generic_recompiler" default="dynamic_recompiler"/>
+		<setting label="30002" type="labelenum" id="reicast_internal_resolution" values="640x480|1280x960|1920x1440|2560x1920|3200x2400|3840x2880|4480x3360" default="640x480"/>
+		<setting label="30003" type="labelenum" id="reicast_mipmapping" values="enabled|disabled" default="enabled"/>
+		<setting label="30004" type="labelenum" id="reicast_widescreen_hack" values="disabled|enabled" default="disabled"/>
+		<setting label="30005" type="labelenum" id="reicast_audio_buffer_size" values="1024|2048" default="1024"/>
+		<setting label="30006" type="labelenum" id="reicast_cable_type" values="TV (VBS/Y+S/C)|TV (RGB)|VGA (0)(RGB)|VGA (1)(RGB)" default="TV (VBS/Y+S/C)"/>
+		<setting label="30007" type="labelenum" id="reicast_precompile_shaders" values="disabled|enabled" default="disabled"/>
+		<setting label="30008" type="labelenum" id="reicast_enable_rtt" values="enabled|disabled" default="enabled"/>
+	</category>
+</settings>

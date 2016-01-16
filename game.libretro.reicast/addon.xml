@@ -20,7 +20,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Reicast</summary>
-		<description>Reicast is a multiplatform Sega Dreamcast emulator http://reicast.com
+		<description>Reicast is a multiplatform Sega Dreamcast emulator (http://reicast.com).
 
 Supported files: chd, cdi, iso, elf, bin, cue, gdi
 

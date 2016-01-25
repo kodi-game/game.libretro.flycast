@@ -25,29 +25,41 @@ msgid "CPU Mode"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Internal resolution"
+msgid "Boot to BIOS"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Mipmapping"
+msgid "Internal resolution"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Widescreen hack"
+msgid "Mipmapping"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Audio buffer size"
+msgid "Widescreen hack"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Cable type"
+msgid "Audio buffer size"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Precompile shaders"
+msgid "Cable type"
 msgstr ""
 
 msgctxt "#30008"
+msgid "Broadcast"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Region"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Precompile shaders"
+msgstr ""
+
+msgctxt "#30011"
 msgid "Enable RTT (Render To Texture)"
 msgstr ""

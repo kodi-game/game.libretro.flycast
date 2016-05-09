@@ -15,8 +15,10 @@
                    library_wingl="game.libretro.reicast.dll">
 		<platforms>Dreamcast</platforms>
 		<extensions>chd|cdi|iso|elf|bin|cue|gdi</extensions>
+		<supports_game_loop>false</supports_game_loop>
 		<supports_vfs>false</supports_vfs>
-		<supports_no_game>false</supports_no_game>
+		<supports_standalone>false</supports_standalone>
+		<supports_keyboard>false</supports_keyboard>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Reicast</summary>

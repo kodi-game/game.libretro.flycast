@@ -15,7 +15,7 @@
                    library_wingl="game.libretro.reicast.dll">
 		<platforms>Dreamcast</platforms>
 		<extensions>chd|cdi|iso|elf|bin|cue|gdi</extensions>
-		<supports_game_loop>false</supports_game_loop>
+		<supports_game_loop>true</supports_game_loop>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>

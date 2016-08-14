@@ -11,7 +11,6 @@
                    library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Dreamcast</platforms>
 		<extensions>chd|cdi|iso|elf|bin|cue|gdi</extensions>
-		<supports_game_loop>true</supports_game_loop>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
@@ -20,11 +19,10 @@
 		<summary lang="en">Reicast</summary>
 		<description>Reicast is a multiplatform Sega Dreamcast emulator (http://reicast.com).
 
-Supported files: chd, cdi, iso, elf, bin, cue, gdi
-
-License: Incompatible (GPLv2 &amp; Non-commercial)</description>
+Supported files: chd, cdi, iso, elf, bin, cue, gdi</description>
 		<disclaimer>The Reicast team is not connected or affiliated with any mentioned company in any way. The opinions of the Reicast team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information.</disclaimer>
 		<platform>@PLATFORM@</platform>
+		<license>GPLv2</license>
 		<nofanart>true</nofanart>
 	</extension>
 </addon>

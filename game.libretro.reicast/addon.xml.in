@@ -10,14 +10,14 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Dreamcast</platforms>
-		<extensions></extensions>
+		<extensions>cdi|gdi|chd|cue</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Sega Dreamcast (Reicast)</summary>
+		<summary lang="en">Sega Dreamcast (Reicast) 0.1</summary>
 		<description>Reicast is a multiplatform Sega Dreamcast emulator (http://reicast.com).
 
 Supported files: chd, cdi, iso, elf, bin, cue, gdi</description>

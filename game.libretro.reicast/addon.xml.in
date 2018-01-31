@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.reicast"
-		name="Sega Dreamcast (Reicast)"
+		name="Sega - Dreamcast (Reicast)"
 		version="0.1.0"
 		provider-name="Libretro">
 	<requires>
@@ -17,7 +17,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Sega Dreamcast (Reicast) 0.1</summary>
+		<summary lang="en">Sega - Dreamcast (Reicast) 0.1</summary>
 		<description>Reicast is a multiplatform Sega Dreamcast emulator (http://reicast.com).
 
 Supported files: chd, cdi, iso, elf, bin, cue, gdi</description>

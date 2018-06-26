@@ -21,58 +21,86 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Audio buffer size"
+msgid "Analog Stick Deadzone"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Boot to BIOS (restart)"
+msgid "Audio buffer size"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Broadcast"
+msgid "Boot to BIOS (restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Cable type"
+msgid "Broadcast"
 msgstr ""
 
 msgctxt "#30005"
-msgid "CPU Mode (restart)"
+msgid "Cable type"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Purupuru Pack (restart)"
+msgid "CPU Mode (restart)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Enable RTT (Render To Texture)"
+msgid "Digital Triggers"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Framerate"
+msgid "Purupuru Pack (restart)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Internal resolution (restart)"
+msgid "Enable RTT (Render To Texture)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Mipmapping"
+msgid "Enable RTT (Render To Texture) Buffer"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Precompile shaders"
+msgid "Framerate"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Region"
+msgid "GDROM Fast Loading (inaccurate)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Volume modifier mode"
+msgid "Internal resolution (restart)"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Widescreen hack"
+msgid "Mipmapping"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Multipass support (restart)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Precompile shaders"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Region"
+msgstr ""
+
+msgctxt "#30018"
+msgid "System type (restart)"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Trigger Deadzone"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Volume modifier"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Widescreen hack (restart)"
 msgstr ""
 

@@ -77,30 +77,26 @@ msgid "Mipmapping"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Multipass support (restart)"
-msgstr ""
-
-msgctxt "#30016"
 msgid "Precompile shaders"
 msgstr ""
 
-msgctxt "#30017"
+msgctxt "#30016"
 msgid "Region"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30017"
 msgid "System type (restart)"
 msgstr ""
 
-msgctxt "#30019"
+msgctxt "#30018"
 msgid "Trigger Deadzone"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30019"
 msgid "Volume modifier"
 msgstr ""
 
-msgctxt "#30021"
+msgctxt "#30020"
 msgid "Widescreen hack (restart)"
 msgstr ""
 

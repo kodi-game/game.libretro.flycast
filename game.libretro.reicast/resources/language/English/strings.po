@@ -93,14 +93,22 @@ msgid "System type (restart)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Trigger Deadzone"
+msgid "Texture upscaling (xBRZ)"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Volume modifier"
+msgid "Texture upscaling max filtered size"
 msgstr ""
 
 msgctxt "#30021"
+msgid "Trigger Deadzone"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Volume modifier"
+msgstr ""
+
+msgctxt "#30023"
 msgid "Widescreen hack (restart)"
 msgstr ""
 

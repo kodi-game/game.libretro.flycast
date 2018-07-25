@@ -19,8 +19,10 @@
 		<setting label="30016" type="select" id="reicast_precompile_shaders" values="disabled|enabled" default="disabled"/>
 		<setting label="30017" type="select" id="reicast_region" values="Default|Japan|USA|Europe" default="Default"/>
 		<setting label="30018" type="select" id="reicast_system" values="auto|dreamcast|naomi" default="auto"/>
-		<setting label="30019" type="select" id="reicast_trigger_deadzone" values="0%|5%|10%|15%|20%|25%|30%" default="0%"/>
-		<setting label="30020" type="select" id="reicast_volume_modifier_enable" values="enabled|disabled" default="enabled"/>
-		<setting label="30021" type="select" id="reicast_widescreen_hack" values="disabled|enabled" default="disabled"/>
+		<setting label="30019" type="select" id="reicast_texupscale" values="off|2x|4x|6x" default="off"/>
+		<setting label="30020" type="select" id="reicast_texupscale_max_filtered_texture_size" values="256|512|1024" default="256"/>
+		<setting label="30021" type="select" id="reicast_trigger_deadzone" values="0%|5%|10%|15%|20%|25%|30%" default="0%"/>
+		<setting label="30022" type="select" id="reicast_volume_modifier_enable" values="enabled|disabled" default="enabled"/>
+		<setting label="30023" type="select" id="reicast_widescreen_hack" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

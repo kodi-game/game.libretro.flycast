@@ -25,90 +25,106 @@ msgid "Allow Naomi service buttons"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Analog Stick Deadzone"
+msgid "Alpha sorting"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Audio buffer size"
+msgid "Analog Stick Deadzone"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Boot to BIOS (restart)"
+msgid "Audio buffer size"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Broadcast"
+msgid "Boot to BIOS (restart)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Cable type"
+msgid "Broadcast"
 msgstr ""
 
 msgctxt "#30007"
-msgid "CPU Mode (restart)"
+msgid "Cable type"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Digital Triggers"
+msgid "CPU Mode (restart)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Purupuru Pack (restart)"
+msgid "Digital Triggers"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Enable RTT (Render To Texture)"
+msgid "Enable DSP"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Enable RTT (Render To Texture) Buffer"
+msgid "Purupuru Pack (restart)"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Framerate"
+msgid "Enable RTT (Render To Texture)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "GDROM Fast Loading (inaccurate)"
+msgid "Enable RTT (Render To Texture) Buffer"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Internal resolution (restart)"
+msgid "Framerate"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Mipmapping"
+msgid "GDROM Fast Loading (inaccurate)"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Precompile shaders"
+msgid "Internal resolution (restart)"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Region"
+msgid "Mipmapping"
 msgstr ""
 
 msgctxt "#30018"
-msgid "System type (restart)"
+msgid "Precompile shaders"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Texture upscaling (xBRZ)"
+msgid "Region"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Texture upscaling max filtered size"
+msgid "Render To Texture Upscaling"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Trigger Deadzone"
+msgid "System type (restart)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Volume modifier"
+msgid "Texture upscaling (xBRZ)"
 msgstr ""
 
 msgctxt "#30023"
+msgid "Texture upscaling max filtered size"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Threaded rendering (restart)"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Trigger Deadzone"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Volume modifier"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Widescreen hack (restart)"
 msgstr ""
 

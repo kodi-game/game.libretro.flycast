@@ -10,7 +10,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Dreamcast</platforms>
-		<extensions>chd|cdi|iso|elf|bin|cue|gdi|lst</extensions>
+		<extensions>chd|cdi|iso|elf|bin|cue|gdi|lst|bin|dat</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>

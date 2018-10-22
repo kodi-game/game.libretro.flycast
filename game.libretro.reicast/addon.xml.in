@@ -22,6 +22,7 @@ Supported files: chd, cdi, iso, elf, bin, cue, gdi</description>
 		<disclaimer>The Reicast team is not connected or affiliated with any mentioned company in any way. The opinions of the Reicast team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information.</disclaimer>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.reicast</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>

@@ -1,1 +1,1 @@
-reicast https://github.com/libretro/reicast-emulator master
+reicast https://github.com/libretro/reicast-emulator/archive/dd973fd6651f26e603b46f74c852825bbafae307.zip

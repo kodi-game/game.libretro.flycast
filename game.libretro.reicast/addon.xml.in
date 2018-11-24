@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.reicast"
 		name="Sega - Dreamcast/NAOMI (Reicast)"
-		version="0.1.0.3"
+		version="0.1.0.4"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,7 +10,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Dreamcast</platforms>
-		<extensions>chd|cdi|iso|elf|cue|gdi|lst|bin|dat|zip</extensions>
+		<extensions>chd|cdi|iso|elf|cue|gdi|lst|bin|dat|zip|7z</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>

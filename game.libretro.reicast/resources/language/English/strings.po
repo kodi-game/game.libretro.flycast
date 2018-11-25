@@ -231,4 +231,3 @@ msgstr ""
 msgctxt "#30053"
 msgid "Widescreen hack (restart)"
 msgstr ""
-

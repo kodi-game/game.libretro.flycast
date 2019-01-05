@@ -53,185 +53,193 @@ msgid "CPU Mode (restart)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Digital Triggers"
+msgid "Load custom textures"
 msgstr ""
 
 msgctxt "#30010"
-msgid "DIV matching (performance, less accurate)"
+msgid "Digital Triggers"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Enable DSP"
+msgid "DIV matching (performance, less accurate)"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Purupuru Pack (restart)"
+msgid "Dump textures"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable RTT (Render To Texture)"
+msgid "Enable DSP"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Enable RTT (Render To Texture) Buffer"
+msgid "Purupuru Pack (restart)"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Framerate"
+msgid "Enable RTT (Render To Texture)"
 msgstr ""
 
 msgctxt "#30016"
-msgid "GDROM Fast Loading (inaccurate)"
+msgid "Enable RTT (Render To Texture) Buffer"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Internal resolution (restart)"
+msgid "Framerate"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Language"
+msgid "GDROM Fast Loading (inaccurate)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Mipmapping"
+msgid "Internal resolution (restart)"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Region"
+msgid "Language"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Render To Texture Upscaling"
+msgid "Mipmapping"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Screen orientation"
+msgid "Region"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Synchronous rendering"
+msgid "Render To Texture Upscaling"
 msgstr ""
 
 msgctxt "#30024"
-msgid "System type (restart)"
+msgid "Screen orientation"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Texture upscaling (xBRZ)"
+msgid "Synchronous rendering"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Texture upscaling max filtered size"
+msgid "System type (restart)"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Threaded rendering (restart)"
+msgid "Texture upscaling (xBRZ)"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Trigger Deadzone"
+msgid "Texture upscaling max filtered size"
 msgstr ""
 
 msgctxt "#30029"
-msgid "VMU Screen 1 Pixel Off Color"
+msgid "Threaded rendering (restart)"
 msgstr ""
 
 msgctxt "#30030"
-msgid "VMU Screen 1 Pixel On Color"
+msgid "Trigger Deadzone"
 msgstr ""
 
 msgctxt "#30031"
-msgid "VMU Screen 1 Display"
+msgid "VMU Screen 1 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30032"
-msgid "VMU Screen 1 Opacity"
+msgid "VMU Screen 1 Pixel On Color"
 msgstr ""
 
 msgctxt "#30033"
-msgid "VMU Screen 1 Position"
+msgid "VMU Screen 1 Display"
 msgstr ""
 
 msgctxt "#30034"
-msgid "VMU Screen 1 Size"
+msgid "VMU Screen 1 Opacity"
 msgstr ""
 
 msgctxt "#30035"
-msgid "VMU Screen 2 Pixel Off Color"
+msgid "VMU Screen 1 Position"
 msgstr ""
 
 msgctxt "#30036"
-msgid "VMU Screen 2 Pixel On Color"
+msgid "VMU Screen 1 Size"
 msgstr ""
 
 msgctxt "#30037"
-msgid "VMU Screen 2 Display"
+msgid "VMU Screen 2 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30038"
-msgid "VMU Screen 2 Opacity"
+msgid "VMU Screen 2 Pixel On Color"
 msgstr ""
 
 msgctxt "#30039"
-msgid "VMU Screen 2 Position"
+msgid "VMU Screen 2 Display"
 msgstr ""
 
 msgctxt "#30040"
-msgid "VMU Screen 2 Size"
+msgid "VMU Screen 2 Opacity"
 msgstr ""
 
 msgctxt "#30041"
-msgid "VMU Screen 3 Pixel Off Color"
+msgid "VMU Screen 2 Position"
 msgstr ""
 
 msgctxt "#30042"
-msgid "VMU Screen 3 Pixel On Color"
+msgid "VMU Screen 2 Size"
 msgstr ""
 
 msgctxt "#30043"
-msgid "VMU Screen 3 Display"
+msgid "VMU Screen 3 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30044"
-msgid "VMU Screen 3 Opacity"
+msgid "VMU Screen 3 Pixel On Color"
 msgstr ""
 
 msgctxt "#30045"
-msgid "VMU Screen 3 Position"
+msgid "VMU Screen 3 Display"
 msgstr ""
 
 msgctxt "#30046"
-msgid "VMU Screen 3 Size"
+msgid "VMU Screen 3 Opacity"
 msgstr ""
 
 msgctxt "#30047"
-msgid "VMU Screen 4 Pixel Off Color"
+msgid "VMU Screen 3 Position"
 msgstr ""
 
 msgctxt "#30048"
-msgid "VMU Screen 4 Pixel On Color"
+msgid "VMU Screen 3 Size"
 msgstr ""
 
 msgctxt "#30049"
-msgid "VMU Screen 4 Display"
+msgid "VMU Screen 4 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30050"
-msgid "VMU Screen 4 Opacity"
+msgid "VMU Screen 4 Pixel On Color"
 msgstr ""
 
 msgctxt "#30051"
-msgid "VMU Screen 4 Position"
+msgid "VMU Screen 4 Display"
 msgstr ""
 
 msgctxt "#30052"
-msgid "VMU Screen 4 Size"
+msgid "VMU Screen 4 Opacity"
 msgstr ""
 
 msgctxt "#30053"
-msgid "Volume modifier"
+msgid "VMU Screen 4 Position"
 msgstr ""
 
 msgctxt "#30054"
+msgid "VMU Screen 4 Size"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Volume modifier"
+msgstr ""
+
+msgctxt "#30056"
 msgid "Widescreen hack (restart)"
 msgstr ""

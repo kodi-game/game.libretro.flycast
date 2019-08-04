@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.reicast"
-		name="Sega - Dreamcast/NAOMI (Reicast)"
-		version="0.1.0.11"
+		name="Sega - Dreamcast/NAOMI (Flycast)"
+		version="0.1.0.12"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,12 +10,12 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Dreamcast</platforms>
-		<extensions>chd|cdi|iso|elf|cue|gdi|lst|bin|dat|zip|7z</extensions>
+		<extensions>chd|cdi|iso|elf|cue|gdi|lst|bin|dat|zip|7z|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Sega - Dreamcast/NAOMI (Reicast) 0.1</summary>
+		<summary lang="en_GB">Sega - Dreamcast/NAOMI (Flycast) 0.1</summary>
 		<description lang="en_GB">Reicast is a multiplatform Sega Dreamcast emulator (http://reicast.com).
 
 Supported files: chd, cdi, iso, elf, bin, cue, gdi</description>

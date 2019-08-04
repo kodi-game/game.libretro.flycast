@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Sega - Dreamcast/NAOMI (Reicast) core for kodi's retroplayer
- Sega - Dreamcast/NAOMI (Reicast) core for kodi's retroplayer
+Description: Sega - Dreamcast/NAOMI (Flycast) core for kodi's retroplayer
+ Sega - Dreamcast/NAOMI (Flycast) core for kodi's retroplayer

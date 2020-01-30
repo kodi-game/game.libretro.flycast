@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="game.libretro.reicast"
+<addon id="game.libretro.flycast"
 		name="Sega - Dreamcast/NAOMI (Flycast)"
-		version="0.1.0.16"
+		version="0.1.0.17"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -22,7 +22,7 @@ Supported files: chd, cdi, iso, elf, bin, cue, gdi</description>
 		<disclaimer>The Reicast team is not connected or affiliated with any mentioned company in any way. The opinions of the Reicast team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information.</disclaimer>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
-		<source>https://github.com/kodi-game/game.libretro.reicast</source>
+		<source>https://github.com/kodi-game/game.libretro.flycast</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>

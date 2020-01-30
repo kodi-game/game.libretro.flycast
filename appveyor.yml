@@ -4,10 +4,10 @@ image: Visual Studio 2017
 
 shallow_clone: true
 
-clone_folder: c:\projects\game.libretro.reicast
+clone_folder: c:\projects\game.libretro.flycast
 
 environment:
-  app_id: game.libretro.reicast
+  app_id: game.libretro.flycast
 
   matrix:
     - GENERATOR: "Visual Studio 15"

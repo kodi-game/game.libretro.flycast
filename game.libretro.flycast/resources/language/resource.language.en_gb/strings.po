@@ -1,10 +1,10 @@
-# game.libretro.reicast language file
-# Addon Name: game.libretro.reicast
-# Addon id: game.libretro.reicast
+# game.libretro.flycast language file
+# Addon Name: game.libretro.flycast
+# Addon id: game.libretro.flycast
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.reicast\n"
+"Project-Id-Version: game.libretro.flycast\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
 "PO-Revision-Date: 2019-08-24 22:21i\n"

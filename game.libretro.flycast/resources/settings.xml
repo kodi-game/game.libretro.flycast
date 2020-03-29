@@ -11,7 +11,7 @@
 		<setting label="30008" type="select" id="reicast_custom_textures" values="disabled|enabled" default="disabled"/>
 		<setting label="30009" type="select" id="reicast_delay_frame_swapping" values="disabled|enabled" default="disabled"/>
 		<setting label="30010" type="select" id="reicast_digital_triggers" values="disabled|enabled" default="disabled"/>
-		<setting label="30011" type="select" id="reicast_div_matching" values="disabled|enabled|auto" default="disabled"/>
+		<setting label="30011" type="select" id="reicast_div_matching" values="disabled|auto" default="disabled"/>
 		<setting label="30012" type="select" id="reicast_dump_textures" values="disabled|enabled" default="disabled"/>
 		<setting label="30013" type="select" id="reicast_enable_dsp" values="enabled|disabled" default="enabled"/>
 		<setting label="30014" type="select" id="reicast_enable_naomi_15khz_dipswitch" values="disabled|enabled" default="disabled"/>

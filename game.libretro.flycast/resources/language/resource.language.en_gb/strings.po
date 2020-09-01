@@ -61,7 +61,7 @@ msgid "Digital Triggers"
 msgstr ""
 
 msgctxt "#30011"
-msgid "DIV Matching (performance, less accurate)"
+msgid "DIV Matching"
 msgstr ""
 
 msgctxt "#30012"

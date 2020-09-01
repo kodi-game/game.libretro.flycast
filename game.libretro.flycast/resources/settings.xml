@@ -11,7 +11,7 @@
 		<setting label="30008" type="select" id="reicast_custom_textures" values="disabled|enabled" default="disabled"/>
 		<setting label="30009" type="select" id="reicast_delay_frame_swapping" values="disabled|enabled" default="disabled"/>
 		<setting label="30010" type="select" id="reicast_digital_triggers" values="disabled|enabled" default="disabled"/>
-		<setting label="30011" type="select" id="reicast_div_matching" values="disabled|auto" default="disabled"/>
+		<setting label="30011" type="select" id="reicast_div_matching" values="auto|disabled" default="auto"/>
 		<setting label="30012" type="select" id="reicast_dump_textures" values="disabled|enabled" default="disabled"/>
 		<setting label="30013" type="select" id="reicast_enable_dsp" values="enabled|disabled" default="enabled"/>
 		<setting label="30014" type="select" id="reicast_enable_naomi_15khz_dipswitch" values="disabled|enabled" default="disabled"/>
@@ -35,11 +35,11 @@
 		<setting label="30032" type="select" id="reicast_region" values="Default|Japan|USA|Europe" default="Default"/>
 		<setting label="30033" type="select" id="reicast_render_to_texture_upscaling" values="1x|2x|3x|4x|8x" default="1x"/>
 		<setting label="30034" type="select" id="reicast_screen_rotation" values="horizontal|vertical" default="horizontal"/>
-		<setting label="30035" type="select" id="reicast_synchronous_rendering" values="disabled|enabled" default="disabled"/>
+		<setting label="30035" type="select" id="reicast_synchronous_rendering" values="enabled|disabled" default="enabled"/>
 		<setting label="30036" type="select" id="reicast_system" values="auto|dreamcast|naomi|atomiswave" default="auto"/>
 		<setting label="30037" type="select" id="reicast_texupscale" values="off|2x|4x|6x" default="off"/>
 		<setting label="30038" type="select" id="reicast_texupscale_max_filtered_texture_size" values="256|512|1024" default="256"/>
-		<setting label="30039" type="select" id="reicast_threaded_rendering" values="disabled|enabled" default="disabled"/>
+		<setting label="30039" type="select" id="reicast_threaded_rendering" values="enabled|disabled" default="enabled"/>
 		<setting label="30040" type="select" id="reicast_trigger_deadzone" values="0%|5%|10%|15%|20%|25%|30%" default="0%"/>
 		<setting label="30041" type="select" id="reicast_vmu1_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
 		<setting label="30042" type="select" id="reicast_vmu1_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>

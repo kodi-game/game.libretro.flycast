@@ -85,205 +85,209 @@ msgid "Enable RTT (Render To Texture) Buffer"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Force Windows CE Mode"
+msgid "Fog Effects"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Frame Skipping"
+msgid "Force Windows CE Mode"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Framerate"
+msgid "Frame Skipping"
 msgstr ""
 
 msgctxt "#30020"
-msgid "GDROM Fast Loading (inaccurate)"
+msgid "Framerate"
 msgstr ""
 
 msgctxt "#30021"
-msgid "HLE BIOS"
+msgid "GDROM Fast Loading (inaccurate)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Internal Resolution (Restart)"
+msgid "HLE BIOS"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Language"
+msgid "Internal Resolution (Restart)"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Gun Crosshair 1 Display"
+msgid "Language"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Gun Crosshair 2 Display"
+msgid "Gun Crosshair 1 Display"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Gun Crosshair 3 Display"
+msgid "Gun Crosshair 2 Display"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Gun Crosshair 4 Display"
+msgid "Gun Crosshair 3 Display"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Mipmapping"
+msgid "Gun Crosshair 4 Display"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Accumulation Pixel Buffer Size (Restart)"
+msgid "Mipmapping"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Per-Game VMUs"
+msgid "Accumulation Pixel Buffer Size (Restart)"
 msgstr ""
 
 msgctxt "#30031"
-msgid "PowerVR2 Post-processing Filter"
+msgid "Per-Game VMUs"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Region"
+msgid "PowerVR2 Post-processing Filter"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Render To Texture Upscaling"
+msgid "Region"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Screen Orientation"
+msgid "Render To Texture Upscaling"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Synchronous Rendering"
+msgid "Screen Orientation"
 msgstr ""
 
 msgctxt "#30036"
-msgid "System Type (Restart)"
+msgid "Synchronous Rendering"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Texture Upscaling (xBRZ)"
+msgid "System Type (Restart)"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Texture Upscaling Max. Filtered Size"
+msgid "Texture Upscaling (xBRZ)"
 msgstr ""
 
 msgctxt "#30039"
-msgid "Threaded Rendering (Restart)"
+msgid "Texture Upscaling Max. Filtered Size"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Trigger Deadzone"
+msgid "Threaded Rendering (Restart)"
 msgstr ""
 
 msgctxt "#30041"
-msgid "VMU Screen 1 Pixel Off Color"
+msgid "Trigger Deadzone"
 msgstr ""
 
 msgctxt "#30042"
-msgid "VMU Screen 1 Pixel On Color"
+msgid "VMU Screen 1 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30043"
-msgid "VMU Screen 1 Display"
+msgid "VMU Screen 1 Pixel On Color"
 msgstr ""
 
 msgctxt "#30044"
-msgid "VMU Screen 1 Opacity"
+msgid "VMU Screen 1 Display"
 msgstr ""
 
 msgctxt "#30045"
-msgid "VMU Screen 1 Position"
+msgid "VMU Screen 1 Opacity"
 msgstr ""
 
 msgctxt "#30046"
-msgid "VMU Screen 1 Size"
+msgid "VMU Screen 1 Position"
 msgstr ""
 
 msgctxt "#30047"
-msgid "VMU Screen 2 Pixel Off Color"
+msgid "VMU Screen 1 Size"
 msgstr ""
 
 msgctxt "#30048"
-msgid "VMU Screen 2 Pixel On Color"
+msgid "VMU Screen 2 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30049"
-msgid "VMU Screen 2 Display"
+msgid "VMU Screen 2 Pixel On Color"
 msgstr ""
 
 msgctxt "#30050"
-msgid "VMU Screen 2 Opacity"
+msgid "VMU Screen 2 Display"
 msgstr ""
 
 msgctxt "#30051"
-msgid "VMU Screen 2 Position"
+msgid "VMU Screen 2 Opacity"
 msgstr ""
 
 msgctxt "#30052"
-msgid "VMU Screen 2 Size"
+msgid "VMU Screen 2 Position"
 msgstr ""
 
 msgctxt "#30053"
-msgid "VMU Screen 3 Pixel Off Color"
+msgid "VMU Screen 2 Size"
 msgstr ""
 
 msgctxt "#30054"
-msgid "VMU Screen 3 Pixel On Color"
+msgid "VMU Screen 3 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30055"
-msgid "VMU Screen 3 Display"
+msgid "VMU Screen 3 Pixel On Color"
 msgstr ""
 
 msgctxt "#30056"
-msgid "VMU Screen 3 Opacity"
+msgid "VMU Screen 3 Display"
 msgstr ""
 
 msgctxt "#30057"
-msgid "VMU Screen 3 Position"
+msgid "VMU Screen 3 Opacity"
 msgstr ""
 
 msgctxt "#30058"
-msgid "VMU Screen 3 Size"
+msgid "VMU Screen 3 Position"
 msgstr ""
 
 msgctxt "#30059"
-msgid "VMU Screen 4 Pixel Off Color"
+msgid "VMU Screen 3 Size"
 msgstr ""
 
 msgctxt "#30060"
-msgid "VMU Screen 4 Pixel On Color"
+msgid "VMU Screen 4 Pixel Off Color"
 msgstr ""
 
 msgctxt "#30061"
-msgid "VMU Screen 4 Display"
+msgid "VMU Screen 4 Pixel On Color"
 msgstr ""
 
 msgctxt "#30062"
-msgid "VMU Screen 4 Opacity"
+msgid "VMU Screen 4 Display"
 msgstr ""
 
 msgctxt "#30063"
-msgid "VMU Screen 4 Position"
+msgid "VMU Screen 4 Opacity"
 msgstr ""
 
 msgctxt "#30064"
-msgid "VMU Screen 4 Size"
+msgid "VMU Screen 4 Position"
 msgstr ""
 
 msgctxt "#30065"
-msgid "Volume Modifier"
+msgid "VMU Screen 4 Size"
 msgstr ""
 
 msgctxt "#30066"
-msgid "Widescreen Cheats (Restart)"
+msgid "Volume Modifier"
 msgstr ""
 
 msgctxt "#30067"
+msgid "Widescreen Cheats (Restart)"
+msgstr ""
+
+msgctxt "#30068"
 msgid "Widescreen Hack (Restart)"
 msgstr ""

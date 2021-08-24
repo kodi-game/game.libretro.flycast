@@ -22,9 +22,7 @@ msgid "Sega - Dreamcast/NAOMI (Flycast) 0.1"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Reicast is a multiplatform Sega Dreamcast emulator (http://reicast.com).
-
-Supported files: chd, cdi, iso, elf, bin, cue, gdi"
+msgid "Reicast is a multiplatform Sega Dreamcast emulator (http://reicast.com).Supported files: chd, cdi, iso, elf, bin, cue, gdi"
 msgstr ""
 
 msgctxt "#30000"

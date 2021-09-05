@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.flycast"
 		name="Sega - Dreamcast/NAOMI (Flycast)"
-		version="0.1.0.35"
+		version="0.1.0.36"
 		provider-name="flyinghead">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,6 +13,7 @@
 		<extensions>chd|cdi|elf|cue|gdi|lst|bin|dat|zip|7z|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>true</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>

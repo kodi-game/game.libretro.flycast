@@ -4,13 +4,21 @@
 # Sega - Dreamcast/NAOMI (Flycast)
 
 ### Description
+
 Flycast is a fork of Reicast, a multi-platform Sega Dreamcast emulator.
 
 ### License
+
 GPLv2
 
 ### Icon
 
 ![Icon](game.libretro.flycast/resources/icon.png)
 
+### Fanart
 
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!

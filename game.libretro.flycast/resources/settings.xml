@@ -25,9 +25,9 @@
 		<setting label="30022" type="select" id="reicast_trigger_deadzone" values="0%|5%|10%|15%|20%|25%|30%" default="0%"/>
 		<setting label="30023" type="select" id="reicast_digital_triggers" values="disabled|enabled" default="disabled"/>
 		<setting label="30024" type="select" id="reicast_enable_dsp" values="enabled|disabled" default="enabled"/>
-		<setting label="30025" type="select" id="reicast_anisotropic_filtering" values="4|off|2|8|16" default="4"/>
+		<setting label="30025" type="select" id="reicast_anisotropic_filtering" values="4|disabled|2|8|16" default="4"/>
 		<setting label="30026" type="select" id="reicast_pvr2_filtering" values="disabled|enabled" default="disabled"/>
-		<setting label="30027" type="select" id="reicast_texupscale" values="off|2x|4x|6x" default="off"/>
+		<setting label="30027" type="select" id="reicast_texupscale" values="disabled|2x|4x|6x" default="disabled"/>
 		<setting label="30028" type="select" id="reicast_texupscale_max_filtered_texture_size" values="256|512|1024" default="256"/>
 		<setting label="30029" type="select" id="reicast_enable_rttb" values="disabled|enabled" default="disabled"/>
 		<setting label="30030" type="select" id="reicast_render_to_texture_upscaling" values="1x|2x|3x|4x|8x" default="1x"/>
@@ -41,33 +41,35 @@
 		<setting label="30038" type="select" id="reicast_custom_textures" values="disabled|enabled" default="disabled"/>
 		<setting label="30039" type="select" id="reicast_dump_textures" values="disabled|enabled" default="disabled"/>
 		<setting label="30040" type="select" id="reicast_per_content_vmus" values="disabled|VMU A1|All VMUs" default="disabled"/>
-		<setting label="30041" type="select" id="reicast_vmu1_screen_display" values="disabled|enabled" default="disabled"/>
-		<setting label="30042" type="select" id="reicast_vmu1_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
-		<setting label="30043" type="select" id="reicast_vmu1_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
-		<setting label="30044" type="select" id="reicast_vmu1_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
-		<setting label="30045" type="select" id="reicast_vmu1_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
-		<setting label="30046" type="select" id="reicast_vmu1_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
-		<setting label="30047" type="select" id="reicast_vmu2_screen_display" values="disabled|enabled" default="disabled"/>
-		<setting label="30048" type="select" id="reicast_vmu2_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
-		<setting label="30049" type="select" id="reicast_vmu2_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
-		<setting label="30050" type="select" id="reicast_vmu2_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
-		<setting label="30051" type="select" id="reicast_vmu2_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
-		<setting label="30052" type="select" id="reicast_vmu2_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
-		<setting label="30053" type="select" id="reicast_vmu3_screen_display" values="disabled|enabled" default="disabled"/>
-		<setting label="30054" type="select" id="reicast_vmu3_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
-		<setting label="30055" type="select" id="reicast_vmu3_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
-		<setting label="30056" type="select" id="reicast_vmu3_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
-		<setting label="30057" type="select" id="reicast_vmu3_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
-		<setting label="30058" type="select" id="reicast_vmu3_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
-		<setting label="30059" type="select" id="reicast_vmu4_screen_display" values="disabled|enabled" default="disabled"/>
-		<setting label="30060" type="select" id="reicast_vmu4_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
-		<setting label="30061" type="select" id="reicast_vmu4_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
-		<setting label="30062" type="select" id="reicast_vmu4_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
-		<setting label="30063" type="select" id="reicast_vmu4_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_2 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_3 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
-		<setting label="30064" type="select" id="reicast_vmu4_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
-		<setting label="30065" type="select" id="reicast_lightgun1_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
-		<setting label="30066" type="select" id="reicast_lightgun2_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
-		<setting label="30067" type="select" id="reicast_lightgun3_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
-		<setting label="30068" type="select" id="reicast_lightgun4_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
+		<setting label="30041" type="select" id="reicast_show_vmu_screen_settings" values="disabled|enabled" default="disabled"/>
+		<setting label="30042" type="select" id="reicast_vmu1_screen_display" values="disabled|enabled" default="disabled"/>
+		<setting label="30043" type="select" id="reicast_vmu1_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
+		<setting label="30044" type="select" id="reicast_vmu1_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
+		<setting label="30045" type="select" id="reicast_vmu1_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
+		<setting label="30046" type="select" id="reicast_vmu1_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
+		<setting label="30047" type="select" id="reicast_vmu1_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
+		<setting label="30048" type="select" id="reicast_vmu2_screen_display" values="disabled|enabled" default="disabled"/>
+		<setting label="30049" type="select" id="reicast_vmu2_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
+		<setting label="30050" type="select" id="reicast_vmu2_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
+		<setting label="30051" type="select" id="reicast_vmu2_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
+		<setting label="30052" type="select" id="reicast_vmu2_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
+		<setting label="30053" type="select" id="reicast_vmu2_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
+		<setting label="30054" type="select" id="reicast_vmu3_screen_display" values="disabled|enabled" default="disabled"/>
+		<setting label="30055" type="select" id="reicast_vmu3_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
+		<setting label="30056" type="select" id="reicast_vmu3_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
+		<setting label="30057" type="select" id="reicast_vmu3_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
+		<setting label="30058" type="select" id="reicast_vmu3_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
+		<setting label="30059" type="select" id="reicast_vmu3_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
+		<setting label="30060" type="select" id="reicast_vmu4_screen_display" values="disabled|enabled" default="disabled"/>
+		<setting label="30061" type="select" id="reicast_vmu4_screen_position" values="Upper Left|Upper Right|Lower Left|Lower Right" default="Upper Left"/>
+		<setting label="30062" type="select" id="reicast_vmu4_screen_size_mult" values="1x|2x|3x|4x|5x" default="1x"/>
+		<setting label="30063" type="select" id="reicast_vmu4_pixel_on_color" values="DEFAULT_ON 00|DEFAULT_OFF 01|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_ON 00"/>
+		<setting label="30064" type="select" id="reicast_vmu4_pixel_off_color" values="DEFAULT_OFF 01|DEFAULT_ON 00|BLACK 02|BLUE 03|LIGHT_BLUE 04|GREEN 05|CYAN 06|CYAN_BLUE 07|LIGHT_GREEN 08|CYAN_GREEN 09|LIGHT_CYAN 10|RED 11|PURPLE 12|LIGHT_PURPLE 13|YELLOW 14|GRAY 15|LIGHT_PURPLE_2 16|LIGHT_GREEN_2 17|LIGHT_GREEN_3 18|LIGHT_CYAN_2 19|LIGHT_RED_2 20|MAGENTA 21|LIGHT_PURPLE_3 22|LIGHT_ORANGE 23|ORANGE 24|LIGHT_PURPLE_4 25|LIGHT_YELLOW 26|LIGHT_YELLOW_2 27|WHITE 28" default="DEFAULT_OFF 01"/>
+		<setting label="30065" type="select" id="reicast_vmu4_screen_opacity" values="100%|10%|20%|30%|40%|50%|60%|70%|80%|90%" default="100%"/>
+		<setting label="30066" type="select" id="reicast_show_lightgun_settings" values="disabled|enabled" default="disabled"/>
+		<setting label="30067" type="select" id="reicast_lightgun1_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
+		<setting label="30068" type="select" id="reicast_lightgun2_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
+		<setting label="30069" type="select" id="reicast_lightgun3_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
+		<setting label="30070" type="select" id="reicast_lightgun4_crosshair" values="disabled|White|Red|Green|Blue" default="disabled"/>
 	</category>
 </settings>

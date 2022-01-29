@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.flycast"
 		name="Sega - Dreamcast/NAOMI (Flycast)"
-		version="0.1.0.41"
+		version="0.1.0.42"
 		provider-name="flyinghead">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>

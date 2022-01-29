@@ -1,1 +1,1 @@
-flycast https://github.com/libretro/flycast/archive/ae670ea28fdbb9f08149cb598312a71a0970ca67.tar.gz
+flycast https://github.com/libretro/flycast/archive/bf3280bf436adc7d38297b30fa51cce8fca75ddd.tar.gz

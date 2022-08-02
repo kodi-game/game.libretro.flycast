@@ -25,5 +25,6 @@
 		<summary lang="en_GB">Sega - Dreamcast/NAOMI (Flycast) 0.1</summary>
 		<description lang="da_DK">Flycast er en fork af Reicast, en Sega Dreamcast-emulator til adskillige platforme.</description>
 		<description lang="en_GB">Flycast is a fork of Reicast, a multi-platform Sega Dreamcast emulator.</description>
+		<description lang="zh_CN">Flycast 是 Reicast 的一个分支，是一个多平台的世嘉 Dreamcast 模拟器。</description>
 	</extension>
 </addon>

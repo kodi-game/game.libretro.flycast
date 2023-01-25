@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.flycast/resources/icon.png)
+![Sega - Dreamcast/Naomi (Flycast) icon](game.libretro.flycast/resources/icon.png)
 
 ### Fanart
 

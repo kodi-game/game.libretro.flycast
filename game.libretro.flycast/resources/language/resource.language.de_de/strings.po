@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Sega - Dreamcast/NAOMI (Flycast) 0.1"
+msgid "Sega - Dreamcast/Naomi (Flycast)"
 msgstr ""
 
 msgctxt "Addon Description"

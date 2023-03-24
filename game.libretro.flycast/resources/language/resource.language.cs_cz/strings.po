@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgctxt "Addon Summary"
-msgid "Sega - Dreamcast/NAOMI (Flycast) 0.1"
+msgid "Sega - Dreamcast/Naomi (Flycast)"
 msgstr ""
 
 msgctxt "Addon Description"

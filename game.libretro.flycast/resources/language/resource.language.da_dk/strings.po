@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Flycast is a fork of Reicast, a multi-platform Sega Dreamcast emulator."
 msgstr "Flycast er en fork af Reicast, en Sega Dreamcast-emulator til adskillige platforme."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Boot to BIOS (Restart Required)"
 msgstr "Boot til BIOS (genstart påkrævet)"
@@ -308,6 +304,10 @@ msgstr "Gun crosshair 3 visning"
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
 msgstr "Gun crosshair 4 visning"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart)"

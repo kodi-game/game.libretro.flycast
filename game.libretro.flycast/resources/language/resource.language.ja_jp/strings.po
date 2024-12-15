@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Flycast is a fork of Reicast, a multi-platform Sega Dreamcast emulator."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Boot to BIOS (Restart Required)"
 msgstr ""

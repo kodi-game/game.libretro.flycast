@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.flycast\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-12 12:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-flycast/sv_se/>\n"
 "Language: sv_se\n"
@@ -29,281 +29,344 @@ msgctxt "#30001"
 msgid "Boot to BIOS (Restart Required)"
 msgstr "Starta upp till BIOS (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "System Type (Restart Required)"
-msgstr ""
+msgstr "Systemtyp (omstart krävs)"
 
 msgctxt "#30003"
 msgid "HLE BIOS"
-msgstr ""
+msgstr "HLE BIOS"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Accumulation Pixel Buffer Size (Restart Required)"
-msgstr ""
+msgstr "Buffertstorlek för ackumuleringspixlar (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Internal Resolution (Restart Required)"
-msgstr ""
+msgstr "Intern upplösning (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "SKÄRMORIENTERING"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr ""
+msgstr "Alfasortering"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr ""
+msgstr "GD-ROM snabb laddning (felaktig)"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr ""
+msgstr "Mipmapping"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "Dimmeffekter"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr ""
+msgstr "Volymmodifierare"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
-msgstr ""
+msgstr "Widescreen Hack (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
+msgstr "Widescreen Cheats (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "Typ av kabel"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr ""
+msgstr "Standard för sändning"
 
 msgctxt "#30016"
 msgid "Framerate"
-msgstr ""
+msgstr "Bildfrekvens"
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Språk"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "DIV Matching"
-msgstr ""
+msgstr "DIV Matchning"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Force Windows CE Mode"
-msgstr ""
+msgstr "TVINGA WINDOWS CE-LÄGE"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr ""
+msgstr "Analog spak Deadzone"
 
+#, fuzzy
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr ""
+msgstr "Trigger Deadzone"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr ""
+msgstr "Digitala utlösare"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "Aktivera DSP"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Anisotropisk filtrering"
 
+#, fuzzy
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "PowerVR2 filter för efterbearbetning"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "TEXTURUPPSKALNING (XBRZ)"
 
+#, fuzzy
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr ""
+msgstr "Textur Uppskalning Max. Filtrerad storlek"
 
+#, fuzzy
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr ""
+msgstr "Aktivera RTT-buffert (Rendering till textur)"
 
+#, fuzzy
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
-msgstr ""
+msgstr "Rendering till uppskalning av textur"
 
+#, fuzzy
 msgctxt "#30031"
 msgid "Threaded Rendering (Restart Required)"
-msgstr ""
+msgstr "Trådad rendering (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30032"
 msgid "Synchronous Rendering"
-msgstr ""
+msgstr "Synkron rendering"
 
+#, fuzzy
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr ""
+msgstr "Fördröja byte av ram"
 
+#, fuzzy
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr ""
+msgstr "Ramhoppning"
 
+#, fuzzy
 msgctxt "#30035"
 msgid "Purupuru Pack/Vibration Pack"
-msgstr ""
+msgstr "Purupuru Pack/Vibration Pack"
 
+#, fuzzy
 msgctxt "#30036"
 msgid "Allow NAOMI Service Buttons"
-msgstr ""
+msgstr "Tillåt NAOMI serviceknappar"
 
+#, fuzzy
 msgctxt "#30037"
 msgid "Enable NAOMI 15KHz DIP switch"
-msgstr ""
+msgstr "Aktivera NAOMI 15KHz DIP-switch"
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr ""
+msgstr "Läs in anpassade texturer"
 
+#, fuzzy
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
+msgstr "Dumpning av texturer"
 
+#, fuzzy
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr ""
+msgstr "Visuella minnesenheter/system per spel (VMU)"
 
+#, fuzzy
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr ""
+msgstr "Visa inställningar för visning av enhet/system för visuellt minne (VMU)"
 
+#, fuzzy
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr ""
+msgstr "VMU-skärm 1 Display"
 
+#, fuzzy
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr ""
+msgstr "VMU-skärm 1 Position"
 
+#, fuzzy
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr ""
+msgstr "VMU Skärm 1 Storlek"
 
+#, fuzzy
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr ""
+msgstr "VMU-skärm 1 pixel på färg"
 
+#, fuzzy
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr ""
+msgstr "VMU-skärm 1 Pixel Off Färg"
 
+#, fuzzy
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr ""
+msgstr "VMU Skärm 1 Opacitet"
 
+#, fuzzy
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr ""
+msgstr "VMU-skärm 2 Display"
 
+#, fuzzy
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr ""
+msgstr "VMU-skärm 2 Position"
 
+#, fuzzy
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr ""
+msgstr "VMU-skärm 2 Storlek"
 
+#, fuzzy
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr ""
+msgstr "VMU-skärm 2 pixel på färg"
 
+#, fuzzy
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr ""
+msgstr "VMU-skärm 2 Pixel Off Färg"
 
+#, fuzzy
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr ""
+msgstr "VMU Skärm 2 Opacitet"
 
+#, fuzzy
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr ""
+msgstr "VMU-skärm 3 Display"
 
+#, fuzzy
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr ""
+msgstr "VMU-skärm 3 Position"
 
+#, fuzzy
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr ""
+msgstr "VMU-skärm 3 Storlek"
 
+#, fuzzy
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr ""
+msgstr "VMU-skärm 3 pixel på färg"
 
+#, fuzzy
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr ""
+msgstr "VMU-skärm 3 Pixel Off Color"
 
+#, fuzzy
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr ""
+msgstr "VMU Skärm 3 Opacitet"
 
+#, fuzzy
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr ""
+msgstr "VMU-skärm 4 Display"
 
+#, fuzzy
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr ""
+msgstr "VMU-skärm 4 Position"
 
+#, fuzzy
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr ""
+msgstr "VMU-skärm 4 Storlek"
 
+#, fuzzy
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr ""
+msgstr "VMU-skärm 4 pixel på färg"
 
+#, fuzzy
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr ""
+msgstr "VMU-skärm 4 Pixel Off Color"
 
+#, fuzzy
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr ""
+msgstr "VMU Skärm 4 Opacitet"
 
+#, fuzzy
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr ""
+msgstr "Visa inställningar för ljuspistol"
 
+#, fuzzy
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr ""
+msgstr "Gun Crosshair 1 Display"
 
+#, fuzzy
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr ""
+msgstr "Gun Crosshair 2 Display"
 
+#, fuzzy
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr ""
+msgstr "Gun Crosshair 3 Display"
 
+#, fuzzy
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr ""
+msgstr "Gun Crosshair 4 Display"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

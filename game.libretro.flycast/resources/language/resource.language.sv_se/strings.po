@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.flycast\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2025-04-12 12:26+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-flycast/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Sega - Dreamcast/Naomi (Flycast)"
@@ -29,7 +29,6 @@ msgctxt "#30001"
 msgid "Boot to BIOS (Restart Required)"
 msgstr "Starta upp till BIOS (omstart krävs)"
 
-#, fuzzy
 msgctxt "#30002"
 msgid "System Type (Restart Required)"
 msgstr "Systemtyp (omstart krävs)"
@@ -43,15 +42,13 @@ msgctxt "#30004"
 msgid "Accumulation Pixel Buffer Size (Restart Required)"
 msgstr "Buffertstorlek för ackumuleringspixlar (omstart krävs)"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "Internal Resolution (Restart Required)"
 msgstr "Intern upplösning (omstart krävs)"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr "SKÄRMORIENTERING"
+msgstr "Skärmorientering"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -62,32 +59,26 @@ msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
 msgstr "GD-ROM snabb laddning (felaktig)"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Mipmapping"
 msgstr "Mipmapping"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Fog Effects"
 msgstr "Dimmeffekter"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Volume Modifier"
 msgstr "Volymmodifierare"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
-msgstr "Widescreen Hack (omstart krävs)"
+msgstr "Bredbildshack (omstart krävs)"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr "Widescreen Cheats (omstart krävs)"
+msgstr "Bredbildsfusk (omstart krävs)"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "Cable Type"
 msgstr "Typ av kabel"
@@ -114,32 +105,26 @@ msgctxt "#30019"
 msgid "DIV Matching"
 msgstr "DIV Matchning"
 
-#, fuzzy
 msgctxt "#30020"
 msgid "Force Windows CE Mode"
-msgstr "TVINGA WINDOWS CE-LÄGE"
+msgstr "Tvinga Windows CE-läge"
 
-#, fuzzy
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr "Analog spak Deadzone"
+msgstr "Dödzon för analog spak"
 
-#, fuzzy
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr "Trigger Deadzone"
+msgstr "Dödzon för avtryckare"
 
-#, fuzzy
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr "Digitala utlösare"
+msgstr "Digitala avtryckare"
 
-#, fuzzy
 msgctxt "#30024"
 msgid "Enable DSP"
 msgstr "Aktivera DSP"
 
-#, fuzzy
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
 msgstr "Anisotropisk filtrering"
@@ -164,17 +149,14 @@ msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
 msgstr "Aktivera RTT-buffert (Rendering till textur)"
 
-#, fuzzy
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
 msgstr "Rendering till uppskalning av textur"
 
-#, fuzzy
 msgctxt "#30031"
 msgid "Threaded Rendering (Restart Required)"
 msgstr "Trådad rendering (omstart krävs)"
 
-#, fuzzy
 msgctxt "#30032"
 msgid "Synchronous Rendering"
 msgstr "Synkron rendering"
@@ -208,10 +190,9 @@ msgctxt "#30038"
 msgid "Load Custom Textures"
 msgstr "Läs in anpassade texturer"
 
-#, fuzzy
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr "Dumpning av texturer"
+msgstr "Dumpa texturer"
 
 #, fuzzy
 msgctxt "#30040"
@@ -343,7 +324,6 @@ msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
 msgstr "VMU Skärm 4 Opacitet"
 
-#, fuzzy
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
 msgstr "Visa inställningar för ljuspistol"

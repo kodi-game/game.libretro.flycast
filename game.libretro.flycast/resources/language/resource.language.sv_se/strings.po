@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.flycast\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2025-04-17 04:26+0000\n"
+"PO-Revision-Date: 2025-11-09 08:13+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-flycast/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "Addon Summary"
 msgid "Sega - Dreamcast/Naomi (Flycast)"
@@ -134,17 +134,14 @@ msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
 msgstr "PowerVR2 filter för efterbearbetning"
 
-#, fuzzy
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr "TEXTURUPPSKALNING (XBRZ)"
+msgstr "Texturuppskalning (xBRZ)"
 
-#, fuzzy
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr "Textur Uppskalning Max. Filtrerad storlek"
+msgstr "Texturuppskalning max. filtrerad storlek"
 
-#, fuzzy
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
 msgstr "Aktivera RTT-buffert (Rendering till textur)"
@@ -166,22 +163,19 @@ msgctxt "#30033"
 msgid "Delay Frame Swapping"
 msgstr "Fördröja byte av ram"
 
-#, fuzzy
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr "Ramhoppning"
+msgstr "Hoppa över bildrutor"
 
 #, fuzzy
 msgctxt "#30035"
 msgid "Purupuru Pack/Vibration Pack"
 msgstr "Purupuru Pack/Vibration Pack"
 
-#, fuzzy
 msgctxt "#30036"
 msgid "Allow NAOMI Service Buttons"
-msgstr "Tillåt NAOMI serviceknappar"
+msgstr "Tillåt NAOMI-serviceknappar"
 
-#, fuzzy
 msgctxt "#30037"
 msgid "Enable NAOMI 15KHz DIP switch"
 msgstr "Aktivera NAOMI 15KHz DIP-switch"

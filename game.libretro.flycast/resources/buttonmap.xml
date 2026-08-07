@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-    <controller id="game.controller.dreamcast" type="RETRO_DEVICE_ANALOG">
+    <controller id="game.controller.dreamcast" type="RETRO_DEVICE_JOYPAD">
         <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
         <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
         <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>

@@ -119,4 +119,12 @@
         <feature name="kpperiod" mapto="RETROK_KP_PERIOD"/>
         <feature name="grave" mapto="RETROK_BACKQUOTE"/>
     </controller>
+    <controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
+        <feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
+        <feature name="right" mapto="RETRO_DEVICE_ID_MOUSE_RIGHT"/>
+        <feature name="middle" mapto="RETRO_DEVICE_ID_MOUSE_MIDDLE"/>
+        <feature name="wheelup" mapto="RETRO_DEVICE_ID_MOUSE_WHEELUP"/>
+        <feature name="wheeldown" mapto="RETRO_DEVICE_ID_MOUSE_WHEELDOWN"/>
+        <feature name="pointer" mapto="RETRO_DEVICE_MOUSE"/>
+    </controller>
 </buttonmap>

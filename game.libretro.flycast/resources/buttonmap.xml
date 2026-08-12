@@ -10,8 +10,8 @@
         <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
         <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
         <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
-        <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
-        <feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
+        <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
+        <feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
         <feature name="analogstick" mapto="RETRO_DEVICE_INDEX_ANALOG_LEFT"/>
         <feature name="leftmotor" mapto="RETRO_RUMBLE_STRONG"/>
         <feature name="rightmotor" mapto="RETRO_RUMBLE_WEAK"/>

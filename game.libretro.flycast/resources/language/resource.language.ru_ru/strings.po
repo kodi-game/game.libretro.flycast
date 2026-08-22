@@ -305,6 +305,310 @@ msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
 msgstr "Дисплей прицела пистолета 4"
 
+msgctxt "#30071"
+msgid "Boot directly into the Dreamcast BIOS menu."
+msgstr ""
+
+msgctxt "#30072"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Dreamcast"
+msgstr ""
+
+msgctxt "#30074"
+msgid "NAOMI"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Atomiswave"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Force use of high-level emulation BIOS."
+msgstr ""
+
+msgctxt "#30077"
+msgid "Per-Strip (fast, least accurate)"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Per-Triangle (normal)"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Per-Pixel (accurate, but slowest)"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Speeds up GD-ROM loading."
+msgstr ""
+
+msgctxt "#30081"
+msgid "Optimize integer division"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Enable full MMU (Memory Management Unit) emulation and other settings for Windows CE games."
+msgstr ""
+
+msgctxt "#30083"
+msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
+msgstr ""
+
+msgctxt "#30084"
+msgid "Runs the GPU and CPU on different threads. Highly recommended."
+msgstr ""
+
+msgctxt "#30085"
+msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
+msgstr ""
+
+msgctxt "#30086"
+msgid "Enables SERVICE button for NAOMI, to enter cabinet settings."
+msgstr ""
+
+msgctxt "#30087"
+msgid "This can force display in 240p, 480i or have no effect at all depending on the game."
+msgstr ""
+
+msgctxt "#30088"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30089"
+msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
+msgstr ""
+
+msgctxt "#30090"
+msgid "Higher values might be required for higher resolutions to output correctly."
+msgstr ""
+
+msgctxt "#30091"
+msgid "Modify rendering resolution."
+msgstr ""
+
+msgctxt "#30092"
+msgid "Horizontal"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Vertical"
+msgstr ""
+
+msgctxt "#30094"
+msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
+msgstr ""
+
+msgctxt "#30095"
+msgid "The output signal type. 'TV (Composite)' is the most widely supported."
+msgstr ""
+
+msgctxt "#30096"
+msgid "PAL-M (Brazil)"
+msgstr ""
+
+msgctxt "#30097"
+msgid "PAL-N (Argentina, Paraguay, Uruguay)"
+msgstr ""
+
+msgctxt "#30098"
+msgid "PAL (World)"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
+msgstr ""
+
+msgctxt "#30100"
+msgid "Full Speed"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Normal"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
+msgstr ""
+
+msgctxt "#30103"
+msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
+msgstr ""
+
+msgctxt "#30104"
+msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
+msgstr ""
+
+msgctxt "#30105"
+msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
+msgstr ""
+
+msgctxt "#30106"
+msgid "Sets the number of frames to skip between each displayed frame."
+msgstr ""
+
+msgctxt "#30107"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Configure controller & light gun settings."
+msgstr ""
+
+msgctxt "#30109"
+msgid "Enables controller force feedback."
+msgstr ""
+
+msgctxt "#30110"
+msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu must be toggled for this setting to take effect."
+msgstr ""
+
+msgctxt "#30111"
+msgid "Visual Memory"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Configure settings related to the Visual Memory Units/Systems (VMU)."
+msgstr ""
+
+msgctxt "#30113"
+msgid "When disabled, all games share 4 VMU save files (A1, B1, C1, D1) located in RetroArch's system directory. The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save directory for each game that is launched. The 'All VMUs' setting creates 4 unique VMU files (A1, B1, C1, D1) for each game that is launched."
+msgstr ""
+
+msgctxt "#30114"
+msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu must be toggled for this setting to take effect."
+msgstr ""
+
+msgctxt "#30115"
+msgid "Default ON"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Default OFF"
+msgstr ""
+
+msgctxt "#30117"
+msgid "Black"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Blue"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Light Blue"
+msgstr ""
+
+msgctxt "#30120"
+msgid "Green"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Cyan"
+msgstr ""
+
+msgctxt "#30122"
+msgid "Cyan Blue"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Light Green"
+msgstr ""
+
+msgctxt "#30124"
+msgid "Cyan Green"
+msgstr ""
+
+msgctxt "#30125"
+msgid "Light Cyan"
+msgstr ""
+
+msgctxt "#30126"
+msgid "Red"
+msgstr ""
+
+msgctxt "#30127"
+msgid "Purple"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Light Purple"
+msgstr ""
+
+msgctxt "#30129"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "#30130"
+msgid "Gray"
+msgstr ""
+
+msgctxt "#30131"
+msgid "Light Purple (2)"
+msgstr ""
+
+msgctxt "#30132"
+msgid "Light Green (2)"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Light Green (3)"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Light Cyan (2)"
+msgstr ""
+
+msgctxt "#30135"
+msgid "Light Red (2)"
+msgstr ""
+
+msgctxt "#30136"
+msgid "Magenta"
+msgstr ""
+
+msgctxt "#30137"
+msgid "Light Purple (3)"
+msgstr ""
+
+msgctxt "#30138"
+msgid "Light Orange"
+msgstr ""
+
+msgctxt "#30139"
+msgid "Orange"
+msgstr ""
+
+msgctxt "#30140"
+msgid "Light Purple (4)"
+msgstr ""
+
+msgctxt "#30141"
+msgid "Light Yellow"
+msgstr ""
+
+msgctxt "#30142"
+msgid "Light Yellow (2)"
+msgstr ""
+
+msgctxt "#30143"
+msgid "White"
+msgstr ""
+
+msgctxt "#30144"
+msgid "Emulation Hacks"
+msgstr ""
+
+msgctxt "#30145"
+msgid "Configure different emulation hacks."
+msgstr ""
+
+msgctxt "#30146"
+msgid "Activates cheats that allow certain games to display in widescreen format."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Настройки"

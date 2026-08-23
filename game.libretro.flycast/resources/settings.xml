@@ -1,107 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings version="1">
 	<section id="game.libretro.flycast">
-		<category id="general" label="128">
+		<category id="system" label="30147" help="30148">
 			<group id="1">
-				<setting id="reicast_boot_to_bios" type="string" label="30001" help="30071">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_system" type="string" label="30002">
-					<level>0</level>
-					<default>auto</default>
-					<constraints>
-						<options>
-							<option label="30072">auto</option>
-							<option label="30073">dreamcast</option>
-							<option label="30074">naomi</option>
-							<option label="30075">atomiswave</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_hle_bios" type="string" label="30003" help="30076">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_alpha_sorting" type="string" label="30007">
-					<level>0</level>
-					<default>per-triangle (normal)</default>
-					<constraints>
-						<options>
-							<option label="30077">per-strip (fast, least accurate)</option>
-							<option label="30078">per-triangle (normal)</option>
-							<option label="30079">per-pixel (accurate)</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_gdrom_fast_loading" type="string" label="30008" help="30080">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
 				<setting id="reicast_region" type="string" label="30017">
 					<level>0</level>
-					<default>Default</default>
+					<default>USA</default>
 					<constraints>
 						<options>
-							<option>Default</option>
 							<option>Japan</option>
 							<option>USA</option>
 							<option>Europe</option>
+							<option>Default</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_language" type="string" label="30018">
+				<setting id="reicast_language" type="string" label="30018" help="30149">
 					<level>0</level>
-					<default>Default</default>
+					<default>English</default>
 					<constraints>
 						<options>
-							<option>Default</option>
 							<option>Japanese</option>
 							<option>English</option>
 							<option>German</option>
 							<option>French</option>
 							<option>Spanish</option>
 							<option>Italian</option>
+							<option>Default</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_div_matching" type="string" label="30019" help="30081">
-					<level>0</level>
-					<default>auto</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option label="30072">auto</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_force_wince" type="string" label="30020" help="30082">
+				<setting id="reicast_hle_bios" type="string" label="30150" help="30076">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -123,29 +54,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_threaded_rendering" type="string" label="30031" help="30084">
-					<level>0</level>
-					<default>enabled</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_synchronous_rendering" type="string" label="30032" help="30085">
-					<level>0</level>
-					<default>enabled</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_allow_service_buttons" type="string" label="30036" help="30086">
+				<setting id="reicast_allow_service_buttons" type="string" label="30151" help="30152">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -156,9 +65,72 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_enable_naomi_15khz_dipswitch" type="string" label="30037" help="30087">
+				<setting id="reicast_force_freeplay" type="string" label="30153" help="30154">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_coin_limit" type="string" label="30155" help="30156">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option label="30157">0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+							<option>10</option>
+							<option>11</option>
+							<option>12</option>
+							<option>13</option>
+							<option>14</option>
+							<option>15</option>
+							<option>16</option>
+							<option>17</option>
+							<option>18</option>
+							<option>19</option>
+							<option>20</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_emulate_bba" type="string" label="30158" help="30159">
 					<level>0</level>
 					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_upnp" type="string" label="30160" help="30161">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_dcnet" type="string" label="30162" help="30163">
+					<level>0</level>
+					<default>enabled</default>
 					<constraints>
 						<options>
 							<option>disabled</option>
@@ -169,53 +141,66 @@
 				</setting>
 			</group>
 		</category>
-		<category id="video" label="30088" help="30089">
+		<category id="video" label="30088" help="30164">
 			<group id="1">
-				<setting id="reicast_oit_abuffer_size" type="string" label="30004" help="30090">
-					<level>0</level>
-					<default>512MB</default>
-					<constraints>
-						<options>
-							<option>512MB</option>
-							<option>1GB</option>
-							<option>2GB</option>
-							<option>4GB</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_internal_resolution" type="string" label="30005" help="30091">
+				<setting id="reicast_internal_resolution" type="string" label="30165" help="30091">
 					<level>0</level>
 					<default>640x480</default>
 					<constraints>
 						<options>
-							<option>320x240</option>
-							<option>640x480</option>
-							<option>800x600</option>
-							<option>960x720</option>
-							<option>1024x768</option>
-							<option>1280x960</option>
-							<option>1440x1080</option>
-							<option>1600x1200</option>
-							<option>1920x1440</option>
-							<option>2560x1920</option>
-							<option>2880x2160</option>
-							<option>3200x2400</option>
-							<option>3840x2880</option>
-							<option>4480x3360</option>
-							<option>5120x3840</option>
-							<option>5760x4320</option>
-							<option>6400x4800</option>
-							<option>7040x5280</option>
-							<option>7680x5760</option>
-							<option>8320x6240</option>
-							<option>8960x6720</option>
-							<option>9600x7200</option>
-							<option>10240x7680</option>
-							<option>10880x8160</option>
-							<option>11520x8640</option>
-							<option>12160x9120</option>
-							<option>12800x9600</option>
+							<option label="30166">320x240</option>
+							<option label="30167">640x480</option>
+							<option label="30168">800x600</option>
+							<option label="30169">960x720</option>
+							<option label="30170">1024x768</option>
+							<option label="30171">1280x960</option>
+							<option label="30172">1440x1080</option>
+							<option label="30173">1600x1200</option>
+							<option label="30174">1920x1440</option>
+							<option label="30175">2560x1920</option>
+							<option label="30176">2880x2160</option>
+							<option label="30177">3200x2400</option>
+							<option label="30178">3840x2880</option>
+							<option label="30179">4480x3360</option>
+							<option label="30180">5120x3840</option>
+							<option label="30181">5760x4320</option>
+							<option label="30182">6400x4800</option>
+							<option label="30183">7040x5280</option>
+							<option label="30184">7680x5760</option>
+							<option label="30185">8320x6240</option>
+							<option label="30186">8960x6720</option>
+							<option label="30187">9600x7200</option>
+							<option label="30188">10240x7680</option>
+							<option label="30189">10880x8160</option>
+							<option label="30190">11520x8640</option>
+							<option label="30191">12160x9120</option>
+							<option label="30192">12800x9600</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_cable_type" type="string" label="30014" help="30095">
+					<level>0</level>
+					<default>TV (Composite)</default>
+					<constraints>
+						<options>
+							<option>VGA</option>
+							<option>TV (RGB)</option>
+							<option>TV (Composite)</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_broadcast" type="string" label="30015">
+					<level>0</level>
+					<default>NTSC</default>
+					<constraints>
+						<options>
+							<option>NTSC</option>
+							<option label="30098">PAL</option>
+							<option label="30097">PAL_N</option>
+							<option label="30096">PAL_M</option>
+							<option>Default</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -231,13 +216,75 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_mipmapping" type="string" label="30009">
+				<setting id="reicast_alpha_sorting" type="string" label="30007" help="30193">
+					<level>0</level>
+					<default>per-triangle (normal)</default>
+					<constraints>
+						<options>
+							<option label="30077">per-strip (fast, least accurate)</option>
+							<option label="30078">per-triangle (normal)</option>
+							<option label="30079">per-pixel (accurate)</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_oit_abuffer_size" type="string" label="30194" help="30090">
+					<level>0</level>
+					<default>512MB</default>
+					<constraints>
+						<options>
+							<option>512MB</option>
+							<option>1GB</option>
+							<option>2GB</option>
+							<option>4GB</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_oit_layers" type="string" label="30195" help="30196">
+					<level>0</level>
+					<default>32</default>
+					<constraints>
+						<options>
+							<option>8</option>
+							<option>16</option>
+							<option>32</option>
+							<option>64</option>
+							<option>96</option>
+							<option>128</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_emulate_framebuffer" type="string" label="30197" help="30198">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_enable_rttb" type="string" label="30029" help="30199">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_mipmapping" type="string" label="30009" help="30200">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
 							<option>disabled</option>
+							<option>enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -247,8 +294,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
 							<option>disabled</option>
+							<option>enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -258,59 +305,56 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
 							<option>disabled</option>
+							<option>enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_cable_type" type="string" label="30014" help="30095">
-					<level>0</level>
-					<default>TV (Composite)</default>
-					<constraints>
-						<options>
-							<option>TV (RGB)</option>
-							<option>TV (Composite)</option>
-							<option>VGA (RGB)</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_broadcast" type="string" label="30015">
-					<level>0</level>
-					<default>Default</default>
-					<constraints>
-						<options>
-							<option>Default</option>
-							<option label="30096">PAL_M</option>
-							<option label="30097">PAL_N</option>
-							<option>NTSC</option>
-							<option label="30098">PAL</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_framerate" type="string" label="30016" help="30099">
-					<level>0</level>
-					<default>fullspeed</default>
-					<constraints>
-						<options>
-							<option label="30100">fullspeed</option>
-							<option label="30101">normal</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_anisotropic_filtering" type="string" label="30025" help="30102">
+				<setting id="reicast_anisotropic_filtering" type="string" label="30025" help="30201">
 					<level>0</level>
 					<default>4</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="30157">off</option>
 							<option>2</option>
 							<option>4</option>
 							<option>8</option>
 							<option>16</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_texture_filtering" type="string" label="30202" help="30203">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option label="30204">0</option>
+							<option label="30205">1</option>
+							<option label="30206">2</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_delay_frame_swapping" type="string" label="30033" help="30207">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_detect_vsync_swap_interval" type="string" label="30208" help="30209">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -328,18 +372,18 @@
 				</setting>
 				<setting id="reicast_texupscale" type="string" label="30027" help="30104">
 					<level>0</level>
-					<default>disabled</default>
+					<default>1</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>2x</option>
-							<option>4x</option>
-							<option>6x</option>
+							<option label="30157">1</option>
+							<option label="30210">2</option>
+							<option label="30211">4</option>
+							<option label="30212">6</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_texupscale_max_filtered_texture_size" type="string" label="30028">
+				<setting id="reicast_texupscale_max_filtered_texture_size" type="string" label="30028" help="30213">
 					<level>0</level>
 					<default>256</default>
 					<constraints>
@@ -351,7 +395,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_enable_rttb" type="string" label="30029">
+				<setting id="reicast_native_depth_interpolation" type="string" label="30214" help="30215">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -362,27 +406,40 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_render_to_texture_upscaling" type="string" label="30030">
+				<setting id="reicast_fix_upscale_bleeding_edge" type="string" label="30216" help="30217">
 					<level>0</level>
-					<default>1x</default>
+					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>1x</option>
-							<option>2x</option>
-							<option>3x</option>
-							<option>4x</option>
-							<option>8x</option>
+							<option>disabled</option>
+							<option>enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_delay_frame_swapping" type="string" label="30033" help="30105">
+			</group>
+		</category>
+		<category id="performance" label="30218" help="30219">
+			<group id="1">
+				<setting id="reicast_threaded_rendering" type="string" label="30220" help="30084">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_auto_skip_frame" type="string" label="30221" help="30222">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
 						<options>
 							<option>disabled</option>
-							<option>enabled</option>
+							<option label="30101">some</option>
+							<option label="30223">more</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -403,7 +460,11 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_custom_textures" type="string" label="30038">
+			</group>
+		</category>
+		<category id="hacks" label="30144" help="30224">
+			<group id="1">
+				<setting id="reicast_widescreen_cheats" type="string" label="30013" help="30146">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -414,7 +475,123 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_dump_textures" type="string" label="30039">
+				<setting id="reicast_widescreen_hack" type="string" label="30225" help="30226">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_gdrom_fast_loading" type="string" label="30008" help="30080">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_dc_32mb_mod" type="string" label="30227" help="30228">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_sh4clock" type="string" label="30229" help="30230">
+					<level>0</level>
+					<default>200</default>
+					<constraints>
+						<options>
+							<option label="30231">100</option>
+							<option label="30232">110</option>
+							<option label="30233">120</option>
+							<option label="30234">130</option>
+							<option label="30235">140</option>
+							<option label="30236">150</option>
+							<option label="30237">160</option>
+							<option label="30238">170</option>
+							<option label="30239">180</option>
+							<option label="30240">190</option>
+							<option label="30241">200</option>
+							<option label="30242">210</option>
+							<option label="30243">220</option>
+							<option label="30244">230</option>
+							<option label="30245">240</option>
+							<option label="30246">250</option>
+							<option label="30247">260</option>
+							<option label="30248">270</option>
+							<option label="30249">280</option>
+							<option label="30250">290</option>
+							<option label="30251">300</option>
+							<option label="30252">310</option>
+							<option label="30253">320</option>
+							<option label="30254">330</option>
+							<option label="30255">340</option>
+							<option label="30256">350</option>
+							<option label="30257">360</option>
+							<option label="30258">370</option>
+							<option label="30259">380</option>
+							<option label="30260">390</option>
+							<option label="30261">400</option>
+							<option label="30262">410</option>
+							<option label="30263">420</option>
+							<option label="30264">430</option>
+							<option label="30265">440</option>
+							<option label="30266">450</option>
+							<option label="30267">460</option>
+							<option label="30268">470</option>
+							<option label="30269">480</option>
+							<option label="30270">490</option>
+							<option label="30271">500</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_custom_textures" type="string" label="30038" help="30272">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_preload_custom_textures" type="string" label="30273" help="30274">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_dump_textures" type="string" label="30039" help="30275">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_dump_replaced_textures" type="string" label="30276" help="30277">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -427,9 +604,9 @@
 				</setting>
 			</group>
 		</category>
-		<category id="input" label="30107" help="30108">
+		<category id="input" label="30107" help="30278">
 			<group id="1">
-				<setting id="reicast_analog_stick_deadzone" type="string" label="30021">
+				<setting id="reicast_analog_stick_deadzone" type="string" label="30021" help="30279">
 					<level>0</level>
 					<default>15%</default>
 					<constraints>
@@ -445,7 +622,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_trigger_deadzone" type="string" label="30022">
+				<setting id="reicast_trigger_deadzone" type="string" label="30022" help="30280">
 					<level>0</level>
 					<default>0%</default>
 					<constraints>
@@ -461,7 +638,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_digital_triggers" type="string" label="30023">
+				<setting id="reicast_digital_triggers" type="string" label="30023" help="30281">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -472,9 +649,9 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_enable_purupuru" type="string" label="30035" help="30109">
+				<setting id="reicast_network_output" type="string" label="30282" help="30283">
 					<level>0</level>
-					<default>enabled</default>
+					<default>disabled</default>
 					<constraints>
 						<options>
 							<option>disabled</option>
@@ -483,13 +660,48 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_show_lightgun_settings" type="string" label="30066" help="30110">
+				<setting id="reicast_show_lightgun_settings" type="string" label="30066" help="30284">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
 						<options>
 							<option>enabled</option>
 							<option>disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_lightgun_crosshair_size_scaling" type="string" label="30285">
+					<level>0</level>
+					<default>100%</default>
+					<constraints>
+						<options>
+							<option>50%</option>
+							<option>60%</option>
+							<option>70%</option>
+							<option>80%</option>
+							<option>90%</option>
+							<option>100%</option>
+							<option>110%</option>
+							<option>120%</option>
+							<option>130%</option>
+							<option>140%</option>
+							<option>150%</option>
+							<option>160%</option>
+							<option>170%</option>
+							<option>180%</option>
+							<option>190%</option>
+							<option>200%</option>
+							<option>210%</option>
+							<option>220%</option>
+							<option>230%</option>
+							<option>240%</option>
+							<option>250%</option>
+							<option>260%</option>
+							<option>270%</option>
+							<option>280%</option>
+							<option>290%</option>
+							<option>300%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -552,9 +764,113 @@
 				</setting>
 			</group>
 		</category>
-		<category id="vmu" label="30111" help="30112">
+		<category id="expansions" label="30286" help="30287">
 			<group id="1">
-				<setting id="reicast_per_content_vmus" type="string" label="30040" help="30113">
+				<setting id="reicast_device_port1_slot1" type="string" label="30288" help="30289">
+					<level>0</level>
+					<default>VMU</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>DreamPotato</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_device_port1_slot2" type="string" label="30291" help="30292">
+					<level>0</level>
+					<default>Purupuru</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_device_port2_slot1" type="string" label="30293" help="30294">
+					<level>0</level>
+					<default>VMU</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>DreamPotato</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_device_port2_slot2" type="string" label="30295" help="30296">
+					<level>0</level>
+					<default>Purupuru</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_device_port3_slot1" type="string" label="30297" help="30298">
+					<level>0</level>
+					<default>VMU</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>DreamPotato</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_device_port3_slot2" type="string" label="30299" help="30300">
+					<level>0</level>
+					<default>Purupuru</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_device_port4_slot1" type="string" label="30301" help="30302">
+					<level>0</level>
+					<default>VMU</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>DreamPotato</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_device_port4_slot2" type="string" label="30303" help="30304">
+					<level>0</level>
+					<default>Purupuru</default>
+					<constraints>
+						<options>
+							<option>VMU</option>
+							<option label="30290">Purupuru</option>
+							<option>None</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+		<category id="vmu" label="30305" help="30306">
+			<group id="1">
+				<setting id="reicast_per_content_vmus" type="string" label="30040" help="30307">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -566,7 +882,29 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_show_vmu_screen_settings" type="string" label="30041" help="30114">
+				<setting id="reicast_vmu_sound" type="string" label="30308" help="30309">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_linked_vmu_storage" type="string" label="30310" help="30311">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="reicast_show_vmu_screen_settings" type="string" label="30041" help="30312">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -723,7 +1061,7 @@
 				</setting>
 				<setting id="reicast_vmu2_screen_position" type="string" label="30049">
 					<level>0</level>
-					<default>Upper Left</default>
+					<default>Upper Right</default>
 					<constraints>
 						<options>
 							<option>Upper Left</option>
@@ -856,7 +1194,7 @@
 				</setting>
 				<setting id="reicast_vmu3_screen_position" type="string" label="30055">
 					<level>0</level>
-					<default>Upper Left</default>
+					<default>Lower Left</default>
 					<constraints>
 						<options>
 							<option>Upper Left</option>
@@ -989,7 +1327,7 @@
 				</setting>
 				<setting id="reicast_vmu4_screen_position" type="string" label="30061">
 					<level>0</level>
-					<default>Upper Left</default>
+					<default>Lower Right</default>
 					<constraints>
 						<options>
 							<option>Upper Left</option>
@@ -1105,32 +1443,6 @@
 							<option>80%</option>
 							<option>90%</option>
 							<option>100%</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-			</group>
-		</category>
-		<category id="hacks" label="30144" help="30145">
-			<group id="1">
-				<setting id="reicast_widescreen_hack" type="string" label="30012">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="reicast_widescreen_cheats" type="string" label="30013" help="30146">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option>disabled</option>
-							<option>enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />

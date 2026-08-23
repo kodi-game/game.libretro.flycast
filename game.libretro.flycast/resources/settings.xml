@@ -8,10 +8,10 @@
 					<default>USA</default>
 					<constraints>
 						<options>
-							<option>Japan</option>
-							<option>USA</option>
-							<option>Europe</option>
-							<option>Default</option>
+							<option label="30313">Japan</option>
+							<option label="30314">USA</option>
+							<option label="30315">Europe</option>
+							<option label="571">Default</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -21,13 +21,13 @@
 					<default>English</default>
 					<constraints>
 						<options>
-							<option>Japanese</option>
-							<option>English</option>
-							<option>German</option>
-							<option>French</option>
-							<option>Spanish</option>
-							<option>Italian</option>
-							<option>Default</option>
+							<option label="30316">Japanese</option>
+							<option label="30317">English</option>
+							<option label="30318">German</option>
+							<option label="30319">French</option>
+							<option label="30320">Spanish</option>
+							<option label="30321">Italian</option>
+							<option label="571">Default</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -37,8 +37,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -48,8 +48,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -59,8 +59,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -70,8 +70,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -82,26 +82,26 @@
 					<constraints>
 						<options>
 							<option label="30157">0</option>
-							<option>1</option>
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-							<option>5</option>
-							<option>6</option>
-							<option>7</option>
-							<option>8</option>
-							<option>9</option>
-							<option>10</option>
-							<option>11</option>
-							<option>12</option>
-							<option>13</option>
-							<option>14</option>
-							<option>15</option>
-							<option>16</option>
-							<option>17</option>
-							<option>18</option>
-							<option>19</option>
-							<option>20</option>
+							<option label="30322">1</option>
+							<option label="30323">2</option>
+							<option label="30324">3</option>
+							<option label="30325">4</option>
+							<option label="30326">5</option>
+							<option label="30327">6</option>
+							<option label="30328">7</option>
+							<option label="30329">8</option>
+							<option label="30330">9</option>
+							<option label="30331">10</option>
+							<option label="30332">11</option>
+							<option label="30333">12</option>
+							<option label="30334">13</option>
+							<option label="30335">14</option>
+							<option label="30336">15</option>
+							<option label="30337">16</option>
+							<option label="30338">17</option>
+							<option label="30339">18</option>
+							<option label="30340">19</option>
+							<option label="30341">20</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -111,8 +111,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -122,8 +122,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -133,8 +133,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -196,11 +196,11 @@
 					<default>NTSC</default>
 					<constraints>
 						<options>
-							<option>NTSC</option>
+							<option label="30342">NTSC</option>
 							<option label="30098">PAL</option>
 							<option label="30097">PAL_N</option>
 							<option label="30096">PAL_M</option>
-							<option>Default</option>
+							<option label="571">Default</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -261,8 +261,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -272,8 +272,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -283,8 +283,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -294,8 +294,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -305,8 +305,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -317,10 +317,10 @@
 					<constraints>
 						<options>
 							<option label="30157">off</option>
-							<option>2</option>
-							<option>4</option>
-							<option>8</option>
-							<option>16</option>
+							<option label="30323">2</option>
+							<option label="30325">4</option>
+							<option label="30329">8</option>
+							<option label="30337">16</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -342,8 +342,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -353,8 +353,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -364,8 +364,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -400,8 +400,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -411,8 +411,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -426,8 +426,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -437,7 +437,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30101">some</option>
 							<option label="30223">more</option>
 						</options>
@@ -449,13 +449,13 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>1</option>
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-							<option>5</option>
-							<option>6</option>
+							<option label="13106">disabled</option>
+							<option label="30322">1</option>
+							<option label="30323">2</option>
+							<option label="30324">3</option>
+							<option label="30325">4</option>
+							<option label="30326">5</option>
+							<option label="30327">6</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -469,8 +469,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -480,8 +480,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -491,8 +491,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -502,8 +502,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -563,8 +563,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -574,8 +574,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -585,8 +585,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -596,8 +596,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -643,8 +643,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -654,8 +654,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -665,8 +665,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -711,11 +711,11 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>White</option>
-							<option>Red</option>
-							<option>Green</option>
-							<option>Blue</option>
+							<option label="13106">disabled</option>
+							<option label="30143">White</option>
+							<option label="30126">Red</option>
+							<option label="30120">Green</option>
+							<option label="30118">Blue</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -725,11 +725,11 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>White</option>
-							<option>Red</option>
-							<option>Green</option>
-							<option>Blue</option>
+							<option label="13106">disabled</option>
+							<option label="30143">White</option>
+							<option label="30126">Red</option>
+							<option label="30120">Green</option>
+							<option label="30118">Blue</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -739,11 +739,11 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>White</option>
-							<option>Red</option>
-							<option>Green</option>
-							<option>Blue</option>
+							<option label="13106">disabled</option>
+							<option label="30143">White</option>
+							<option label="30126">Red</option>
+							<option label="30120">Green</option>
+							<option label="30118">Blue</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -753,11 +753,11 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>White</option>
-							<option>Red</option>
-							<option>Green</option>
-							<option>Blue</option>
+							<option label="13106">disabled</option>
+							<option label="30143">White</option>
+							<option label="30126">Red</option>
+							<option label="30120">Green</option>
+							<option label="30118">Blue</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -771,10 +771,10 @@
 					<default>VMU</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>DreamPotato</option>
-							<option>None</option>
+							<option label="30344">DreamPotato</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -784,9 +784,9 @@
 					<default>Purupuru</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>None</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -796,10 +796,10 @@
 					<default>VMU</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>DreamPotato</option>
-							<option>None</option>
+							<option label="30344">DreamPotato</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -809,9 +809,9 @@
 					<default>Purupuru</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>None</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -821,10 +821,10 @@
 					<default>VMU</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>DreamPotato</option>
-							<option>None</option>
+							<option label="30344">DreamPotato</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -834,9 +834,9 @@
 					<default>Purupuru</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>None</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -846,10 +846,10 @@
 					<default>VMU</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>DreamPotato</option>
-							<option>None</option>
+							<option label="30344">DreamPotato</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -859,9 +859,9 @@
 					<default>Purupuru</default>
 					<constraints>
 						<options>
-							<option>VMU</option>
+							<option label="30343">VMU</option>
 							<option label="30290">Purupuru</option>
-							<option>None</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -875,9 +875,9 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>VMU A1</option>
-							<option>All VMUs</option>
+							<option label="13106">disabled</option>
+							<option label="30345">VMU A1</option>
+							<option label="30346">All VMUs</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -887,8 +887,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -898,8 +898,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -909,8 +909,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -920,8 +920,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1053,8 +1053,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1186,8 +1186,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1319,8 +1319,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />

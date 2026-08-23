@@ -1273,3 +1273,139 @@ msgstr ""
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
 msgstr ""
+
+msgctxt "#30313"
+msgid "Japan"
+msgstr ""
+
+msgctxt "#30314"
+msgid "USA"
+msgstr ""
+
+msgctxt "#30315"
+msgid "Europe"
+msgstr ""
+
+msgctxt "#30316"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "#30317"
+msgid "English"
+msgstr ""
+
+msgctxt "#30318"
+msgid "German"
+msgstr ""
+
+msgctxt "#30319"
+msgid "French"
+msgstr ""
+
+msgctxt "#30320"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#30321"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#30322"
+msgid "1"
+msgstr ""
+
+msgctxt "#30323"
+msgid "2"
+msgstr ""
+
+msgctxt "#30324"
+msgid "3"
+msgstr ""
+
+msgctxt "#30325"
+msgid "4"
+msgstr ""
+
+msgctxt "#30326"
+msgid "5"
+msgstr ""
+
+msgctxt "#30327"
+msgid "6"
+msgstr ""
+
+msgctxt "#30328"
+msgid "7"
+msgstr ""
+
+msgctxt "#30329"
+msgid "8"
+msgstr ""
+
+msgctxt "#30330"
+msgid "9"
+msgstr ""
+
+msgctxt "#30331"
+msgid "10"
+msgstr ""
+
+msgctxt "#30332"
+msgid "11"
+msgstr ""
+
+msgctxt "#30333"
+msgid "12"
+msgstr ""
+
+msgctxt "#30334"
+msgid "13"
+msgstr ""
+
+msgctxt "#30335"
+msgid "14"
+msgstr ""
+
+msgctxt "#30336"
+msgid "15"
+msgstr ""
+
+msgctxt "#30337"
+msgid "16"
+msgstr ""
+
+msgctxt "#30338"
+msgid "17"
+msgstr ""
+
+msgctxt "#30339"
+msgid "18"
+msgstr ""
+
+msgctxt "#30340"
+msgid "19"
+msgstr ""
+
+msgctxt "#30341"
+msgid "20"
+msgstr ""
+
+msgctxt "#30342"
+msgid "NTSC"
+msgstr ""
+
+msgctxt "#30343"
+msgid "VMU"
+msgstr ""
+
+msgctxt "#30344"
+msgid "DreamPotato"
+msgstr ""
+
+msgctxt "#30345"
+msgid "VMU A1"
+msgstr ""
+
+msgctxt "#30346"
+msgid "All VMUs"
+msgstr ""

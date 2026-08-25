@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-flycast (>= 7.0.0) | flycast (>= 7.0.0)
+               libretro-flycast (>= 0.0.1) | flycast (>= 0.0.1)
 Standards-Version: 3.9.8
 Section: libs
 

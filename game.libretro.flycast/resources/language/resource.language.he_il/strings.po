@@ -1267,3 +1267,155 @@ msgstr ""
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Boot to BIOS (Restart Required)"
+#~ msgstr ""
+
+#~ msgctxt "#30002"
+#~ msgid "System Type (Restart Required)"
+#~ msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "HLE BIOS"
+#~ msgstr ""
+
+#~ msgctxt "#30004"
+#~ msgid "Accumulation Pixel Buffer Size (Restart Required)"
+#~ msgstr ""
+
+#~ msgctxt "#30005"
+#~ msgid "Internal Resolution (Restart Required)"
+#~ msgstr ""
+
+#~ msgctxt "#30012"
+#~ msgid "Widescreen Hack (Restart Required)"
+#~ msgstr ""
+
+#~ msgctxt "#30016"
+#~ msgid "Framerate"
+#~ msgstr ""
+
+#~ msgctxt "#30019"
+#~ msgid "DIV Matching"
+#~ msgstr ""
+
+#~ msgctxt "#30020"
+#~ msgid "Force Windows CE Mode"
+#~ msgstr ""
+
+#~ msgctxt "#30030"
+#~ msgid "Render To Texture Upscaling"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "Threaded Rendering (Restart Required)"
+#~ msgstr ""
+
+#~ msgctxt "#30032"
+#~ msgid "Synchronous Rendering"
+#~ msgstr ""
+
+#~ msgctxt "#30035"
+#~ msgid "Purupuru Pack/Vibration Pack"
+#~ msgstr ""
+
+#~ msgctxt "#30036"
+#~ msgid "Allow NAOMI Service Buttons"
+#~ msgstr ""
+
+#~ msgctxt "#30037"
+#~ msgid "Enable NAOMI 15KHz DIP switch"
+#~ msgstr ""
+
+#~ msgctxt "#30071"
+#~ msgid "Boot directly into the Dreamcast BIOS menu."
+#~ msgstr ""
+
+#~ msgctxt "#30072"
+#~ msgid "Auto"
+#~ msgstr ""
+
+#~ msgctxt "#30073"
+#~ msgid "Dreamcast"
+#~ msgstr ""
+
+#~ msgctxt "#30074"
+#~ msgid "NAOMI"
+#~ msgstr ""
+
+#~ msgctxt "#30075"
+#~ msgid "Atomiswave"
+#~ msgstr ""
+
+#~ msgctxt "#30081"
+#~ msgid "Optimize integer division"
+#~ msgstr ""
+
+#~ msgctxt "#30082"
+#~ msgid "Enable full MMU (Memory Management Unit) emulation and other settings for Windows CE games."
+#~ msgstr ""
+
+#~ msgctxt "#30085"
+#~ msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
+#~ msgstr ""
+
+#~ msgctxt "#30086"
+#~ msgid "Enables SERVICE button for NAOMI, to enter cabinet settings."
+#~ msgstr ""
+
+#~ msgctxt "#30087"
+#~ msgid "This can force display in 240p, 480i or have no effect at all depending on the game."
+#~ msgstr ""
+
+#~ msgctxt "#30089"
+#~ msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
+#~ msgstr ""
+
+#~ msgctxt "#30099"
+#~ msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
+#~ msgstr ""
+
+#~ msgctxt "#30100"
+#~ msgid "Full Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30102"
+#~ msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
+#~ msgstr ""
+
+#~ msgctxt "#30105"
+#~ msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
+#~ msgstr ""
+
+#~ msgctxt "#30108"
+#~ msgid "Configure controller & light gun settings."
+#~ msgstr ""
+
+#~ msgctxt "#30109"
+#~ msgid "Enables controller force feedback."
+#~ msgstr ""
+
+#~ msgctxt "#30110"
+#~ msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu must be toggled for this setting to take effect."
+#~ msgstr ""
+
+#~ msgctxt "#30111"
+#~ msgid "Visual Memory"
+#~ msgstr ""
+
+#~ msgctxt "#30112"
+#~ msgid "Configure settings related to the Visual Memory Units/Systems (VMU)."
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "When disabled, all games share 4 VMU save files (A1, B1, C1, D1) located in RetroArch's system directory. The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save directory for each game that is launched. The 'All VMUs' setting creates 4 unique VMU files (A1, B1, C1, D1) for each game that is launched."
+#~ msgstr ""
+
+#~ msgctxt "#30114"
+#~ msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu must be toggled for this setting to take effect."
+#~ msgstr ""
+
+#~ msgctxt "#30145"
+#~ msgid "Configure different emulation hacks."
+#~ msgstr ""

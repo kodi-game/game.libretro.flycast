@@ -1,0 +1,25 @@
+From 7ed529439994fad14975c861513c03c414f383be Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Mon, 21 Sep 2026 07:53:09 -0700
+Subject: [PATCH] Set version to 0.1.0
+
+---
+ shell/libretro/libretro.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/shell/libretro/libretro.cpp b/shell/libretro/libretro.cpp
+index a4444c9a6..4530b6da2 100644
+--- a/shell/libretro/libretro.cpp
++++ b/shell/libretro/libretro.cpp
+@@ -2561,7 +2561,7 @@ void retro_get_system_info(struct retro_system_info *info)
+ #ifndef GIT_VERSION
+ #define GIT_VERSION "undefined"
+ #endif
+-   info->library_version = GIT_VERSION;
++   info->library_version = "0.1.0";
+    info->valid_extensions = "chd|cdi|elf|cue|gdi|lst|bin|dat|zip|7z|m3u";
+    info->need_fullpath = true;
+    info->block_extract = true;
+-- 
+2.50.1 (Apple Git-155)
+

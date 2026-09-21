@@ -1,7 +1,7 @@
 From b0c1f2ea556044028a1e6cd3fa6d04497c70cb1e Mon Sep 17 00:00:00 2001
 From: Garrett Brown <themagnificentmrb@gmail.com>
 Date: Mon, 21 Sep 2026 08:15:14 -0700
-Subject: [PATCH 2/3] Fix Android API 21 interface enumeration build
+Subject: [PATCH 2/4] Fix Android API 21 interface enumeration build
 
 NDK r21e does not declare getifaddrs or freeifaddrs below API 24, so
 runtime availability checks still fail to compile when targeting API 21.

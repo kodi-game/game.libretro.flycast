@@ -1,0 +1,43 @@
+From a048c3fecb935437fe4deed033ac5d68d097521b Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Mon, 21 Sep 2026 09:54:33 -0700
+Subject: [PATCH 4/4] libretro: define the unique texture dumping option
+
+Add the missing dump_unique_textures core-option definition beside the
+existing texture-dump options. This prevents findDefinition() from
+returning null when the frontend supplies a value for this option.
+
+Default to disabled to match the implicit false config default, and use
+the existing setting description for skipping video and animated textures.
+---
+ shell/libretro/libretro_core_options.h | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+diff --git a/shell/libretro/libretro_core_options.h b/shell/libretro/libretro_core_options.h
+index 8c58e74d7..2cb2cb222 100644
+--- a/shell/libretro/libretro_core_options.h
++++ b/shell/libretro/libretro_core_options.h
+@@ -837,6 +837,20 @@ struct retro_core_option_v2_definition option_defs_us[] = {
+       },
+       "disabled",
+    },
++   {
++      CORE_OPTION_NAME "_dump_unique_textures",
++      "Discard Video and Animated Textures",
++      NULL,
++      "Skip dumping video (YUV) and already updated textures.",
++      NULL,
++      "hacks",
++      {
++         { "disabled", NULL },
++         { "enabled",  NULL },
++         { NULL, NULL },
++      },
++      "disabled",
++   },
+    {
+       CORE_OPTION_NAME "_dump_replaced_textures",
+       "Dump Replaced Textures",
+-- 
+2.50.1 (Apple Git-155)
+

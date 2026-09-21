@@ -1413,6 +1413,14 @@ msgctxt "#30346"
 msgid "All VMUs"
 msgstr ""
 
+msgctxt "#30347"
+msgid "Discard Video and Animated Textures"
+msgstr ""
+
+msgctxt "#30348"
+msgid "Skip dumping video (YUV) and already updated textures."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Instellingen"

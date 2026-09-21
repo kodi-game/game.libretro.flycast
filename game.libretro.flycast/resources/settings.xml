@@ -591,6 +591,17 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
+				<setting id="reicast_dump_unique_textures" type="string" label="30347" help="30348">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 				<setting id="reicast_dump_replaced_textures" type="string" label="30276" help="30277">
 					<level>0</level>
 					<default>disabled</default>

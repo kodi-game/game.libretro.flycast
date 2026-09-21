@@ -1,0 +1,49 @@
+From b0c1f2ea556044028a1e6cd3fa6d04497c70cb1e Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Mon, 21 Sep 2026 08:15:14 -0700
+Subject: [PATCH 2/2] Fix Android API 21 interface enumeration build
+
+NDK r21e does not declare getifaddrs or freeifaddrs below API 24, so
+runtime availability checks still fail to compile when targeting API 21.
+
+Select the existing Android fallback at compile time below API 24 and
+retain native calls for API 24 and newer.
+
+Validated with NDK r21e for ARMv7 and AArch64 at API 21 and 24, including
+wrapper compilation and linking, symbol checks, and dns.cpp compilation.
+---
+ core/network/net_platform.h | 10 ++++++----
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+
+diff --git a/core/network/net_platform.h b/core/network/net_platform.h
+index bf4fd410e..7aea573ca 100644
+--- a/core/network/net_platform.h
++++ b/core/network/net_platform.h
+@@ -157,18 +157,20 @@ void android_freeifaddrs(struct ifaddrs *ifa);
+ 
+ static inline int my_getifaddrs(struct ifaddrs **ifap)
+ {
+-	if (__builtin_available(android 24, *))
++#if __ANDROID_API__ >= 24
+ 		return ::getifaddrs(ifap);
+-	else
++#else
+ 		return ::android_getifaddrs(ifap);
++#endif
+ }
+ 
+ static inline void my_freeifaddrs(struct ifaddrs *ifa)
+ {
+-	if (__builtin_available(android 24, *))
++#if __ANDROID_API__ >= 24
+ 		::freeifaddrs(ifa);
+-	else
++#else
+ 		::android_freeifaddrs(ifa);
++#endif
+ }
+ 
+ }
+-- 
+2.50.1 (Apple Git-155)
+

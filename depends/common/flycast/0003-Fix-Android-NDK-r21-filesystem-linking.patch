@@ -1,0 +1,100 @@
+From 078ca952bb9841a726c3dbe677b8e83a25514051 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Mon, 21 Sep 2026 08:47:38 -0700
+Subject: [PATCH 3/3] Fix Android NDK r21 filesystem linking
+
+NDK r21 exposes std::filesystem declarations without the implementation
+needed by tinygettext directory iteration and glslang diagnostic paths.
+
+Use POSIX directory enumeration and retain supplied diagnostic filenames
+on Android before NDK r22, or when the NDK version is unknown. Preserve
+existing behavior on non-Android platforms and NDK r22 or newer.
+
+Validated full API 21 libretro builds with NDK r21e for AArch64 and ARMv7
+in ARM mode, plus NDK r29 for AArch64. No unresolved filesystem symbols
+remain. Enumeration and diagnostic checks pass on macOS and an Android
+API 35 emulator. git diff --check passes.
+---
+ core/deps/glslang/glslang/Include/InfoSink.h   | 11 +++++++++++
+ core/deps/tinygettext/src/unix_file_system.cpp | 18 ++++++++++++++++++
+ 2 files changed, 29 insertions(+)
+
+diff --git a/core/deps/glslang/glslang/Include/InfoSink.h b/core/deps/glslang/glslang/Include/InfoSink.h
+index 262933941..0babe6f68 100644
+--- a/core/deps/glslang/glslang/Include/InfoSink.h
++++ b/core/deps/glslang/glslang/Include/InfoSink.h
+@@ -36,7 +36,9 @@
+ #define _INFOSINK_INCLUDED_
+ 
+ #include "../Include/Common.h"
++#if !defined(__ANDROID__) || (defined(__NDK_MAJOR__) && __NDK_MAJOR__ >= 22)
+ #include <filesystem>
++#endif
+ #include <cmath>
+ 
+ namespace glslang {
+@@ -105,11 +107,20 @@ public:
+         }
+ 
+         if(loc.getFilename() == nullptr && shaderFileName != nullptr && absolute) {
++        #if defined(__ANDROID__) && (!defined(__NDK_MAJOR__) || __NDK_MAJOR__ < 22)
++            // Android NDKs before r22 lack std::filesystem support.
++            append(shaderFileName);
++        #else
+             append(std::filesystem::absolute(shaderFileName).string());
++        #endif
+         } else {
+             std::string location = loc.getStringNameOrNum(false);
+             if (absolute) {
++        #if defined(__ANDROID__) && (!defined(__NDK_MAJOR__) || __NDK_MAJOR__ < 22)
++                append(location);
++        #else
+                 append(std::filesystem::absolute(location).string());
++        #endif
+             } else {
+                 append(location);
+             }
+diff --git a/core/deps/tinygettext/src/unix_file_system.cpp b/core/deps/tinygettext/src/unix_file_system.cpp
+index ad3b24966..3c7246506 100644
+--- a/core/deps/tinygettext/src/unix_file_system.cpp
++++ b/core/deps/tinygettext/src/unix_file_system.cpp
+@@ -19,7 +19,9 @@
+ 
+ #include "tinygettext/unix_file_system.hpp"
+ 
++#if !defined(__ANDROID__) || (defined(__NDK_MAJOR__) && __NDK_MAJOR__ >= 22)
+ #include <filesystem>
++#endif
+ #include <fstream>
+ 
+ #ifdef WIN32
+@@ -40,10 +42,26 @@ std::vector<std::string>
+ UnixFileSystem::open_directory(const std::string& pathname)
+ {
+   std::vector<std::string> files;
++#if defined(__ANDROID__) && (!defined(__NDK_MAJOR__) || __NDK_MAJOR__ < 22)
++  // Android NDKs before r22 lack std::filesystem support.
++  DIR* dir = opendir(pathname.c_str());
++  if (dir)
++  {
++    struct dirent* dp;
++    while((dp = readdir(dir)) != nullptr)
++    {
++      std::string filename = dp->d_name;
++      if (filename != "." && filename != "..")
++        files.push_back(filename);
++    }
++    closedir(dir);
++  }
++#else
+   for(auto const& p : std::filesystem::directory_iterator(pathname))
+   {
+     files.push_back(p.path().filename().string());
+   }
++#endif
+   return files;
+ }
+ 
+-- 
+2.50.1 (Apple Git-155)
+

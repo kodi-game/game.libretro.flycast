@@ -245,26 +245,6 @@ msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
 msgstr "Дисплей прицела пистолета 4"
 
-msgctxt "#30071"
-msgid "Boot directly into the Dreamcast BIOS menu."
-msgstr "Загружаться напрямую в меню BIOS Dreamcast."
-
-msgctxt "#30072"
-msgid "Auto"
-msgstr "Авто"
-
-msgctxt "#30073"
-msgid "Dreamcast"
-msgstr "Dreamcast"
-
-msgctxt "#30074"
-msgid "NAOMI"
-msgstr "NAOMI"
-
-msgctxt "#30075"
-msgid "Atomiswave"
-msgstr "Atomiswave"
-
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
 msgstr "Принудительно использовать BIOS эмуляции высокого уровня."
@@ -285,14 +265,6 @@ msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
 msgstr "Ускоряет загрузку GD-ROM."
 
-msgctxt "#30081"
-msgid "Optimize integer division"
-msgstr "Оптимизировать целочисленное деление"
-
-msgctxt "#30082"
-msgid "Enable full MMU (Memory Management Unit) emulation and other settings for Windows CE games."
-msgstr "Включить полную эмуляцию MMU (блока управления памятью) и другие настройки для игр Windows CE."
-
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
 msgstr "Включить эмуляцию аудио-DSP (цифрового сигнального процессора) Dreamcast. Повышает точность генерируемого звука, но увеличивает требования к производительности."
@@ -301,25 +273,9 @@ msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
 msgstr "Запускает ГП и ЦП в разных потоках. Настоятельно рекомендуется."
 
-msgctxt "#30085"
-msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr "Ожидает завершения отрисовки предыдущего кадра ГП вместо пропуска текущего. Примечание: этот параметр применяется только при включённой «Многопоточной отрисовке»."
-
-msgctxt "#30086"
-msgid "Enables SERVICE button for NAOMI, to enter cabinet settings."
-msgstr "Включает кнопку SERVICE для NAOMI для входа в настройки автомата."
-
-msgctxt "#30087"
-msgid "This can force display in 240p, 480i or have no effect at all depending on the game."
-msgstr "В зависимости от игры это может принудительно включить вывод в 240p, 480i или не оказать никакого эффекта."
-
 msgctxt "#30088"
 msgid "Video"
 msgstr "Видео"
-
-msgctxt "#30089"
-msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
-msgstr "Настройка визуальных буферов и эффектов, параметров отображения, частоты кадров/пропуска кадров и параметров отрисовки/текстур."
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
@@ -357,21 +313,9 @@ msgctxt "#30098"
 msgid "PAL (World)"
 msgstr "PAL (мир)"
 
-msgctxt "#30099"
-msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
-msgstr "Влияет на взаимодействие эмулятора с интерфейсом. «Полная скорость» — эмулятор возвращает управление RetroArch каждый раз после отрисовки кадра. «Обычный» — эмулятор возвращает управление RetroArch каждый раз при генерации прерывания V-blank. В большинстве случаев следует использовать «Полную скорость». «Обычный» может улучшить плавность кадров в некоторых системах, но может вызывать неотзывчивый ввод, когда экран статичен (например, экраны загрузки/паузы). Примечание: этот параметр применяется только при отключённой «Многопоточной отрисовке»."
-
-msgctxt "#30100"
-msgid "Full Speed"
-msgstr "Полная скорость"
-
 msgctxt "#30101"
 msgid "Normal"
 msgstr "Обычный"
-
-msgctxt "#30102"
-msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
-msgstr "Повышает качество текстур на поверхностях, находящихся под косыми углами обзора относительно камеры."
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
@@ -381,10 +325,6 @@ msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
 msgstr "Улучшает нарисованную вручную 2D-пиксельную графику. Следует использовать только с 2D-пиксельными играми."
 
-msgctxt "#30105"
-msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr "Полезно для избежания мерцания экрана или глючного видео. Не рекомендуется на медленных платформах. Примечание: этот параметр применяется только при включённой «Многопоточной отрисовке»."
-
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
 msgstr "Задаёт число кадров, пропускаемых между каждым отображаемым кадром."
@@ -392,34 +332,6 @@ msgstr "Задаёт число кадров, пропускаемых межд�
 msgctxt "#30107"
 msgid "Input"
 msgstr "Ввод"
-
-msgctxt "#30108"
-msgid "Configure controller & light gun settings."
-msgstr "Настройка контроллера и светового пистолета."
-
-msgctxt "#30109"
-msgid "Enables controller force feedback."
-msgstr "Включает силовую обратную связь контроллера."
-
-msgctxt "#30110"
-msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu must be toggled for this setting to take effect."
-msgstr "Включить настройку параметров отображения прицела светового пистолета. ПРИМЕЧАНИЕ: для вступления в силу этой настройки нужно переключить быстрое меню."
-
-msgctxt "#30111"
-msgid "Visual Memory"
-msgstr "Визуальная память"
-
-msgctxt "#30112"
-msgid "Configure settings related to the Visual Memory Units/Systems (VMU)."
-msgstr "Настройка параметров, связанных с блоками/системами визуальной памяти (VMU)."
-
-msgctxt "#30113"
-msgid "When disabled, all games share 4 VMU save files (A1, B1, C1, D1) located in RetroArch's system directory. The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save directory for each game that is launched. The 'All VMUs' setting creates 4 unique VMU files (A1, B1, C1, D1) for each game that is launched."
-msgstr "Когда отключено, все игры используют общие 4 файла сохранений VMU (A1, B1, C1, D1), расположенные в системном каталоге RetroArch. Параметр «VMU A1» создаёт уникальный файл VMU «A1» в каталоге сохранений RetroArch для каждой запущенной игры. Параметр «Все VMU» создаёт 4 уникальных файла VMU (A1, B1, C1, D1) для каждой запущенной игры."
-
-msgctxt "#30114"
-msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu must be toggled for this setting to take effect."
-msgstr "Включить настройку видимости, размера, положения и цвета эмулируемого ЖК-экрана VMU. ПРИМЕЧАНИЕ: для вступления в силу этой настройки нужно переключить быстрое меню."
 
 msgctxt "#30115"
 msgid "Default ON"
@@ -540,10 +452,6 @@ msgstr "Белый"
 msgctxt "#30144"
 msgid "Emulation Hacks"
 msgstr "Хаки эмуляции"
-
-msgctxt "#30145"
-msgid "Configure different emulation hacks."
-msgstr "Настройка различных хаков эмуляции."
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
@@ -1355,6 +1263,14 @@ msgctxt "#30346"
 msgid "All VMUs"
 msgstr "Все VMU"
 
+msgctxt "#30347"
+msgid "Discard Video and Animated Textures"
+msgstr ""
+
+msgctxt "#30348"
+msgid "Skip dumping video (YUV) and already updated textures."
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"
 #~ msgstr "Загружаться в BIOS (требуется перезапуск)"
@@ -1414,6 +1330,98 @@ msgstr "Все VMU"
 #~ msgctxt "#30037"
 #~ msgid "Enable NAOMI 15KHz DIP switch"
 #~ msgstr "Включить DIP-переключатель 15 кГц NAOMI"
+
+#~ msgctxt "#30071"
+#~ msgid "Boot directly into the Dreamcast BIOS menu."
+#~ msgstr "Загружаться напрямую в меню BIOS Dreamcast."
+
+#~ msgctxt "#30072"
+#~ msgid "Auto"
+#~ msgstr "Авто"
+
+#~ msgctxt "#30073"
+#~ msgid "Dreamcast"
+#~ msgstr "Dreamcast"
+
+#~ msgctxt "#30074"
+#~ msgid "NAOMI"
+#~ msgstr "NAOMI"
+
+#~ msgctxt "#30075"
+#~ msgid "Atomiswave"
+#~ msgstr "Atomiswave"
+
+#~ msgctxt "#30081"
+#~ msgid "Optimize integer division"
+#~ msgstr "Оптимизировать целочисленное деление"
+
+#~ msgctxt "#30082"
+#~ msgid "Enable full MMU (Memory Management Unit) emulation and other settings for Windows CE games."
+#~ msgstr "Включить полную эмуляцию MMU (блока управления памятью) и другие настройки для игр Windows CE."
+
+#~ msgctxt "#30085"
+#~ msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
+#~ msgstr "Ожидает завершения отрисовки предыдущего кадра ГП вместо пропуска текущего. Примечание: этот параметр применяется только при включённой «Многопоточной отрисовке»."
+
+#~ msgctxt "#30086"
+#~ msgid "Enables SERVICE button for NAOMI, to enter cabinet settings."
+#~ msgstr "Включает кнопку SERVICE для NAOMI для входа в настройки автомата."
+
+#~ msgctxt "#30087"
+#~ msgid "This can force display in 240p, 480i or have no effect at all depending on the game."
+#~ msgstr "В зависимости от игры это может принудительно включить вывод в 240p, 480i или не оказать никакого эффекта."
+
+#~ msgctxt "#30089"
+#~ msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
+#~ msgstr "Настройка визуальных буферов и эффектов, параметров отображения, частоты кадров/пропуска кадров и параметров отрисовки/текстур."
+
+#~ msgctxt "#30099"
+#~ msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
+#~ msgstr "Влияет на взаимодействие эмулятора с интерфейсом. «Полная скорость» — эмулятор возвращает управление RetroArch каждый раз после отрисовки кадра. «Обычный» — эмулятор возвращает управление RetroArch каждый раз при генерации прерывания V-blank. В большинстве случаев следует использовать «Полную скорость». «Обычный» может улучшить плавность кадров в некоторых системах, но может вызывать неотзывчивый ввод, когда экран статичен (например, экраны загрузки/паузы). Примечание: этот параметр применяется только при отключённой «Многопоточной отрисовке»."
+
+#~ msgctxt "#30100"
+#~ msgid "Full Speed"
+#~ msgstr "Полная скорость"
+
+#~ msgctxt "#30102"
+#~ msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
+#~ msgstr "Повышает качество текстур на поверхностях, находящихся под косыми углами обзора относительно камеры."
+
+#~ msgctxt "#30105"
+#~ msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
+#~ msgstr "Полезно для избежания мерцания экрана или глючного видео. Не рекомендуется на медленных платформах. Примечание: этот параметр применяется только при включённой «Многопоточной отрисовке»."
+
+#~ msgctxt "#30108"
+#~ msgid "Configure controller & light gun settings."
+#~ msgstr "Настройка контроллера и светового пистолета."
+
+#~ msgctxt "#30109"
+#~ msgid "Enables controller force feedback."
+#~ msgstr "Включает силовую обратную связь контроллера."
+
+#~ msgctxt "#30110"
+#~ msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu must be toggled for this setting to take effect."
+#~ msgstr "Включить настройку параметров отображения прицела светового пистолета. ПРИМЕЧАНИЕ: для вступления в силу этой настройки нужно переключить быстрое меню."
+
+#~ msgctxt "#30111"
+#~ msgid "Visual Memory"
+#~ msgstr "Визуальная память"
+
+#~ msgctxt "#30112"
+#~ msgid "Configure settings related to the Visual Memory Units/Systems (VMU)."
+#~ msgstr "Настройка параметров, связанных с блоками/системами визуальной памяти (VMU)."
+
+#~ msgctxt "#30113"
+#~ msgid "When disabled, all games share 4 VMU save files (A1, B1, C1, D1) located in RetroArch's system directory. The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save directory for each game that is launched. The 'All VMUs' setting creates 4 unique VMU files (A1, B1, C1, D1) for each game that is launched."
+#~ msgstr "Когда отключено, все игры используют общие 4 файла сохранений VMU (A1, B1, C1, D1), расположенные в системном каталоге RetroArch. Параметр «VMU A1» создаёт уникальный файл VMU «A1» в каталоге сохранений RetroArch для каждой запущенной игры. Параметр «Все VMU» создаёт 4 уникальных файла VMU (A1, B1, C1, D1) для каждой запущенной игры."
+
+#~ msgctxt "#30114"
+#~ msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu must be toggled for this setting to take effect."
+#~ msgstr "Включить настройку видимости, размера, положения и цвета эмулируемого ЖК-экрана VMU. ПРИМЕЧАНИЕ: для вступления в силу этой настройки нужно переключить быстрое меню."
+
+#~ msgctxt "#30145"
+#~ msgid "Configure different emulation hacks."
+#~ msgstr "Настройка различных хаков эмуляции."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

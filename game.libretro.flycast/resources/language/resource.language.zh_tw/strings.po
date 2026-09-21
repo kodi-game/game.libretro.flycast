@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "螢幕顯示方向"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "發售地"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "語言"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "顯示"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "正常"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "輸入"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -492,115 +492,115 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "藍色"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "淺藍色"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "綠色"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "青藍色"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "淺綠色"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "青綠色"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "淺青色"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "紅色"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "淺紫色"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "黃色"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "灰色"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "淺紫色 (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "淺綠色 (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "淺綠色 (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "淺青色 (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "淡紅色 (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "洋紅色"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "淺紫色 (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "淺橘色"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "橙色"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "淺紫色 (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "淡黃色"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "淡黃色 (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "進階"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -612,7 +612,7 @@ msgstr ""
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "系統"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
@@ -680,11 +680,11 @@ msgstr ""
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "變更解析度、渲染透明度和視覺效果的設定。"
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "內部解析度"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
@@ -832,7 +832,7 @@ msgstr ""
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "材質過濾"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
@@ -840,7 +840,7 @@ msgstr ""
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "預設"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
@@ -868,11 +868,11 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "4x"
-msgstr ""
+msgstr "4倍"
 
 msgctxt "#30212"
 msgid "6x"
-msgstr ""
+msgstr "6倍"
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
@@ -896,7 +896,7 @@ msgstr ""
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "效能"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."

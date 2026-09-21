@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.flycast"
 		name="Sega - Dreamcast/Naomi (Flycast)"
-		version="0.0.1.67"
+		version="628.0.0.68"
 		provider-name="flyinghead">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>Dreamcast</platforms>
+		<platforms>Sega - Dreamcast/Naomi</platforms>
 		<extensions>chd|cdi|elf|cue|gdi|lst|bin|dat|zip|7z|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>

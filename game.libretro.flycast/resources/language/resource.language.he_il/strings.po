@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "וידאו"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "קלט"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."

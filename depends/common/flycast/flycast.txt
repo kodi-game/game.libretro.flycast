@@ -1,1 +1,1 @@
-flycast https://github.com/flyinghead/flycast/archive/c3763d8fc4208dd6f8f0bc456383543b8406a8a0.tar.gz
+flycast https://github.com/flyinghead/flycast/archive/628bd3dbb160ea2750230fc6b00c0bb8173cb1f6.tar.gz

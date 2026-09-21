@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "اتجاه الشاشة"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "المنطقة"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "اللغة"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "عادي"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "الإدخال"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -496,7 +496,7 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "أزرق"
 
 msgctxt "#30119"
 msgid "Light Blue"
@@ -504,7 +504,7 @@ msgstr ""
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "أخضر"
 
 msgctxt "#30121"
 msgid "Cyan"
@@ -528,7 +528,7 @@ msgstr ""
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "أحمر"
 
 msgctxt "#30127"
 msgid "Purple"
@@ -540,7 +540,7 @@ msgstr ""
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "أصفر"
 
 msgctxt "#30130"
 msgid "Gray"
@@ -612,7 +612,7 @@ msgstr ""
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "نظام"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
@@ -840,7 +840,7 @@ msgstr ""
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "الافتراضي"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
@@ -896,7 +896,7 @@ msgstr ""
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "الأداء"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."

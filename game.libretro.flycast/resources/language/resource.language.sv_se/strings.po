@@ -36,19 +36,19 @@ msgstr "Alfasortering"
 #, fuzzy
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr "GD-ROM snabb laddning (felaktig)"
+msgstr "GD-ROM Snabbladdning (felaktig)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr "Mipmapping"
+msgstr "Mipmappning"
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr "Dimmeffekter"
+msgstr "Dimeffekter"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr "Volymmodifierare"
+msgstr "Volymjusterare"
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
@@ -56,12 +56,12 @@ msgstr "Bredbildsfusk (omstart krävs)"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr "Typ av kabel"
+msgstr "Kabeltyp"
 
 #, fuzzy
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr "Standard för sändning"
+msgstr "Sändningsstandard"
 
 msgctxt "#30017"
 msgid "Region"
@@ -73,11 +73,11 @@ msgstr "Språk"
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr "Dödzon för analog spak"
+msgstr "Analoga spakens dödzon"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr "Dödzon för avtryckare"
+msgstr "Dödläge för avtryckare"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
@@ -89,12 +89,12 @@ msgstr "Aktivera DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr "Anisotropisk filtrering"
+msgstr "Anisotropisk Filtering"
 
 #, fuzzy
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr "PowerVR2 filter för efterbearbetning"
+msgstr "PowerVR2 Efterbehandlingsfilter"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
@@ -102,20 +102,20 @@ msgstr "Texturuppskalning (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr "Texturuppskalning max. filtrerad storlek"
+msgstr "Maximalt filtrerad storlek för texturuppskalning"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr "Aktivera RTT-buffert (Rendering till textur)"
+msgstr "Aktivera RTT (Render To Texture) buffert"
 
 #, fuzzy
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr "Fördröja byte av ram"
+msgstr "Fördröj bildrutebyte"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr "Hoppa över bildrutor"
+msgstr "Bildruteskippning"
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
@@ -128,37 +128,37 @@ msgstr "Dumpa texturer"
 #, fuzzy
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Visuella minnesenheter/system per spel (VMU)"
+msgstr "Per-spel visningsminnesenheter/systemer (VMU)"
 
 #, fuzzy
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Visa inställningar för visning av enhet/system för visuellt minne (VMU)"
+msgstr "Visa inställningar för Visual Memory Unit/System (VMU)-skärmen"
 
 #, fuzzy
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr "VMU-skärm 1 Display"
+msgstr "Visa VMU-skärm 1"
 
 #, fuzzy
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr "VMU-skärm 1 Position"
+msgstr "Position för VMU-skärm 1"
 
 #, fuzzy
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr "VMU Skärm 1 Storlek"
+msgstr "Storlek för VMU-skärm 1"
 
 #, fuzzy
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr "VMU-skärm 1 pixel på färg"
+msgstr "VMU Skärm 1 Pixel PÅ Färg"
 
 #, fuzzy
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr "VMU-skärm 1 Pixel Off Färg"
+msgstr "VMU Skärm 1 Pixel AV Färg"
 
 #, fuzzy
 msgctxt "#30047"
@@ -168,27 +168,27 @@ msgstr "VMU Skärm 1 Opacitet"
 #, fuzzy
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr "VMU-skärm 2 Display"
+msgstr "VMU Skärm 2 Visa"
 
 #, fuzzy
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr "VMU-skärm 2 Position"
+msgstr "VMU Skärm 2 Position"
 
 #, fuzzy
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr "VMU-skärm 2 Storlek"
+msgstr "VMU Skärm 2 Storlek"
 
 #, fuzzy
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr "VMU-skärm 2 pixel på färg"
+msgstr "VMU Skärm 2 Pixel PÅ Färg"
 
 #, fuzzy
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr "VMU-skärm 2 Pixel Off Färg"
+msgstr "VMU Skärm 2 Pixel AV Färg"
 
 #, fuzzy
 msgctxt "#30053"
@@ -198,57 +198,57 @@ msgstr "VMU Skärm 2 Opacitet"
 #, fuzzy
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr "VMU-skärm 3 Display"
+msgstr "Visa VMU skärm 3"
 
 #, fuzzy
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr "VMU-skärm 3 Position"
+msgstr "Positionen för VMU skärm 3"
 
 #, fuzzy
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr "VMU-skärm 3 Storlek"
+msgstr "VMU skärm 3 Storlek"
 
 #, fuzzy
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr "VMU-skärm 3 pixel på färg"
+msgstr "Aktivera pixelfärg på VMU skärm 3"
 
 #, fuzzy
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr "VMU-skärm 3 Pixel Off Color"
+msgstr "Avaktivera pixelfärg på VMU skärm 3"
 
 #, fuzzy
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr "VMU Skärm 3 Opacitet"
+msgstr "Opaciteten för VMU Skärm 3"
 
 #, fuzzy
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr "VMU-skärm 4 Display"
+msgstr "Visa VMU skärm 4"
 
 #, fuzzy
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr "VMU-skärm 4 Position"
+msgstr "Positionen för VMU skärm 4"
 
 #, fuzzy
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr "VMU-skärm 4 Storlek"
+msgstr "VMU skärm 4 Storlek"
 
 #, fuzzy
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr "VMU-skärm 4 pixel på färg"
+msgstr "VMU Skärm 4 Pixel PÅ Färg"
 
 #, fuzzy
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr "VMU-skärm 4 Pixel Off Color"
+msgstr "VMU Skärm 4 Pixel AV Färg"
 
 #, fuzzy
 msgctxt "#30065"
@@ -257,27 +257,27 @@ msgstr "VMU Skärm 4 Opacitet"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr "Visa inställningar för ljuspistol"
+msgstr "Visa ljuspistolinställningar"
 
 #, fuzzy
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr "Gun Crosshair 1 Display"
+msgstr "Visa hårkors för pistol 1"
 
 #, fuzzy
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr "Gun Crosshair 2 Display"
+msgstr "Visa hårkors för pistol 2"
 
 #, fuzzy
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr "Gun Crosshair 3 Display"
+msgstr "Visa hårkors för pistol 3"
 
 #, fuzzy
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr "Gun Crosshair 4 Display"
+msgstr "Visa hårkors för pistol 4"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -301,23 +301,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "Tvinga användning av högnivåemulering av BIOS."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "Per-Strip (snabbast, minst noggrann)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "Per-Triangel (normal)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "Per-Pixel (noggrann, men långsammast)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "Ökar hastigheten på GD-ROM laddningen."
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -329,11 +329,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "Aktivera emulering av Dreamcasts ljud-DSP (digital signal processor). Förbättrar noggrannheten i genererat ljud, men ökar prestandakraven."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "Kör GPU och CPU på olika trådar. Starkt rekommenderat."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -357,31 +357,31 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "Högre värden kan vara nödvändiga för att korrekt visa utdata i högre upplösningar."
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "Ändra renderingsupplösning."
 
 msgctxt "#30092"
 msgid "Horizontal"
-msgstr ""
+msgstr "Horisontell"
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikal"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "En Dreamcast GPU-funktion som vanligtvis används av spel för att rita objektsskuggor. Detta bör normalt vara aktiverat - prestandapåverkan är vanligtvis minimal till försumbar."
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "Utgångssignalstyp. \"TV (Komposit)\" är den mest välkomna."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M (Brasilien)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
@@ -389,7 +389,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL (Världen)"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -409,11 +409,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "Efterbehandla den renderade bilden för att simulera effekter som är specifika för PowerVR2 GPU:n och analoga videosignaler."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "Förbättrar handritade 2D-pixelgrafik. Ska endast användas med 2D-pixeliserade spel."
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -421,11 +421,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "Sätter antalet bildrutor att hoppa över mellan varje visad bildruta."
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Inmatning"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -457,27 +457,27 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "Standard PÅ"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "Standard AV"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Svart"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Blå"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "Ljusblå"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Grön"
 
 msgctxt "#30121"
 msgid "Cyan"
@@ -485,59 +485,59 @@ msgstr ""
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "Turkosblå"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "Ljusgrön"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "Turkosgrön"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "Ljusturkos"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Röd"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "Ljuslila"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Gul"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "Grå"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "Ljuslila (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "Ljusgrön (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "Ljusgrön (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "Ljusturkos (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "Ljusröd (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
@@ -545,11 +545,11 @@ msgstr ""
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "Ljuslila (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "Ljusorange"
 
 msgctxt "#30139"
 msgid "Orange"
@@ -557,23 +557,23 @@ msgstr ""
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "Ljuslila (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "Ljusgul"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "Ljusgul (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Vit"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulatorhack"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -581,7 +581,7 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "Aktiverar fusk som gör det möjligt för vissa spel att visas i bredbildsformat."
 
 msgctxt "#30147"
 msgid "System"
@@ -589,31 +589,31 @@ msgstr ""
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "Konfigurera region, språk, BIOS och grundläggande hårdvaruinställningar."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "Ändrar språket som används av BIOS och av eventuella spel som innehåller flera språk."
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "HLE BIOS (omstart krävs)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "Tillåt knappar för arkadservice"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "Aktiverar SERVICE-knapp för arkadspel för att ange kabinettinställningar."
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "Ställ in NAOMI-spel till Free Play"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "Ändra spelets myntinställningar till free play."
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -629,43 +629,43 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "Emulering av bredbandsadapter"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr ""
+msgstr "Emulera Ethernet-bredbandsadaptern istället för modemet. (Omstart krävs)"
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "Aktivera UPnP"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "Använd UPnP för att automatiskt konfigurera din internetrouter för onlinespel."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "Använd DCNet"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "Använd DCNet-molntjänsten för Dreamcasts internetåtkomst."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "Konfigurera upplösning, oberoende transparens i ordning och visuella effektinställningar."
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Intern upplösning"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240 (Halv)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (Inbyggd)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -769,71 +769,71 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "Välj hur transparenta polygoner sorteras."
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "Storlek på ackumulerande pixelbuffert"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "Maximalt antal transparenta lager"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "Högre värden kan krävas för komplexa scener."
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "Fullständig framebuffer-emulering"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "Aktivera fullständig framebuffer-emulering i VRAM. Detta är användbart för spel som läser eller skriver direkt till framebuffer i VRAM. När det är aktiverat tvingas intern upplösning till 640x480 och prestanda kan påverkas allvarligt."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "Kopiera renderade texturer tillbaka från GPU till VRAM. Denna inställning är normalt aktiverad för spel som kräver det. När den är aktiverad avaktiveras uppskalning av texturrendering och prestandan kan påverkas."
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "När aktiverade texturer använder mindre versioner av sig själva när de visas längre bort kan det öka prestandan och minska skimret."
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Förbättrar kvaliteten på texturer på ytor som är i sneda betraktningsvinklar i förhållande till kameran. Högre värden kräver mer av GPU:n. Ändringar av denna inställning gäller endast efter omstart."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Texturfiltrering"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Texturfiltreringsläget som ska användas. Detta kan användas för att tvinga ett visst texturfiltreringsläge på alla texturer för att få en skarpare (eller slätare) utseende än standard. Värden som skiljer sig från standard kan orsaka olika renderingsproblem. Ändringar av denna inställning gäller endast efter omstart."
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "Tvinga Närmsta granne"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "Tvinga Linjär"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "Användbart för att undvika blinkande skärmar eller glitchiga videor. Rekommenderas inte på långsamma plattformar."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "Upptäck ändringar i bildhastighet"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "Meddela gränssnittet när den interna bildrutefrekvensen ändras (till exempel från 60 fps till 30 fps). Förbättrar taktningen av bildfrekvensen i spel som körs med en låst hastighet på 30 fps eller 20 fps, men bör vara inaktiverad för spel med upplåsta (ostadiga) bildrutefrekvenser (till exempel Ecco the Dolphin, Unreal Tournament). Observera!: Ej tillgänglig när \"Auto Skip Frame\" är aktiverad."
 
 msgctxt "#30210"
 msgid "2x"
@@ -849,75 +849,75 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "Välj ett maximalt storleksvärde för en textur som ska skalas upp, om texturstorleken är högre än det valda värdet kommer den inte att skalas upp."
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "Ursprunglig djupinterpolation"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "Hjälper till med texturkorruption och djupproblem på AMD-GPU:n. Kan även hjälpa Intel-GPU:n i vissa fall."
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "Rätta till blödande kanter vid uppskalning"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "Hjälper till med texturblödning vid uppskalning. Om du inaktiverar det kan det hjälpa om bildpunkter förvrängs vid uppskalning i 2D-spel (MVC2, CVS, KOF, etc.)"
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Prestanda"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "Konfigurera inställningar för trådad rendering och bildruteskippning."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Trådad rendering"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "Hoppa över bildrutor automatiskt"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "Hoppa automatiskt över bildrutor när emuleringen går långsamt. Observera!: Denna inställning gäller endast när \"Trådad Rendering\" är aktiverad."
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "Maximalt"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "Konfigurera inställningar för widescreen-överskridanden, GD-ROM-laddningshastighet och texturrelaterade inställningar."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "Bredbildshackning"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "Ritar geometrin utanför den normala 4:3 bildformatet. Kan leda till grafiska fel i de avslöjade områdena."
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
-msgstr ""
+msgstr "\"Dreamcast 32MB RAM-modifikation\""
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "Aktiverar 32MB RAM-modifikation för Dreamcast. Kan påverka kompatibiliteten."
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "SH4 CPU under/överklockning"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "Ändra SH4 huvud-CPU-klockan från standarden 200 MHz. Att sänka klockfrekvensen kan hjälpa på långsamma plattformar. Att öka klockfrekvensen kan öka bildhastigheten i vissa spel. Använd på egen risk."
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -1085,143 +1085,143 @@ msgstr ""
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "Läs in anpassade texturer som finns i mappen 'system/dc/textures/<game-id>/'."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr ""
+msgstr "Förinläs anpassade texturer"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr ""
+msgstr "Förinläs anpassade texturer vid spelstart. Kan förbättra prestanda men ökar minnesanvändningen."
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "Varje gång en ny textur används av spelet sparas den som en .png-fil i mappen 'system/dc/texdump/<game-id>/'."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr ""
+msgstr "Dumpa ersatta texturer"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr ""
+msgstr "Dumpa alltid texturer som redan ersatts av anpassade texturer."
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "Konfigurera inställningar för spelkontrollern och ljuspistolen."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "Välj hur långt du måste flytta på den analoga spaken innan den börjar bearbetas."
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "Välj hur mycket du måste trycka på avtryckaren innan den börjar bearbetas."
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "När avtryckare är aktiverade fungerar de som vanliga knappar, vilket innebär att de behandlas som antingen helt intryckta eller inte intryckta alls, utan något mellanting."
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "Sänd ut digitala utgångar"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "Sänd digitala utgångar och force-feedbackstatus på TCP-port 8000. Kompatibelt med MAME-alternativet \"-output network\"."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Aktivera konfiguration av alternativ för ljuspistolens hårkors. OBS!: Snabbmenyn kan behöva aktiveras och avaktiveras för att denna inställning ska träda i kraft."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "Storleksskalning för pistolhårkors"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "Expansionsplatser för kontroller"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "Välj enheten (VMU, rumble-enhet) ansluten i varje kontrollers expansionsplats."
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "Enhet i expansionsfack A1"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack A1 (port A plats 1)."
 
 msgctxt "#30290"
 msgid "Vibration Pack"
-msgstr ""
+msgstr "Vibrationspaket"
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "Enhet i expansionsfack A2"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack A2 (port A plats 2)."
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "Enhet i expansionsfack B1"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack B1 (port B plats 1)."
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "Enhet i expansionsfack B2"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack B2 (port B plats 2)."
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "Enhet i expansionsfack C1"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack C1 (port C plats 1)."
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "Enhet i expansionsfack C2"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack C2 (port C plats 2)."
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "Enhet i expansionsfack D1"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack D1 (port D plats 1)."
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "Enhet i expansionsfack D2"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "Välj den enhet som är ansluten till expansionsfack D2 (port D plats 2)."
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
-msgstr ""
+msgstr "Visuell minnesenhet"
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "Konfigurera per-spel VMU-sparfiler och inställningar för synlighet av VMU på skärmen."
 
 msgctxt "#30307"
 msgid ""
@@ -1229,26 +1229,29 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
+"När den är inaktiverad delar alla spel upp till 8 VMU-sparfiler (A1/A2/B1/B2/C1/C2/D1/D2) som finns i RetroArchs systemmapp.\n"
+"Inställningen ”VMU A1” skapar en unik VMU-fil ”A1” i RetroArchs sparmapp för varje spel som startas.\n"
+"Inställningen ”Alla VMU: er” skapar upp till 8 unika VMU-filer (A1/A2/B1/B2/C1/C2/D1/D2) för varje spel som startas."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "Ljud för visuella minnesenheter/System (VMU)"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "När detta är aktiverad, spelas VMU-pipen."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr ""
+msgstr "DreamPotato VMU-lagring"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr ""
+msgstr "Aktivera lagring av VMU-data på den anslutna DreamPotato-emulatorn. När denna funktion är aktiverad används inte den lokala VMU-sparfil."
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Möjliggör konfiguration av emulerad VMU LCD-skärmens synlighet, storlek, position och färg. OBS!: Snabbmenyn kan behöva aktiveras/dras fram för att den här inställningen ska träda i kraft."
 
 msgctxt "#30313"
 msgid "Japan"

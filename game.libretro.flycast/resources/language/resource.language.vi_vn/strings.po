@@ -48,15 +48,15 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Hướng màn hình"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr ""
+msgstr "Sắp xếp Alpha"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr ""
+msgstr "Tải GD-ROM nhanh (có thể không chính xác)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
@@ -64,11 +64,11 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "Hiệu ứng sương mù"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr ""
+msgstr "Điều chỉnh âm lượng"
 
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
@@ -76,15 +76,15 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
+msgstr "Mã gian lận màn hình rộng (cần khởi động lại)"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "Loại cáp"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr ""
+msgstr "Chuẩn Phát sóng"
 
 msgctxt "#30016"
 msgid "Framerate"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "Khu vực"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -108,39 +108,39 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr ""
+msgstr "Vùng chết của Analog"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr ""
+msgstr "Vùng chết của Phím kích hoạt - trigger"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr ""
+msgstr "Phím kích hoạt kỹ thuật số"
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "Bật DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Lọc dị hướng"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "Bộ lọc hậu xử lý PowerVR2"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "Phóng to kết cấu (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr ""
+msgstr "Kích thước tối đa khi phóng to kết cấu đã lọc"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr ""
+msgstr "Bật bộ đệm RTT (Render To Kết cấu)"
 
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
@@ -156,11 +156,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr ""
+msgstr "Độ trễ đổi khung hình"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr ""
+msgstr "Bỏ qua khung hình"
 
 msgctxt "#30035"
 msgid "Purupuru Pack/Vibration Pack"
@@ -176,135 +176,135 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr ""
+msgstr "Tải kết cấu tùy chỉnh"
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
+msgstr "Xuất kết cấu"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr ""
+msgstr "Đơn vị/ Hệ thống Bộ Nhớ Hình Ảnh theo từng trò chơi (VMU)"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr ""
+msgstr "Hiển thị cài đặt Bộ Nhớ Hình Ảnh/Hệ thống (VMU)"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr ""
+msgstr "Hiển thị Màn hình VMU 1"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr ""
+msgstr "Vị trí Màn hình VMU 1"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr ""
+msgstr "Kích thước Màn hình VMU 1"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr ""
+msgstr "Màu pixel BẬT của Màn hình VMU 1"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr ""
+msgstr "Màu Pixel Tắt của Màn hình VMU 1"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr ""
+msgstr "Độ Mờ của Màn hình VMU 1"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr ""
+msgstr "Hiển thị Màn hình VMU 2"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr ""
+msgstr "Vị trí Màn hình VMU 2"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr ""
+msgstr "Kích thước Màn hình VMU 2"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr ""
+msgstr "Màu pixel Bật của Màn hình VMU 2"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr ""
+msgstr "Màu pixel Tắt của Màn hình VMU 2"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr ""
+msgstr "Độ mờ của Màn hình VMU 2"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr ""
+msgstr "Hiển thị Màn hình VMU 3"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr ""
+msgstr "Vị trí Màn hình VMU 3"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr ""
+msgstr "Kích thước Màn hình VMU 3"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr ""
+msgstr "Màu pixel Bật của Màn hình VMU 3"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr ""
+msgstr "Màu pixel Tắt của Màn hình VMU 3"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr ""
+msgstr "Độ mờ của Màn hình VMU 3"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr ""
+msgstr "Hiển thị Màn hình VMU 4"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr ""
+msgstr "Vị trí Màn hình VMU 4"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr ""
+msgstr "Kích thước Màn hình VMU 4"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr ""
+msgstr "Màu Pixel Bật của Màn hình VMU 4"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr ""
+msgstr "Màu Pixel Tắt của Màn hình VMU 4"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr ""
+msgstr "Độ mờ của Màn hình VMU 4"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr ""
+msgstr "Hiển thị Cài đặt Súng Ánh Sáng"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr ""
+msgstr "Hiển thị Tâm ngắm 1"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr ""
+msgstr "Hiển thị Tâm ngắm 2"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr ""
+msgstr "Hiển thị Tâm ngắm 3"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr ""
+msgstr "Hiển thị Tâm ngắm 4"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -328,23 +328,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "Ép sử dụng BIOS giả lập cấp cao."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "Theo Dải (nhanh, chính xác thấp nhất)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "Theo Tam giác (bình thường)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "Theo từng điểm ảnh (chính xác, nhưng chậm nhất)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "Tăng tốc quá trình tải GD-ROM."
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -356,11 +356,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "Bật mô phỏng DSP âm thanh (bộ xử lý tín hiệu số) của Dreamcast. Cải thiện độ chính xác của âm thanh phát ra, nhưng tăng yêu cầu về hiệu năng."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "Chạy GPU và CPU trên các luồng riêng. Rất khuyến nghị."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -384,27 +384,27 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "Các giá trị cao hơn có thể cần thiết để hiển thị đúng ở độ phân giải cao hơn."
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "Thay đổi độ phân giải khi render."
 
 msgctxt "#30092"
 msgid "Horizontal"
-msgstr ""
+msgstr "Ngang"
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "Dọc"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "Một tính năng của GPU Dreamcast, thường được các trò chơi sử dụng để vẽ bóng của các đối tượng. Thông thường nên bật tính năng này — ảnh hưởng đến hiệu năng thường rất ít hoặc hầu như không đáng kể."
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "Loại tín hiệu xuất. 'TV (Composite)' được hỗ trợ rộng rãi nhất."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
@@ -416,7 +416,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL (Toàn cầu)"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "Bình thường"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -436,11 +436,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "Hậu xử lý hình ảnh đã render để mô phỏng các hiệu ứng đặc trưng của GPU PowerVR2 và tín hiệu video analog."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "Cải thiện đồ họa 2D vẽ tay dạng pixel. Chỉ nên dùng cho các game 2D pixel."
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -448,11 +448,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "Thiết lập số khung hình bỏ qua giữa các khung hình hiển thị."
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Đều khiển"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -484,123 +484,123 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "Bật Mặc định"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "Tắt Mặc định"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Đen"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Xanh dương"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "Xanh dương nhạt"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Xanh lá"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "Lục lam"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "Xanh lơ"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "Xanh lá nhạt"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "Xanh lơ lá"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "Xanh lơ nhạt"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Đỏ"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Tím"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "Tím nhạt"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Vàng"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "Xám"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "Tím nhạt (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "Xanh lá nhạt (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "Xanh lá nhạt (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "Xanh lam nhạt (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "Đỏ nhạt (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "Hồng tím"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "Tím nhạt (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "Cam nhạt"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Cam"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "Tím nhạt (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "Vàng nhạt"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "Vàng nhạt (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Trắng"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Thủ thuật giả lập"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -608,39 +608,39 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "Bật các mã gian lận cho phép một số game hiển thị ở định dạng màn hình rộng."
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Hệ thống"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "Cấu hình vùng, ngôn ngữ, BIOS và phần cứng cơ bản."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "Thay đổi ngôn ngữ được sử dụng bởi BIOS và các game có hỗ trợ nhiều ngôn ngữ."
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "HLE BIOS (Cần khởi động lại)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "Cho phép Phím Service cho Arcade"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "Bật Phím SERVICE để truy cập cài đặt trong máy arcade."
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "Chế độ Free Play cho game NAOMI"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "Chỉnh cài đặt đồng xu của trò chơi sang chế độ chơi miễn phí."
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -656,43 +656,43 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "Giả lập Bộ chuyển đổi Băng thông Rộng"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr ""
+msgstr "Giả lập bộ chuyển đổi Ethernet băng thông rộng thay vì modem. (Cần khởi động lại)"
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "Bật UPnP"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "Sử dụng UPnP để tự động cấu hình router Internet cho trò chơi trực tuyến."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "Sử dụng DCNet"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "Sử dụng dịch vụ đám mây DCNet để truy cập Internet trên Dreamcast."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "Cấu hình độ phân giải, trong suốt không phụ thuộc thứ tự và hiệu ứng hình ảnh."
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Độ phân giải nội bộ"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240 (Một nửa)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (Nguyên bản)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -796,71 +796,71 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "Chọn cách sắp xếp các đa giác trong suốt."
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "Kích thước bộ đệm điểm ảnh tích lũy"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "Số lớp trong suốt tối đa"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "Giá trị cao hơn có thể cần cho các cảnh phức tạp."
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "Mô phỏng toàn bộ framebuffer"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "Bật mô phỏng toàn bộ framebuffer trong VRAM. Điều này hữu ích cho các trò chơi đọc hoặc ghi trực tiếp framebuffer trong VRAM. Khi bật, độ phân giải nội bộ bị ép ở 640x480 và hiệu năng có thể bị ảnh hưởng nghiêm trọng."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "Sao chép các Kết cấu đã kết xuất từ GPU trở lại VRAM. Tùy chọn này thường được bật cho các trò chơi yêu cầu. Khi bật, việc tăng cường độ phân giải Kết cấu bị vô hiệu và hiệu năng có thể bị ảnh hưởng."
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "Khi bật, Kết cấu sẽ sử dụng phiên bản nhỏ hơn của chính nó khi xuất hiện ở xa hơn, có thể tăng hiệu năng và giảm hiện tượng nhấp nháy."
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Cải thiện chất lượng Kết cấu trên các bề mặt ở góc nhìn xiên so với camera. Giá trị cao hơn sẽ đòi hỏi GPU nhiều hơn. Thay đổi thiết lập này chỉ có hiệu lực sau khi khởi động lại."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Lọc kết cấu"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Chọn chế độ lọc kết cấu. Có thể dùng tùy chọn này để áp dụng một chế độ lọc kết cấu nhất định cho tất cả kết cấu, giúp hình ảnh sắc nét hơn (hoặc mượt mà hơn) so với chế độ Mặc định. Các chế độ khác Mặc định có thể gây ra nhiều lỗi hiển thị khác nhau. Thay đổi thiết lập này chỉ có hiệu lực sau khi khởi động lại."
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "Mặc định"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "Ép dùng Nearest-Neighbor"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "Ép dùng Linear"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "Hữu ích để tránh màn hình nhấp nháy hoặc video bị giật.Không khuyến nghị trên thiết bị chậm."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "Phát hiện sự thay đổi tốc độ khung hình"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "Thông báo cho giao diện khi tốc độ khung hình thay đổi (ví dụ từ 60 fps xuống 30 fps). Cải thiện nhịp khung hình trong game chạy cố định 30 fps hoặc 20 fps, nhưng nên tắt cho các game có tốc độ khung hình không cố định (ví dụ Ecco the Dolphin, Unreal Tournament). Lưu ý: không khả dụng khi 'Bỏ qua khung hình tự động' bật."
 
 msgctxt "#30210"
 msgid "2x"
@@ -876,75 +876,75 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "Chọn giá trị kích thước tối đa của Kết cấu khi tăng độ phân giải.Nếu kích thước Kết cấu lớn hơn giá trị chọn, nó sẽ không được tăng."
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "Nội suy độ sâu gốc"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "Giúp giảm lỗi Kết cấu và vấn đề độ sâu trên GPU AMD. Cũng có thể hỗ trợ GPU Intel trong một số trường hợp."
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "Khắc phục tràn màu khi tăng độ phân giải"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "Giúp xử lý tình trạng tràn màu khi tăng độ phân giải.Tắt tính năng này có thể giúp nếu pixel bị méo khi tăng độ phân giải trong game 2D (MVC2, CVS, KOF…)"
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Hiệu năng"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "Cấu hình kết xuất đa luồng và bỏ khung hình."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Kết xuất đa luồng"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "Bỏ qua khung hình tự động"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "Tự động bỏ qua khung hình khi trình giả lập chạy chậm. Lưu ý: chỉ áp dụng khi 'Kết xuất đa luồng' bật."
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "Tối đa"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "Cấu hình chế độ màn hình rộng, tốc độ tải GD-ROM và thay thế Kết cấu."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "Mở rộng màn hình"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "Vẽ hình học ngoài tỉ lệ khung hình 4:3 chuẩn. Có thể gây lỗi đồ họa ở các vùng hiển thị thêm."
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
-msgstr ""
+msgstr "Chế độ RAM 32MB cho Dreamcast"
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "Bật chế độ RAM 32MB cho Dreamcast. Có thể ảnh hưởng đến khả năng tương thích"
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "Điều chỉnh xung CPU SH4"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "Thay đổi xung chính của CPU SH4 từ mức mặc định 200 MHz. Giảm xung có thể giúp các nền tảng chậm. Tăng xung có thể tăng tốc khung hình cho một số trò chơi. Sử dụng cẩn thận."
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -1112,143 +1112,143 @@ msgstr ""
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "Tải các Kết cấu tùy chỉnh từ thư mục 'system/dc/Kết cấus/<game-id>/'."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr ""
+msgstr "Tải trước kết cấu tùy chỉnh"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr ""
+msgstr "Nạp sẵn các kết cấu tùy chỉnh ngay khi game bắt đầu. Có thể giúp tăng hiệu năng nhưng sẽ sử dụng nhiều bộ nhớ hơn."
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "Mỗi khi trò chơi sử dụng một kết cấu mới, nó sẽ được lưu dưới dạng tệp .png trong thư mục 'system/dc/texdump/<game-id>/'."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr ""
+msgstr "Xuất Kết cấu Đã Thay Thế"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr ""
+msgstr "Luôn xuất các Kết cấu đã được thay thế bằng Kết cấu tùy chỉnh."
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "Cấu hình tay cầm và súng ánh sáng."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "Chọn mức độ di chuyển cần thiết của Analog trước khi nó bắt đầu được xử lý."
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "Chọn lực nhấn cần thiết của Phím trigger trước khi nó bắt đầu được xử lý."
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "Khi bật, các trigger sẽ hoạt động như Phím thường, nghĩa là chỉ được xử lý ở trạng thái nhấn hoàn toàn hoặc không nhấn, không có mức trung gian."
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "Phát tín hiệu Digital Outputs"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "Phát tín hiệu digital và trạng thái phản hồi lực qua cổng TCP 8000. Tương thích với tùy chọn \"-output network\" của MAME."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Bật cấu hình các tùy chọn hiển thị con trỏ súng. Lưu ý: Có thể cần mở Quick Menu để thiết lập này có hiệu lực."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "Tỉ lệ kích thước con trỏ súng"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "Khe mở rộng tay cầm"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "Chọn thiết bị (VMU, thiết bị rung) cắm vào mỗi khe mở rộng tay cầm."
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "Thiết bị ở khe mở rộng A1"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "Chọn thiết bị cắm ở khe mở rộng A1 (cổng A, khe 1)."
 
 msgctxt "#30290"
 msgid "Vibration Pack"
-msgstr ""
+msgstr "Gói rung tay cầm"
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "Thiết bị trong khe mở rộng A2"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "Chọn thiết bị cắm vào khe mở rộng A2 (cổng A khe 2)."
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "Thiết bị trong khe mở rộng B1"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "Chọn thiết bị cắm vào khe mở rộng B1 (cổng B khe 1)."
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "Thiết bị trong khe mở rộng B2"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "Chọn thiết bị cắm vào khe mở rộng B2 (cổng B khe 2)."
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "Thiết bị trong khe mở rộng C1"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "Chọn thiết bị cắm vào khe mở rộng C1 (cổng C khe 1)."
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "Thiết bị trong khe mở rộng C2"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "Chọn thiết bị cắm vào khe mở rộng C2 (cổng C khe 2)."
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "Thiết bị trong khe mở rộng D1"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "Chọn thiết bị cắm vào khe mở rộng D1 (cổng D khe 1)."
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "Thiết bị trong khe mở rộng D2"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "Chọn thiết bị cắm vào khe mở rộng D2 (cổng D khe 2)."
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
-msgstr ""
+msgstr "Bộ nhớ trực quan Vmu"
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "Cấu hình tệp lưu VMU theo game và hiển thị VMU trên màn hình."
 
 msgctxt "#30307"
 msgid ""
@@ -1256,26 +1256,29 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
+"Khi tắt, tất cả trò chơi chia sẻ tối đa 8 tệp lưu VMU (A1/A2/B1/B2/C1/C2/D1/D2) nằm trong thư mục hệ thống của RetroArch..\n"
+"Cài đặt 'VMU A1' tạo một tệp VMU riêng 'A1' trong thư mục lưu của RetroArch cho mỗi trò chơi được khởi chạy.\n"
+"Cài đặt 'Tất cả VMU' tạo tối đa 8 tệp VMU riêng (A1/A2/B1/B2/C1/C2/D1/D2) cho mỗi trò chơi được khởi chạy."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "Âm thanh của Bộ nhớ ảo/VMU"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "Khi bật, VMU sẽ phát tiếng bíp."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr ""
+msgstr "Bộ lưu trữ VMU DreamPotato"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr ""
+msgstr "Cho phép lưu trữ dữ liệu VMU trên trình giả lập DreamPotato đã kết nối. Khi được bật, tệp lưu VMU cục bộ sẽ không được sử dụng."
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Bật cấu hình hiển thị màn hình LCD VMU giả lập, bao gồm: độ hiển thị, kích thước, vị trí và màu sắc.LƯU Ý: Có thể cần mở lại Menu Nhanh để thiết lập có hiệu lực."
 
 msgctxt "#30313"
 msgid "Japan"

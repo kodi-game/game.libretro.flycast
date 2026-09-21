@@ -31,11 +31,11 @@ msgstr "屏幕方向"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr "Alpha 排序"
+msgstr "阿尔法排序"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr "GD-ROM 快速加载（不精确）"
+msgstr "GD-ROM 快速加载（不准确）"
 
 msgctxt "#30009"
 msgid "Mipmapping"
@@ -43,23 +43,23 @@ msgstr "MIP 映射"
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr "雾效果"
+msgstr "雾效"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr "音量修改器"
+msgstr "体积修正器"
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr "宽屏作弊（需要重新启动）"
+msgstr "宽屏作弊（需重启）"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr "电缆类型"
+msgstr "线缆类型"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr "广播标准"
+msgstr "广播制式"
 
 msgctxt "#30017"
 msgid "Region"
@@ -79,7 +79,7 @@ msgstr "扳机死区"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr "数字触发器"
+msgstr "数字扳机"
 
 msgctxt "#30024"
 msgid "Enable DSP"
@@ -87,19 +87,19 @@ msgstr "启用 DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr "各向异性滤波"
+msgstr "各向异性过滤"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr "PowerVR2 后处理滤波器"
+msgstr "PowerVR2 后处理滤镜"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr "纹理缩放（xBRZ）"
+msgstr "纹理放大（xBRZ）"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr "纹理缩放最大过滤大小"
+msgstr "纹理放大最大过滤尺寸"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
@@ -111,7 +111,7 @@ msgstr "延迟帧交换"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr "跳帧"
+msgstr "帧跳过"
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
@@ -123,127 +123,127 @@ msgstr "转储纹理"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "每游戏视觉内存单元/系统（VMU）"
+msgstr "按游戏区分的视觉内存单元/系统（VMU）"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "显示视觉内存单元/系统（VMU）显示设置"
+msgstr "显示视觉内存单元/系统（VMU）屏幕设置"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr "VMU 屏幕1显示"
+msgstr "VMU 屏幕 1 显示"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr "VMU 屏幕1位置"
+msgstr "VMU 屏幕 1 位置"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr "VMU 屏幕1尺寸"
+msgstr "VMU 屏幕 1 大小"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr "VMU 屏幕1像素开颜色"
+msgstr "VMU 屏幕 1 像素点亮颜色"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr "VMU 屏幕1像素关颜色"
+msgstr "VMU 屏幕 1 像素关闭颜色"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr "VMU 屏幕1不透明度"
+msgstr "VMU 屏幕 1 不透明度"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr "VMU 屏幕2显示"
+msgstr "VMU 屏幕 2 显示"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr "VMU 屏幕2位置"
+msgstr "VMU 屏幕 2 位置"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr "VMU 屏幕2尺寸"
+msgstr "VMU 屏幕 2 尺寸"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr "VMU 屏幕2像素开颜色"
+msgstr "VMU 屏幕 2 像素开启颜色"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr "VMU 屏幕2像素关颜色"
+msgstr "VMU 屏幕 2 像素关闭颜色"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr "VMU 屏幕2不透明度"
+msgstr "VMU 屏幕 2 不透明度"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr "VMU 屏幕3显示"
+msgstr "VMU 屏幕 3 显示"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr "VMU 屏幕3位置"
+msgstr "VMU 屏幕 3 位置"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr "VMU 屏幕3尺寸"
+msgstr "VMU 屏幕 3 尺寸"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr "VMU 屏幕3像素开颜色"
+msgstr "VMU 屏幕 3 像素开启颜色"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr "VMU 屏幕3像素关颜色"
+msgstr "VMU 屏幕 3 像素关闭颜色"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr "VMU 屏幕3不透明度"
+msgstr "VMU 屏幕 3 不透明度"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr "VMU 屏幕4显示"
+msgstr "VMU 屏幕 4 显示"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr "VMU 屏幕4位置"
+msgstr "VMU 屏幕 4 位置"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr "VMU 屏幕4尺寸"
+msgstr "VMU 屏幕 4 尺寸"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr "VMU 屏幕4像素开颜色"
+msgstr "VMU 屏幕 4 像素开启颜色"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr "VMU 屏幕4像素关颜色"
+msgstr "VMU 屏幕 4 像素关闭颜色"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr "VMU 屏幕4不透明度"
+msgstr "VMU 屏幕 4 不透明度"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr "显示光线枪设置"
+msgstr "显示光枪设置"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr "枪准星1显示"
+msgstr "光枪 1 准星显示"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr "枪准星2显示"
+msgstr "光枪 2 准星显示"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr "枪准星3显示"
+msgstr "光枪 3 准星显示"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr "枪准星4显示"
+msgstr "光枪 4 准星显示"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -267,23 +267,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "强制使用高级模拟 BIOS。"
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "按条带（快速，最不精确）"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "按三角形（正常）"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "按像素（精确，但最慢）"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "加快 GD-ROM 的加载速度。"
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -295,11 +295,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "启用 Dreamcast 音频 DSP（数字信号处理器）的模拟。可提升生成声音的准确性，但会增加性能需求。"
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "在不同线程上运行 GPU 和 CPU。强烈推荐。"
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -315,7 +315,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -323,39 +323,39 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "更高的值可能在更高分辨率下才能正确输出。"
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "修改渲染分辨率。"
 
 msgctxt "#30092"
 msgid "Horizontal"
-msgstr ""
+msgstr "水平"
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "垂直"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "一项 Dreamcast GPU 特性，通常用于游戏绘制物体阴影。通常应保持启用状态——其对性能的影响通常微乎其微或可忽略不计。"
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "输出信号类型。“电脑复合（Composite）” 是最广泛支持的。"
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M（巴西）"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
-msgstr ""
+msgstr "PAL-N（阿根廷，巴拉圭，乌拉圭）"
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL（全球）"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -367,7 +367,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "正常"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -375,11 +375,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "对渲染图像进行后处理，以模拟 PowerVR2 GPU 和模拟视频信号特有的效果。"
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "增强手绘 2D 像素艺术图形。仅应与 2D 像素化游戏配合使用。"
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -387,11 +387,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "设置每显示一帧之间要跳过的帧数。"
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "输入"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -423,123 +423,123 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "默认开启"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "默认关闭"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "蓝色"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "浅蓝色"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "绿色"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "青蓝色"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "浅绿色"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "青绿色"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "浅青色"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "红色"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "紫色"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "黄色"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "灰色"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "浅紫色（2）"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "浅绿色（2）"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "浅绿色（3）"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "浅青色（2）"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "浅红色（2）"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "品红色"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "浅紫色（3）"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "浅橙色"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "橙色"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "浅紫色（4）"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "浅黄色"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "浅黄色（2）"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "模拟作弊"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -547,39 +547,39 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "启用允许某些游戏以宽屏格式显示的作弊码。"
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "系统"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "配置区域、语言、BIOS 和基础硬件设置。"
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "更改 BIOS 以及包含多种语言的游戏所使用的语言。"
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "HLE BIOS（需重启）"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "允许街机服务按钮"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "为街机游戏启用 SERVICE 按钮，以进入机柜设置。"
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "将 NAOMI 游戏设为免费游玩"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "修改游戏的投币设置，使其变为免费游玩模式。"
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -595,211 +595,211 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "宽带适配器模拟"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr ""
+msgstr "模拟以太网宽带适配器而非调制解调器。（需重启）"
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "启用 UPnP"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "使用 UPnP 自动配置您的互联网路由器，以便进行在线游戏。"
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "使用 DCNet"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "使用 DCNet 云服务访问 Dreamcast 网络。"
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "配置分辨率、与顺序无关的透明度和视觉效果设置。"
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "内部分辨率"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240（一半）"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480（原生）"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
-msgstr ""
+msgstr "800x600（x1.25）"
 
 msgctxt "#30169"
 msgid "960x720 (x1.5)"
-msgstr ""
+msgstr "960x720（x1.5）"
 
 msgctxt "#30170"
 msgid "1024x768 (x1.6)"
-msgstr ""
+msgstr "1024x768（x1.6）"
 
 msgctxt "#30171"
 msgid "1280x960 (x2)"
-msgstr ""
+msgstr "1280x960（x2）"
 
 msgctxt "#30172"
 msgid "1440x1080 (x2.25)"
-msgstr ""
+msgstr "1440x1080（x2.25）"
 
 msgctxt "#30173"
 msgid "1600x1200 (x2.5)"
-msgstr ""
+msgstr "1600x1200（x2.5）"
 
 msgctxt "#30174"
 msgid "1920x1440 (x3)"
-msgstr ""
+msgstr "1920x1440（x3）"
 
 msgctxt "#30175"
 msgid "2560x1920 (x4)"
-msgstr ""
+msgstr "2560x1920（x4）"
 
 msgctxt "#30176"
 msgid "2880x2160 (x4.5)"
-msgstr ""
+msgstr "2880x2160（x4.5）"
 
 msgctxt "#30177"
 msgid "3200x2400 (x5)"
-msgstr ""
+msgstr "3200x2400（x5）"
 
 msgctxt "#30178"
 msgid "3840x2880 (x6)"
-msgstr ""
+msgstr "3840x2880（x6）"
 
 msgctxt "#30179"
 msgid "4480x3360 (x7)"
-msgstr ""
+msgstr "4480x3360（x7）"
 
 msgctxt "#30180"
 msgid "5120x3840 (x8)"
-msgstr ""
+msgstr "5120x3840（x8）"
 
 msgctxt "#30181"
 msgid "5760x4320 (x9)"
-msgstr ""
+msgstr "5760x4320（x9）"
 
 msgctxt "#30182"
 msgid "6400x4800 (x10)"
-msgstr ""
+msgstr "6400x4800（x10）"
 
 msgctxt "#30183"
 msgid "7040x5280 (x11)"
-msgstr ""
+msgstr "7040x5280（x11）"
 
 msgctxt "#30184"
 msgid "7680x5760 (x12)"
-msgstr ""
+msgstr "7680x5760（x12）"
 
 msgctxt "#30185"
 msgid "8320x6240 (x13)"
-msgstr ""
+msgstr "8320x6240（x13）"
 
 msgctxt "#30186"
 msgid "8960x6720 (x14)"
-msgstr ""
+msgstr "8960x6720（x14）"
 
 msgctxt "#30187"
 msgid "9600x7200 (x15)"
-msgstr ""
+msgstr "9600x7200（x15）"
 
 msgctxt "#30188"
 msgid "10240x7680 (x16)"
-msgstr ""
+msgstr "10240x7680（x16）"
 
 msgctxt "#30189"
 msgid "10880x8160 (x17)"
-msgstr ""
+msgstr "10880x8160（x17）"
 
 msgctxt "#30190"
 msgid "11520x8640 (x18)"
-msgstr ""
+msgstr "11520x8640（x18）"
 
 msgctxt "#30191"
 msgid "12160x9120 (x19)"
-msgstr ""
+msgstr "12160x9120（x19）"
 
 msgctxt "#30192"
 msgid "12800x9600 (x20)"
-msgstr ""
+msgstr "12800x9600（x20）"
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "选择如何对透明多边形进行排序。"
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "累积像素缓冲区大小"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "最大透明图层"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "复杂场景可能需要更高的值。"
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "完整帧缓冲区模拟"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "在 VRAM 中启用完整的帧缓冲区模拟。这对于直接读取或写入 VRAM 帧缓冲区的游戏很有用。启用后，内部分辨率将被强制设为 640x480，且性能可能会受到严重影响。"
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "将渲染的纹理从 GPU 复制回 VRAM。此选项通常为需要它的游戏启用。启用后，纹理渲染上采样将被禁用，且性能可能会受到影响。"
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "启用后，纹理在远离视角时会使用更小的版本，这可以提升性能并减少闪烁。"
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "提升相对于相机呈倾斜角度的表面纹理质量。更高的值对 GPU 要求更高。更改此设置需重启后才生效。"
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "纹理过滤"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "要使用的纹理过滤模式。可用于强制所有纹理使用特定的过滤模式，以获得比默认模式更清晰（或更平滑）的外观。除“默认”外的其他值可能导致各种渲染问题。更改此设置需重启后才生效。"
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "强制最近邻"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "强制线性"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "有助于避免闪屏或画面故障。不推荐在性能较慢的平台上使用。"
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "检测帧率变化"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "当内部帧率发生变化时（例如从 60 fps 变为 30 fps），通知前端。可改善以锁定 30 fps 或 20 fps 运行的游戏的帧速率稳定性，但应在帧率未锁定（不稳定）的游戏（如《海豚历险记》、《虚幻竞技场》）中禁用。注意：当“自动跳帧”启用时，此项不可用。"
 
 msgctxt "#30210"
 msgid "2x"
@@ -815,75 +815,75 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "为要放大的纹理选择一个最大尺寸值。如果纹理尺寸高于所选值，则不会进行放大。"
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "原生深度插值"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "有助于解决 AMD GPU 上的纹理损坏和深度问题。在某些情况下也可能对 Intel GPU 有帮助。"
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "修复放大边缘渗色"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "在放大时有助于解决纹理渗色问题。如果在 2D 游戏（如 MVC2、CVS、KOF 等）放大时像素出现扭曲，禁用它可能会有所帮助"
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "性能"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "配置多线程渲染和跳帧设置。"
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "多线程渲染"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "自动跳帧"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "当模拟器运行缓慢时自动跳过帧。注意：此设置仅在“多线程渲染”启用时才生效。"
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "最大"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "配置宽屏覆盖、GD-ROM 加载速度和纹理替换设置。"
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "宽屏破解"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "在正常的 4:3 宽高比之外绘制几何图形。可能在暴露的区域产生图形故障。"
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
-msgstr ""
+msgstr "Dreamcast 32M 内存模块"
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "为 Dreamcast 启用 32MB RAM 模组。可能影响兼容性"
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "SH4 CPU 降频/超频"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "将 SH4 主 CPU 时钟从默认的 200 MHz 更改。降频可能有助于性能较慢的平台。超频可能会提高某些游戏的帧率，请谨慎使用。"
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -1051,7 +1051,7 @@ msgstr ""
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "加载位于 'system/dc/textures/<游戏ID>/' 文件夹中的自定义纹理。"
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
@@ -1063,7 +1063,7 @@ msgstr ""
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "每当游戏使用一个新纹理时，它将被保存为一个 .png 文件，存放于 'system/dc/texdump/<游戏ID>/' 文件夹中。"
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
@@ -1075,119 +1075,119 @@ msgstr ""
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "配置手柄和光枪设置。"
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "选择在摇杆开始被处理前需要推动多远的距离。"
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "选择在开始处理之前，你需要将扳机按下的程度。"
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "启用后，扳机会像普通按钮一样工作，即它们将被处理为完全按下或完全未按下，没有中间状态。"
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "广播数字输出"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "在 TCP 端口 8000 上广播数字输出和力反馈状态。与 MAME 的 “-output network” 选项兼容。"
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "启用光枪准星显示选项的配置。注意：快速菜单可能需要切换才能使此设置生效。"
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "光枪准星大小缩放"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "控制器扩展插槽"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "选择插入每个控制器扩展插槽中的设备（VMU、震动设备）。"
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "A1 扩展插槽设备"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "选择插入 A1 扩展插槽（端口 A 插槽 1）中的设备。"
 
 msgctxt "#30290"
 msgid "Vibration Pack"
-msgstr ""
+msgstr "震动包"
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "A2 扩展插槽设备"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "选择插入 A2 扩展插槽（端口 A 插槽 2）中的设备。"
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "B1 扩展插槽设备"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "选择插入 B1 扩展插槽（端口 B 插槽 1）中的设备。"
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "B2 扩展插槽设备"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "选择插入 B2 扩展插槽（端口 B 插槽 2）中的设备。"
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "C1 扩展插槽设备"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "选择插入 C1 扩展插槽（端口 C 插槽 1）中的设备。"
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "C2 扩展插槽设备"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "选择插入 C2 扩展插槽（端口 C 插槽 2）中的设备。"
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "D1 扩展插槽设备"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "选择插入 D1 扩展插槽（端口 D 插槽 1）中的设备。"
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "D2 扩展插槽设备"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "选择插入 D2 扩展插槽（端口 D 插槽 2）中的设备。"
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
-msgstr ""
+msgstr "视觉内存单元（VMU）"
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "配置每款游戏的 VMU 存档文件和屏幕上的 VMU 可见性设置。"
 
 msgctxt "#30307"
 msgid ""
@@ -1195,14 +1195,17 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
+"当禁用时，所有游戏共享最多 8 个 VMU 存档文件（A1/A2/B1/B2/C1/C2/D1/D2），这些文件位于 RetroArch 的系统文件夹中。\n"
+"“VMU A1” 设置会在 RetroArch 的存档文件夹中为每个启动的游戏创建一个唯一的 VMU 'A1' 文件。\n"
+"“所有 VMU” 设置会为每个启动的游戏创建最多 8 个唯一的 VMU 文件（A1/A2/B1/B2/C1/C2/D1/D2）。"
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "视觉内存单元/系统（VMU）声音"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "启用时，会播放 VMU 的“哔”声。"
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
@@ -1214,7 +1217,7 @@ msgstr ""
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "启用对模拟 VMU LCD 屏幕可见性、大小、位置和颜色的配置。注意：快速菜单可能需要切换才能使此设置生效。"
 
 msgctxt "#30313"
 msgid "Japan"

@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Näytön suunta"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "Sumutehosteet"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "Kaapelin tyyppi"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
@@ -107,19 +107,19 @@ msgstr ""
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "Käytä DSP:tä"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Anisotrooppinen suodatus"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "PowerVR2-jälkikäsittelysuodatin"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "Tekstuurin yliskaalaus (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
@@ -375,7 +375,7 @@ msgstr ""
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "Muokkaa renderöintitarkkuutta."
 
 msgctxt "#30092"
 msgid "Horizontal"
@@ -395,11 +395,11 @@ msgstr ""
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M (Brasilia)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
-msgstr ""
+msgstr "PAL-N (Argentiina, Paraguay, Uruguay)"
 
 msgctxt "#30098"
 msgid "PAL (World)"
@@ -415,7 +415,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "Normaali"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -439,7 +439,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Syöte"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -479,35 +479,35 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Musta"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Sininen"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "Vaaleansininen"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Vihreä"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "Syaani"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "Turkoosi sininen"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "Vaaleanvihreä"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "Syaani vihreä"
 
 msgctxt "#30125"
 msgid "Light Cyan"
@@ -515,11 +515,11 @@ msgstr ""
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Punainen"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Violetti"
 
 msgctxt "#30128"
 msgid "Light Purple"
@@ -527,11 +527,11 @@ msgstr ""
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Keltainen"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "Harmaa"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
@@ -567,7 +567,7 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Oranssi"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
@@ -583,11 +583,11 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Valkoinen"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulointikikat"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -599,7 +599,7 @@ msgstr ""
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Järjestelmä"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
@@ -643,7 +643,7 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "Laajakaista-adapterin emulaatio"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
@@ -651,19 +651,19 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "Käytä UPnP:tä"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "Käytä UPnP:tä Internet-reitittimen määrittämiseksi verkkopelejä varten."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "Käytä DCNetiä"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "Käytä DCNet-pilvipalvelua Dreamcastin Internet-käyttöön."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
@@ -671,15 +671,15 @@ msgstr ""
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Sisäinen resoluutio"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240 (Puolikas)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (Natiivi)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -819,7 +819,7 @@ msgstr ""
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Tekstuurisuodatus"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
@@ -827,7 +827,7 @@ msgstr ""
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "Oletus"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
@@ -883,7 +883,7 @@ msgstr ""
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Suorituskyky"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
@@ -891,7 +891,7 @@ msgstr ""
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Säikeistetty renderöinti"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
@@ -907,7 +907,7 @@ msgstr ""
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "Määritä laajakuvaohituksen, GD-ROM-latausnopeuden ja tekstuurikorvauksen asetukset."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
@@ -927,7 +927,7 @@ msgstr ""
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "SH4-suorittimen ali-/ylikellotus"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
@@ -1151,7 +1151,7 @@ msgstr ""
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "Aseen tähtäimen koko"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
@@ -1250,7 +1250,7 @@ msgstr ""
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "Kun käytössä, VMU-piippaukset toistetaan."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"

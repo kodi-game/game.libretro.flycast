@@ -48,15 +48,15 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Képernyő tájolása"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr ""
+msgstr "Alfa rendezés"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr ""
+msgstr "GD-ROM gyorstöltés (pontatlan)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
@@ -64,11 +64,11 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "Köd effekt"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr ""
+msgstr "Térfogatmódosító"
 
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
@@ -76,15 +76,15 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
+msgstr "Szélesvásznú csalások (újraindítás szükséges)"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "Kábel típusa"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr ""
+msgstr "Műsorszórási szabvány"
 
 msgctxt "#30016"
 msgid "Framerate"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "Régió"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Nyelv"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -108,39 +108,39 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr ""
+msgstr "Analóg kar holtsávja"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr ""
+msgstr "Ravasz holtsávja"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr ""
+msgstr "Digitális ravasz"
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "DSP engedélyezése"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Anizotróp szûrés"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "PowerVR2 utófeldolgozó szűrő"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "Textúra felméretezés (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr ""
+msgstr "Textúra felméretezés maximális szűrt mérete"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr ""
+msgstr "RTT (Render to texture) puffer engedélyezése"
 
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
@@ -156,11 +156,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr ""
+msgstr "Képkockacsere késleltetése"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr ""
+msgstr "Képkocka kihagyás"
 
 msgctxt "#30035"
 msgid "Purupuru Pack/Vibration Pack"
@@ -176,135 +176,135 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr ""
+msgstr "Egyedi textúrák betöltése"
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
+msgstr "Textúrák lementése"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr ""
+msgstr "Játékonként külön Visual Memory Unit/System (VMU)"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr ""
+msgstr "Visual Memory Unit/System (VMU) megjelenítési beállítások jelenjenek meg"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr ""
+msgstr "VMU 1 képernyő megjelenítése"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr ""
+msgstr "VMU 1 képernyő helyzete"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr ""
+msgstr "VMU 1 képernyő mérete"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr ""
+msgstr "VMU 1 képernyő bekapcsolt pixel színe"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr ""
+msgstr "VMU 1 képernyő kikapcsolt pixel színe"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr ""
+msgstr "VMU 1 képernyő átlátszatlansága"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr ""
+msgstr "VMU 2 képernyő megjelenítése"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr ""
+msgstr "VMU 2 képernyő helyzete"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr ""
+msgstr "VMU 2 képernyő mérete"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr ""
+msgstr "VMU 2 képernyő bekapcsolt pixel színe"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr ""
+msgstr "VMU 2 képernyő kikapcsolt pixel színe"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr ""
+msgstr "VMU 2 képernyő átlátszatlansága"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr ""
+msgstr "VMU 3 képernyő megjelenítése"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr ""
+msgstr "VMU 3 képernyő helyzete"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr ""
+msgstr "VMU 3 képernyő mérete"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr ""
+msgstr "VMU 3 képernyő bekapcsolt pixel színe"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr ""
+msgstr "VMU 3 képernyő kikapcsolt pixel színe"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr ""
+msgstr "VMU 3 képernyő átlátszatlansága"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr ""
+msgstr "VMU 4 képernyő megjelenítése"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr ""
+msgstr "VMU 4 képernyő helyzete"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr ""
+msgstr "VMU 4 képernyő mérete"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr ""
+msgstr "VMU 4 képernyő bekapcsolt pixel színe"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr ""
+msgstr "VMU 4 képernyő kikapcsolt pixel színe"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr ""
+msgstr "VMU 4 képernyő átlátszatlansága"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr ""
+msgstr "Fénypisztoly beállítások megjelenítése"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr ""
+msgstr "1. fénypisztoly célkeresztjének megjelenítése"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr ""
+msgstr "2. fénypisztoly célkeresztjének megjelenítése"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr ""
+msgstr "3. fénypisztoly célkeresztjének megjelenítése"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr ""
+msgstr "4. fénypisztoly célkeresztjének megjelenítése"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -328,23 +328,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "Mindenképp a magas szinten emulált BIOS használata."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "Per-strip (gyors, legkevésbé pontos)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "Per-triangle (normál)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "Per-pixel (pontos, de a leglassabb)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "A GD-ROM betöltésének felgyorsítása."
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -356,11 +356,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "A Dreamcast DSP (digitális jelfeldolgozó) emulálásának engedélyezése. Javítja a generált hang pontosságát, de megnöveli a teljesítményigényt."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "A CPU és GPU külön szálon futnak. Erősen ajánlott."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "Kép"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -384,27 +384,27 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "Magasabb felbontások helyes visszaadásához nagyobb értékek kellhetnek."
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "A képelőállítás felbontása."
 
 msgctxt "#30092"
 msgid "Horizontal"
-msgstr ""
+msgstr "Vízszintes"
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "Függőleges"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "A Dreamcast GPU-jának egy szolgáltatása, amit a játékok rendszerint tárgyak árnyékának megrajzolásához használnak. Normál esetben legyen bekapcsolva, hatása a teljesítményre rendszerint minimális vagy elhanyagolható."
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "A kimenő jel típusa. A \"TV (kompozit)\" támogatása a legelterjedtebb."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
@@ -416,7 +416,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL (Világszerte)"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "Normál"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -436,11 +436,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "Az előállított kép utófeldolgozása a PowerVR2 GPU és az analóg videojelek egyedi effektjeinek szimulálásához."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "A kézzel rajzolt 2D pixel art grafikák feljavítása. Csak a 2D pixelgrafikus játékokhoz ajánlott."
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -448,11 +448,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "Két megjelenített képkocka közt ennyi képkocka eldobása."
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Bemenet"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -484,123 +484,123 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "Alapértelmezésben bekapcsolva"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "Alapértelmezésben kikapcsolva"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Fekete"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Kék"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "Világoskék"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Zöld"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "Ciánkék"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "Ciánkék"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "Világoszöld"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "Ciánzöld"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "Világos ciánkék"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Vörös"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "Világoslila"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Sárga"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "Szürke"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "Világoslila (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "Világoszöld (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "Világoszöld (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "Világos ciánkék (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "Világospiros (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "Bíbor"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "Világoslila (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "Világos narancs"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Narancssárga"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "Világoslila (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "Halványsárga"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "Halványsárga (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Fehér"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulációs trükkök"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -608,39 +608,39 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "Csalások alkalmazása, amelyekkel bizonyos játékok szélesvásznú formátumban jelennek meg."
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Rendszer"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "A régió, nyelv, BIOS, és a hardveralap beállításai."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "A nyelv, amelyet a BIOS és a több nyelvet tartalmazó játékok használnak."
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "HLE BIOS (újraindítás szükséges)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "Játéktermi szervizgombok engedélyezése"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "A játéktermi SERVICE gomb engedélyezése, a játékgép beállításaihoz."
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "Ingyen játék a NAOMI játékokhoz"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "Az érmebeállítások ingyen játékra állítása."
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -656,43 +656,43 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "Szélessávú adapter emulálása"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr ""
+msgstr "Modem helyett a szélessávú Ethernet adapter emulálása. (Újraindítás szükséges.)"
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "UPnP engedélyezése"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "Az internetre csatlakozó router automatikus konfigurálása az online játékokhoz UPnP-n keresztül."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "DCNet használata"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "A DCNet felhőszolgáltatás használata a Dreamcast internet hozzáféréséhez."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "A felbontás, sorrendfüggetlen átlátszóság, és vizuális effektek beállításai."
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Belső felbontás"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240 (Felezett)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (Eredeti)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -796,71 +796,71 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "Az átlátszó poligonok rendezése."
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "Pixel gyűjtőbuffer mérete"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "Átlátszó rétegek maximális száma"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "Összetett jelenetekhez nagyobb értékekre lehet szükség."
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "Teljes framebuffer emuláció"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "A VRAM framebuffer teljes emulálásának engedélyezése. Olyan játékokhoz hasznos, amelyek közvetlenül a VRAM-ban írják vagy olvassák a framebuffert. Bekapcsolva a belső felbontás mindenképpen 640x480 lesz és a teljesítmény erősen visszaeshet."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "Az előállított textúrák visszamásolása a GPU-ból a VRAM-ba. Ez a lehetőség rendszerint be van kapcsolva azoknál a játékoknál, amelyek igénylik. Bekapcsolt állapotban a textúra előállítás felméretezése kikapcsol, és hatással lehet a teljesítményre."
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "Bekapcsolva a textúrák saját maguk kisebb változatát használják, amikor távolabb tűnnek fel. Javítja a teljesítményt és csökkenti a remegést."
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Minőségjavítás azokon a felületi textúrákon, amik a kamerához képest rézsútosan helyezkednek el. Nagyobb érték jobban terheli a GPU-t. A változtatás csak újraindítás után lép életbe."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Textúraszűrés"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "A textúraszűrés módja. Ezzel lehet egy bizonyos textúraszűrési módot rákényszeríteni minden textúrára, hogy az alapértelmezésnél élesebb (vagy simább) megjelenésük legyen. Az alapértelmezettől eltérő értékek különféle megjelenítési hibákat okozhatnak. A változások csak újraindítás után lépnek életbe."
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "Alapértelmezett"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "Mindenképp Nearest-Neighbor"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "Mindenképp lineáris"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "A villódzó képernyőt vagy hibás mozgóképet segít elkerülni. Lassú platformokon nem ajánlott."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "Képkockasebesség változásainak érzékelése"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "A frontend értesítése, amikor a belső képsebesség megváltozik (pl. 60 fps-ről 30 fps-re). Javítja a megjelenítés ütemét olyan játékoknál, amelyek fix 20 vagy 30 fps-sel futnak, de legyen kikapcsolva nem rögzített (instabil) képsebességű játékoknál (pl. Ecco the Dolphin, Unreal Tournament). Figyelem: nem elérhető, ha az automatikus képkocka kihagyás be van kapcsolva."
 
 msgctxt "#30210"
 msgid "2x"
@@ -876,59 +876,59 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "A textúra legnagyobb mérete felméretezéshez. Ha a textúra mérete nagyobb, mint az itt kiválasztott, nem lesz felméretezve."
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "Natív mélységi interpoláció"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "Segíthet a textúrahibákon és mélységi problémákon AMD GPU-k, vagy néhány esetben Intel GPU-k használatakor is."
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "Felméretezés széleinek javítása"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "Segít a textúrák túlcsordulásán felméretezéskor. Kikapcsolva segíthet a 2D játékok (MVC2, CVS, KOF stb.) felméretezésekor jelentkező pixeltorzuláson."
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Teljesítmény"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "A többszálas megjelenítés és képkockakihagyás beállításai."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Többszálas képelőállítás"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "Automatikus képkocka kihagyás"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "Képkockák automatikus kihagyása, ha az emulátor lassan fut. Figyelem: csak akkor érvényes, ha a többszálas képelőállítás engedélyezett."
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "Maximális"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "A szélesvásznú módosítások, GD-ROM betöltés sebessége, és a textúracserék beállításai."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "Szélesvásznú trükk"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "A normál 4:3-as képarányon kívüli geometria felrajzolása. Grafikai hibákat tartalmazhat az így megjelenített területeken."
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
@@ -936,15 +936,15 @@ msgstr ""
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "A Dreamcast 32 MB-os RAM módosítása. Hatással lehet a kompatibilitásra"
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "SH4 CPU alul/túlhajtás"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "Az SH4 fő CPU órajelének átállítása az alapértelmezett 200 Mhz-ről. Az alulhajtás segíthet lassú platformokon, a túlhajtás növelheti a képsebességet néhány játéknál. Óvatos használatra."
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -1112,75 +1112,75 @@ msgstr ""
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "Egyedi textúrák betöltése a 'system/dc/textures/<game-id>/' mappából."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr ""
+msgstr "Egyéni textúrák előzetes betöltése"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr ""
+msgstr "A játék indításakor előre betölti az egyéni textúrákat. Javíthatja a teljesítményt, de növeli a memóriahasználatot."
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "A textúrák lementése .png fájlként a 'system/dc/texdump/<game-id>/' mappába, amint a játék új textúrát használ."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr ""
+msgstr "Lecserélt textúrák kimentése"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr ""
+msgstr "Az egyéni textúrák által lecserélt textúrák kiírása."
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "A kontroller és fénypisztoly beállításai."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "Az analóg kart ilyen mértékben kell elmozdítani ahhoz, hogy hatása legyen."
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "A ravaszt ilyen mértékben kell elmozdítani ahhoz, hogy hatása legyen."
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "Bekapcsolva a ravaszok normális gombokként működnek, teljesen vagy egyáltalán nem lenyomott állapotot visszaadva, köztes érték nélkül."
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "Digitális kimenetek sugárzása"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "A digitális kimenetek és az erővisszacsatolás állapotának közzététele a 8000-es TCP porton. Kompatibilis a MAME \"-output network\" opciójával."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "A fénypisztoly célkereszt megjelenítés beállításai. Figyelem: a változtatás életbelépéséhez újra be kell lépni a gyorsmenübe."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "A fénypisztoly célkeresztjének méretezése"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "Kontroller bővítőhelyek"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "Az egyes kontroller bővítőhelyekbe csatlakoztatott eszköz (VMU, rezgő eszköz)."
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "Az A1 bővítőhelyen található eszköz"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "Az A1 bővítőhelybe csatlakoztatott eszköz (A csatlakozó, 1. hely)."
 
 msgctxt "#30290"
 msgid "Vibration Pack"
@@ -1188,59 +1188,59 @@ msgstr ""
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "Az A2 bővítőhelyen található eszköz"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "Az A2 bővítőhelybe csatlakoztatott eszköz (A csatlakozó, 2. hely)."
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "A B1 bővítőhelyen található eszköz"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "A B1 bővítőhelybe csatlakoztatott eszköz (B csatlakozó, 1. hely)."
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "A B2 bővítőhelyen található eszköz"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "A B2 bővítőhelybe csatlakoztatott eszköz (B csatlakozó, 2. hely)."
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "A C1 bővítőhelyen található eszköz"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "A C1 bővítőhelybe csatlakoztatott eszköz (C csatlakozó, 1. hely)."
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "A C2 bővítőhelyen található eszköz"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "A C2 bővítőhelybe csatlakoztatott eszköz (C csatlakozó, 2. hely)."
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "A D1 bővítőhelyen található eszköz"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "A D1 bővítőhelybe csatlakoztatott eszköz (D csatlakozó, 1. hely)."
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "A D2 bővítőhelyen található eszköz"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "A D2 bővítőhelybe csatlakoztatott eszköz (D csatlakozó, 2. hely)."
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
@@ -1248,7 +1248,7 @@ msgstr ""
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "A játékonkénti VMU mentések és a képernyőn látható VMU beállításai."
 
 msgctxt "#30307"
 msgid ""
@@ -1256,26 +1256,29 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
+"Kikapcsolva minden játék ugyanazt a legfeljebb 8 VMU mentés fájlt (A1/A2/B1/B2/C1/C2/D1/D2) használja a RetroArch rendszerkönyvtárban.\n"
+"\"VMU A1\" beállításnál minden elindított játéknak külön VMU \"A1\" fájlt hoz létre.\n"
+"\"Minden VMU\" beállításnál minden elindított játéknak legfeljebb 8 külön VMU fájlt (A1/A2/B1/B2/C1/C2/D1/D2) hoz létre."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "A Visual Memory Unit / System (VMU) hangjai"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "Bekapcsolva a VMU csipogása is hallható."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr ""
+msgstr "DreamPotato VMU tárhely"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr ""
+msgstr "A VMU tárolása a csatlakoztatott DreamPotato emulátoron. Bekapcsolt állapotban a helyi VMU mentés fájl nincs használatban."
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Az emulált VMU LCD képernyő láthatósági, méret, helyzet, és szín beállításainak engedélyezése. Figyelem: a gyorsmenüt ki-be kell kapcsolni, hogy ez a beállítás érvényre jusson."
 
 msgctxt "#30313"
 msgid "Japan"

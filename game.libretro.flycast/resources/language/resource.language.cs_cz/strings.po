@@ -31,27 +31,27 @@ msgstr "Orientace obrazovky"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr "Řazení alfa průhlednosti"
+msgstr "Třídění Alpha"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr "Rychlé načítání GD-ROM (nepřesné)"
+msgstr "Rychlé Načítání GD-ROM (nepřesné)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr "Mipmapping"
+msgstr "Mipmapování"
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr "Efekty mlhy"
+msgstr "Efekty Mlhy"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr "Objemový modifikátor"
+msgstr "Modifikátor Hlasitosti"
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr "Cheaty pro širokoúhlý režim (vyžaduje restart)"
+msgstr "Širokoúhlé Cheaty (Nutný Restart)"
 
 msgctxt "#30014"
 msgid "Cable Type"
@@ -59,7 +59,7 @@ msgstr "Typ kabelu"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr "Vysílací norma"
+msgstr "Standardní Vysílání"
 
 msgctxt "#30017"
 msgid "Region"
@@ -71,15 +71,15 @@ msgstr "Jazyk"
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr "Mrtvá zóna analogové páčky"
+msgstr "Analogova Páčka Mrtvé Zóny"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr "Mrtvá zóna spouště"
+msgstr "Spouštěč Mrtvé Zóny"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr "Digitální spouště"
+msgstr "Digitální Spouštěče"
 
 msgctxt "#30024"
 msgid "Enable DSP"
@@ -87,179 +87,179 @@ msgstr "Povolit DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr "Anizotropní filtrování"
+msgstr "Anizotropní Filtrování"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr "Postprocesingový filtr PowerVR2"
+msgstr "Postprocesní Filtr PowerVR2"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr "Škálování textur (xBRZ)"
+msgstr "Vylepšení Textur (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr "Maximální filtrovaná velikost pro škálování textur"
+msgstr "Zvýšení Rozlišení Textur Max. Filtrovaná Velikost"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr "Povolit buffer RTT (Render To Texture)"
+msgstr "Povolení Vyrovnávací Paměti RTT (Render To Texture)"
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr "Zpožděná výměna snímků"
+msgstr "Výměna Zpožděných Snímků"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr "Přeskakování snímků"
+msgstr "Přeskočení Snímků"
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr "Načítat vlastní textury"
+msgstr "Načíst Vlastní Textury"
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr "Exportovat textury"
+msgstr "Skladiště Textur"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "VMU pro jednotlivé hry"
+msgstr "Vizuální Paměťové Jednotky/Systémy pro Jednotlivé Hry (VMU)"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Zobrazit nastavení displeje VMU"
+msgstr "Zobrazit Nastavení Displeje Vizuální Paměťové Jednotky/Systému (VMU)"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr "Zobrazení obrazovky VMU 1"
+msgstr "Displej Obrazovky VMU 1"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr "Pozice obrazovky VMU 1"
+msgstr "Pozice Obrazovky VMU 1"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr "Velikost obrazovky VMU 1"
+msgstr "Velikost Obrazovky VMU 1"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr "Barva zapnutého pixelu obrazovky VMU 1"
+msgstr "Zapnout Barvu Pixelu Obrazovky VMU 1"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr "Barva vypnutého pixelu obrazovky VMU 1"
+msgstr "Vypnout Barvu Pixelu Obrazovky VMU 1"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr "Neprůhlednost obrazovky VMU 1"
+msgstr "Průhlednost Obrazovky VMU 1"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr "Zobrazení obrazovky VMU 2"
+msgstr "Displej Obrazovky VMU 2"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr "Pozice obrazovky VMU 2"
+msgstr "Pozice Obrazovky VMU 2"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr "Velikost obrazovky VMU 2"
+msgstr "Velikost Obrazovky VMU 2"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr "Barva zapnutého pixelu obrazovky VMU 2"
+msgstr "Zapnout Barvu Pixelu Obrazovky VMU 2"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr "Barva vypnutého pixelu obrazovky VMU 2"
+msgstr "Vypnout Barvu Pixelu Obrazovky VMU 2"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr "Neprůhlednost obrazovky VMU 2"
+msgstr "Průhlednost Obrazovky VMU 2"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr "Zobrazení obrazovky VMU 3"
+msgstr "Displej Obrazovky VMU 3"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr "Pozice obrazovky VMU 3"
+msgstr "Pozice Obrazovky VMU 3"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr "Velikost obrazovky VMU 3"
+msgstr "Velikost Obrazovky VMU 3"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr "Barva zapnutého pixelu obrazovky VMU 3"
+msgstr "Zapnout Barvu Pixelu Obrazovky VMU 3"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr "Barva vypnutého pixelu obrazovky VMU 3"
+msgstr "Vypnout Barvu Pixelu Obrazovky VMU 3"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr "Neprůhlednost obrazovky VMU 3"
+msgstr "Průhlednost Obrazovky VMU 3"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr "Zobrazení obrazovky VMU 4"
+msgstr "Displej Obrazovky VMU 4"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr "Pozice obrazovky VMU 4"
+msgstr "Pozice Obrazovky VMU 4"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr "Velikost obrazovky VMU 4"
+msgstr "Velikost Obrazovky VMU 4"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr "Barva zapnutého pixelu obrazovky VMU 4"
+msgstr "Zapnout Barvu Pixelu Obrazovky VMU 4"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr "Barva vypnutého pixelu obrazovky VMU 4"
+msgstr "Vypnout Barvu Pixelu Obrazovky VMU 4"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr "Neprůhlednost obrazovky VMU 4"
+msgstr "Průhlednost Obrazovky VMU 4"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr "Zobrazit nastavení světelných pistolí"
+msgstr "Zobrazit Nastavení Světelné Pistole"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr "Zobrazení zaměřovacího kříže pistole 1"
+msgstr "Zobrazení Kříže Zbraně 1"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr "Zobrazení zaměřovacího kříže pistole 2"
+msgstr "Zobrazení Kříže Zbraně 2"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr "Zobrazení zaměřovacího kříže pistole 3"
+msgstr "Zobrazení Kříže Zbraně 3"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr "Zobrazení zaměřovacího kříže pistole 4"
+msgstr "Zobrazení Kříže Zbraně 4"
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr "Vynutit použití HLE BIOSu."
+msgstr "Vynucení použití vysokoúrovňové emulace systému BIOS."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr "Pro každý pás trojúhelníků (rychlé, nejméně přesné)"
+msgstr "Per-Strip (rychlé, nejméně přesné)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr "Pro každý trojúhelník (běžné)"
+msgstr "Per-Triangle (normální)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr "Pro každý pixel (přesné, ale nejpomalejší)"
+msgstr "Per-Pixel (přesné, ale nejpomalejší)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
@@ -267,11 +267,11 @@ msgstr "Zrychluje načítání GD-ROM."
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr "Povolit emulaci zvukového DSP Dreamcastu (digitálního signálového procesoru). Zvyšuje přesnost generovaného zvuku, ale zvyšuje nároky na výkon."
+msgstr "Umožňuje emulaci zvukového DSP (digitálního signálového procesoru) konzole Dreamcast. Zlepšuje přesnost generovaného zvuku, ale zvyšuje nároky na výkon."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr "GPU a CPU běží v různých vláknech. Důrazně doporučeno."
+msgstr "Spouští GPU a CPU v různých vláknech. Důrazně doporučujeme."
 
 msgctxt "#30088"
 msgid "Video"
@@ -283,7 +283,7 @@ msgstr "Pro správný výstup ve vyšších rozlišeních mohou být nutné vyš
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr "Upravit rozlišení vykreslování."
+msgstr "Úprava rozlišení vykreslování."
 
 msgctxt "#30092"
 msgid "Horizontal"
@@ -295,11 +295,11 @@ msgstr "Vertikální"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr "Funkce GPU konzole Dreamcastu, kterou hry obvykle používají k vykreslování stínů objektů. Za běžných okolností by měla být povolena – dopad na výkon je obvykle minimální až zanedbatelný."
+msgstr "Funkce grafického procesoru Dreamcast, která se obvykle používá ve hrách ke kreslení stínů objektů. Tato funkce by měla být normálně povolena - dopad na výkon je obvykle minimální až zanedbatelný."
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr "Typ výstupního signálu. Nejširší podporu má „TV (Composite)“."
+msgstr "Typ výstupního signálu. Nejvíce podporovaný je 'TV (Kompozitní)'."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
@@ -311,7 +311,7 @@ msgstr "PAL-N (Argentina, Paraguay, Uruguay)"
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr "PAL (svět)"
+msgstr "PAL (Svět)"
 
 msgctxt "#30101"
 msgid "Normal"
@@ -319,15 +319,15 @@ msgstr "Normální"
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr "Provádí postprocesing vykresleného obrazu za účelem simulace efektů specifických pro GPU PowerVR2 a analogové videosignály."
+msgstr "Následné zpracování vykresleného obrazu pro simulaci efektů specifických pro grafický procesor PowerVR2 a analogové video signály."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr "Vylepšuje ručně kreslenou 2D pixelovou grafiku. Mělo by se používat pouze s 2D pixelovými hrami."
+msgstr "Vylepšete ručně kreslenou 2D pixelovou grafiku. Mělo by se používat pouze ve 2D pixelových hrách."
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr "Nastavuje počet snímků, které se mají přeskočit mezi jednotlivými zobrazenými snímky."
+msgstr "Nastaví počet snímků, které se mají přeskočit mezi jednotlivými zobrazenými snímky."
 
 msgctxt "#30107"
 msgid "Input"
@@ -335,11 +335,11 @@ msgstr "Vstup"
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr "Výchozí barva zapnutého pixelu"
+msgstr "Výchozí ON"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr "Výchozí barva vypnutého pixelu"
+msgstr "Výchozí OFF"
 
 msgctxt "#30117"
 msgid "Black"
@@ -347,15 +347,15 @@ msgstr "Černá"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr "Modrá"
+msgstr "Modrý"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr "Světle modrá"
+msgstr "Světle Modrá"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr "Zelená"
+msgstr "Zelený"
 
 msgctxt "#30121"
 msgid "Cyan"
@@ -363,23 +363,23 @@ msgstr "Azurová"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr "Azurově modrá"
+msgstr "Azurově Modrá"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr "Světle zelená"
+msgstr "Světle Zelená"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr "Azurově zelená"
+msgstr "Azurově Zelená"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr "Světle azurová"
+msgstr "Světle Azurová"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr "Červená"
+msgstr "Červený"
 
 msgctxt "#30127"
 msgid "Purple"
@@ -387,7 +387,7 @@ msgstr "Fialová"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr "Světle fialová"
+msgstr "Světle Fialová"
 
 msgctxt "#30129"
 msgid "Yellow"
@@ -399,23 +399,23 @@ msgstr "Šedá"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr "Světle fialová (2)"
+msgstr "Světle Fialová (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr "Světle zelená (2)"
+msgstr "Světle Zelená (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr "Světle zelená (3)"
+msgstr "Světle Zelená (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr "Světle azurová (2)"
+msgstr "Světle Azurová (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr "Světle červená (2)"
+msgstr "Světle Červená (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
@@ -423,11 +423,11 @@ msgstr "Purpurová"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr "Světle fialová (3)"
+msgstr "Světle Fialová (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr "Světle oranžová"
+msgstr "Světle Oranžová"
 
 msgctxt "#30139"
 msgid "Orange"
@@ -435,15 +435,15 @@ msgstr "Oranžová"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr "Světle fialová (4)"
+msgstr "Světle Fialová (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr "Světle žlutá"
+msgstr "Světle Žlutá"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr "Světle žlutá (2)"
+msgstr "Světle Žlutá (2)"
 
 msgctxt "#30143"
 msgid "White"
@@ -451,11 +451,11 @@ msgstr "Bílá"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr "Emulační úpravy"
+msgstr "Emulace hacků"
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr "Aktivuje cheaty, které některým hrám umožňují zobrazit se v širokoúhlém režimu."
+msgstr "Aktivuje cheaty, které umožňují zobrazení některých her v širokoúhlém formátu."
 
 msgctxt "#30147"
 msgid "System"
@@ -463,31 +463,31 @@ msgstr "Systém"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr "Nastavení oblasti, jazyka, BIOSu a základního hardwaru."
+msgstr "Konfigurace regionu, jazyka, systému BIOS a základního nastavení hardwaru."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr "Mění jazyk používaný BIOSem a hrami, které obsahují více jazyků."
+msgstr "Změní jazyk používaný systémem BIOS a všemi hrami, které obsahují více jazyků."
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr "HLE BIOS (vyžaduje restart)"
+msgstr "HLE BIOS (nutný restart)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr "Povolit servisní tlačítka arkádových automatů"
+msgstr "Povolení tlačítek služby Arcade"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr "Povoluje tlačítko SERVICE pro arkádové hry, kterým lze otevřít nastavení automatu."
+msgstr "Povoluje tlačítko SERVICE pro arkádové hry, které slouží k zadání nastavení kabinetu."
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr "Nastavit hry NAOMI na bezplatné hraní"
+msgstr "Nastavení her NAOMI na volné hraní"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr "Změní nastavení vkládání mincí ve hře na bezplatné hraní."
+msgstr "Upravte nastavení mincí ve hře na volnou hru."
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -507,7 +507,7 @@ msgstr "Emulace širokopásmového adaptéru"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr "Emulovat širokopásmový ethernetový adaptér namísto modemu. (Vyžaduje restart)"
+msgstr "Emulujte širokopásmový adaptér Ethernet namísto modemu. (Je nutný restart.)"
 
 msgctxt "#30160"
 msgid "Enable UPnP"
@@ -515,27 +515,27 @@ msgstr "Povolit UPnP"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr "Používat UPnP k automatickému nastavení internetového routeru pro online hry."
+msgstr "Pomocí UPnP můžete automaticky nakonfigurovat svůj internetový směrovač pro online hry."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr "Používat DCNet"
+msgstr "Použít DCNet"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr "Používat cloudovou službu DCNet pro přístup Dreamcastu k internetu."
+msgstr "Pro přístup k internetu na Dreamcastu použijte cloudovou službu DCNet."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr "Nastavení rozlišení, průhlednosti nezávislé na pořadí a vizuálních efektů."
+msgstr "Konfigurace rozlišení, nastavení průhlednosti a vizuálních efektů nezávislých na pořadí."
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr "Interní rozlišení"
+msgstr "Vnitřní rozlišení"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr "320x240 (poloviční)"
+msgstr "320x240 (Poloviční)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
@@ -547,7 +547,7 @@ msgstr "800x600 (x1.25)"
 
 msgctxt "#30169"
 msgid "960x720 (x1.5)"
-msgstr "960x720 (x1.5)"
+msgstr "960 x 720 (x1.5)"
 
 msgctxt "#30170"
 msgid "1024x768 (x1.6)"
@@ -559,7 +559,7 @@ msgstr "1280x960 (x2)"
 
 msgctxt "#30172"
 msgid "1440x1080 (x2.25)"
-msgstr "1440x1080 (x2.25)"
+msgstr "1440 x 1080 (x2.25)"
 
 msgctxt "#30173"
 msgid "1600x1200 (x2.5)"
@@ -571,7 +571,7 @@ msgstr "1920x1440 (x3)"
 
 msgctxt "#30175"
 msgid "2560x1920 (x4)"
-msgstr "2560x1920 (x4)"
+msgstr "2560 x 1920 (x4)"
 
 msgctxt "#30176"
 msgid "2880x2160 (x4.5)"
@@ -647,7 +647,7 @@ msgstr "Vyberte způsob řazení průhledných polygonů."
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr "Velikost akumulačního pixelového bufferu"
+msgstr "Velikost akumulační vyrovnávací paměti pixelů"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
@@ -655,7 +655,7 @@ msgstr "Maximální počet průhledných vrstev"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr "Pro složité scény mohou být nutné vyšší hodnoty."
+msgstr "U složitých scén mohou být nutné vyšší hodnoty."
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
@@ -663,19 +663,19 @@ msgstr "Úplná emulace framebufferu"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr "Povolit úplnou emulaci framebufferu ve VRAM. Je užitečná pro hry, které přímo čtou z framebufferu ve VRAM nebo do něj zapisují. Při povolení je interní rozlišení vynuceno na 640x480 a výkon může být výrazně snížen."
+msgstr "Povolení úplné emulace framebufferu v paměti VRAM. To je užitečné pro hry, které přímo čtou nebo zapisují framebuffer do VRAM. Pokud je tato funkce povolena, interní rozlišení je vynuceno na 640x480 a může dojít k výraznému snížení výkonu."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr "Kopírovat vykreslené textury zpět z GPU do VRAM. Tato možnost je obvykle povolena u her, které ji vyžadují. Při povolení je vypnuto škálování vykreslování textur a může se snížit výkon."
+msgstr "Kopírování vykreslených textur z GPU zpět do VRAM. Tato možnost je obvykle povolena u her, které ji vyžadují. Pokud je povolena, je vypnuto zvyšování rozlišení vykreslovaných textur a může dojít ke snížení výkonu."
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr "Při povolení budou textury ve větší vzdálenosti používat své menší verze. Může to zvýšit výkon a omezit třpytění."
+msgstr "Pokud je tato funkce povolena, textury použijí menší verzi sebe sama, když se objeví ve větší vzdálenosti, což může zvýšit výkon a snížit třpyt."
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr "Zvyšuje kvalitu textur na površích pozorovaných z šikmých úhlů vůči kameře. Vyšší hodnoty jsou náročnější na GPU. Změny tohoto nastavení se projeví až po restartu."
+msgstr "Vylepšete kvalitu textur na površích, které jsou vůči kameře pod šikmým úhlem pohledu. Vyšší hodnoty jsou náročnější na grafický procesor. Změny tohoto nastavení se uplatní až po restartu."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
@@ -683,7 +683,7 @@ msgstr "Filtrování textur"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr "Režim filtrování textur. Lze jím vynutit určitý režim filtrování pro všechny textury a získat ostřejší (nebo hladší) vzhled než při volbě „Výchozí“. Jiné hodnoty než „Výchozí“ mohou způsobit různé problémy s vykreslováním. Změny tohoto nastavení se projeví až po restartu."
+msgstr "Režim filtrování textur, který se má použít. Tento parametr lze použít k vynucení určitého režimu filtrování textur na všech texturách, abyste dosáhli ostřejšího (nebo hladšího) vzhledu než ve výchozím nastavení. Jiné hodnoty než výchozí mohou způsobit různé problémy s vykreslováním. Změny tohoto nastavení se uplatní až po restartu."
 
 msgctxt "#30204"
 msgid "Default"
@@ -691,23 +691,23 @@ msgstr "Výchozí"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr "Vynutit filtrování nejbližším sousedem"
+msgstr "Vynucený Nearest-Neighbor"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr "Vynutit lineární filtrování"
+msgstr "Vynucený lineární"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr "Užitečné k zabránění blikání obrazovky nebo artefaktům ve videu. Nedoporučuje se na pomalých platformách."
+msgstr "Je užitečné vyhnout se blikajícím obrazovkám nebo poruchovým videím. Nedoporučuje se na pomalých platformách."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr "Zjišťovat změny snímkové frekvence"
+msgstr "Detekce změn snímkové frekvence"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr "Informuje frontend o změně interní snímkové frekvence (např. ze 60 fps na 30 fps). Zlepšuje pravidelnost zobrazování snímků ve hrách běžících s pevnou frekvencí 30 fps nebo 20 fps, ale mělo by být vypnuto u her s neomezenou (nestabilní) snímkovou frekvencí (např. Ecco the Dolphin, Unreal Tournament). Poznámka: Není dostupné, když je povoleno „Automatické přeskakování snímků“."
+msgstr "Upozornit frontend při změně interní snímkové frekvence (např. z 60 fps na 30 fps). Zlepšuje snímkovou frekvenci ve hrách, které běží s uzamčenou snímkovou frekvencí 30 fps nebo 20 fps, ale měl by být vypnut pro hry s odemčenou (nestabilní) snímkovou frekvencí (např. Ecco the Dolphin, Unreal Tournament). Poznámka: Není k dispozici, pokud je povoleno 'Automatické přeskakování snímků'."
 
 msgctxt "#30210"
 msgid "2x"
@@ -723,7 +723,7 @@ msgstr "6x"
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr "Vyberte maximální velikost textury určené ke zvětšení. Pokud je textura větší než zvolená hodnota, nebude zvětšena."
+msgstr "Vyberte maximální hodnotu velikosti textury, která má být zvětšena, pokud je velikost textury větší než vybraná hodnota, nebude zvětšena."
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
@@ -731,15 +731,15 @@ msgstr "Nativní interpolace hloubky"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr "Pomáhá při poškození textur a problémech s hloubkou na GPU AMD. V některých případech může pomoci také GPU Intel."
+msgstr "Pomáhá řešit problémy s poškozením textur a hloubkou na grafických procesorech AMD. V některých případech může pomoci i GPU Intel."
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr "Opravit přetékání textur při zvětšování"
+msgstr "Fix Upscalingu krvacející okraj"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr "Pomáhá při přetékání textur během zvětšování. Vypnutí může pomoci, pokud se při zvětšování ve 2D hrách deformují pixely (MVC2, CVS, KOF atd.)"
+msgstr "Pomáhá v případě krvácení textur při upscalingu. Jeho vypnutí může pomoci, pokud se pixely při upscalingu ve 2D hrách (MVC2, CVS, KOF atd.) deformují."
 
 msgctxt "#30218"
 msgid "Performance"
@@ -747,35 +747,35 @@ msgstr "Výkon"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr "Nastavení vykreslování ve vláknech a přeskakování snímků."
+msgstr "Konfigurace nastavení vykreslování ve vláknech a přeskakování snímků."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr "Vykreslování ve vláknech"
+msgstr "Vykreslování Vláken"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr "Automatické přeskakování snímků"
+msgstr "Automatické Přeskočení Snímků"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr "Automaticky přeskakuje snímky, když emulátor běží pomalu. Poznámka: Toto nastavení se použije pouze při povoleném „Vykreslování ve vláknech“."
+msgstr "Automatické přeskakování snímků při pomalém běhu emulátoru. Poznámka: Toto nastavení platí pouze tehdy, když je povoleno 'Vláknové Vykreslování'."
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr "Maximum"
+msgstr "Maximální"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr "Nastavení úprav pro širokoúhlé zobrazení, rychlosti načítání GD-ROM a nahrazování textur."
+msgstr "Konfigurace přepisu širokoúhlého zobrazení, rychlosti načítání GD-ROM a nastavení výměny textur."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr "Úprava pro širokoúhlé zobrazení"
+msgstr "Hack Širokoúhleho Obrazu"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr "Vykresluje geometrii mimo běžný poměr stran 4:3. V nově odkrytých oblastech může způsobit grafické chyby."
+msgstr "Kreslení geometrie mimo běžný poměr stran 4:3. Může způsobit grafické závady v odhalených oblastech."
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
@@ -783,15 +783,15 @@ msgstr "Úprava Dreamcastu na 32 MB RAM"
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr "Povoluje úpravu Dreamcastu na 32 MB RAM. Může ovlivnit kompatibilitu."
+msgstr "Povoluje 32MB RAM Mod pro Dreamcast. Může ovlivnit kompatibilitu"
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr "Podtaktování/přetaktování CPU SH4"
+msgstr "Podtaktování/přetaktování procesoru SH4"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr "Mění takt hlavního CPU SH4 z výchozích 200 MHz. Podtaktování může pomoci pomalým platformám. Přetaktování může v některých hrách zvýšit snímkovou frekvenci. Používejte opatrně."
+msgstr "Změňte takt hlavního procesoru SH4 z výchozích 200 MHz. Podtaktování může pomoci pomalým platformám. Přetaktování může u některých her zvýšit snímkovou frekvenci. Používejte s opatrností."
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -959,67 +959,67 @@ msgstr "500 MHz"
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr "Načítat vlastní textury umístěné ve složce 'system/dc/textures/<game-id>/'."
+msgstr "Načtení vlastních textur umístěných ve složce 'system/dc/textures/<game-id>/'."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr "Přednačítat vlastní textury"
+msgstr "Přednačíst vlastní textury"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr "Přednačítat vlastní textury při spuštění hry. Může zlepšit výkon, ale zvyšuje využití paměti."
+msgstr "Načíst vlastní textury při spuštění hry. Může zlepšit výkon, ale zvyšuje využití paměti."
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr "Pokaždé, když hra použije novou texturu, bude uložena jako soubor .png do složky 'system/dc/texdump/<game-id>/'."
+msgstr "Pokaždé, když hra použije novou texturu, uloží ji jako soubor .png do složky 'system/dc/texdump/<game-id>/'."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr "Exportovat nahrazené textury"
+msgstr "Vymazat nahrazené textury"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr "Vždy exportovat textury, které již byly nahrazeny vlastními texturami."
+msgstr "Vždy vymažte textury, které již byly nahrazeny vlastními texturami."
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr "Nastavení gamepadů a světelných pistolí."
+msgstr "Konfigurace nastavení gamepadu a světelné pistole."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr "Vyberte, jak daleko je nutné vychýlit analogovou páčku, než začne být její vstup zpracováván."
+msgstr "Zvolte, jak daleko musíte zatlačit na analogovou páčku, než se začne zpracovávat."
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr "Vyberte, jak silně je nutné stisknout spoušť, než začne být její vstup zpracováván."
+msgstr "Zvolte, jak dlouho musíte stisknout spoušť, než se začne zpracovávat."
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr "Při povolení budou spouště fungovat jako běžná tlačítka, takže budou zpracovávány buď jako zcela stisknuté, nebo jako nestisknuté, bez mezilehlých hodnot."
+msgstr "Pokud je tato funkce povolena, budou se spouštěče chovat jako běžná tlačítka, což znamená, že budou zpracovávány buď jako plně stisknuté, nebo jako nestisknuté, bez mezistupně."
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr "Vysílat digitální výstupy"
+msgstr "Digitální výstupy pro vysílání"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr "Vysílat digitální výstupy a stav silové zpětné vazby na portu TCP 8000. Kompatibilní s volbou MAME \"-output network\"."
+msgstr "Vysílání digitálních výstupů a stavu vynucene zpětné vazby na portu TCP 8000. Kompatibilní s volbou MAME \"-výstupní síť\"."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr "Povolit nastavení možností zobrazení zaměřovacích křížů světelných pistolí. POZNÁMKA: Aby se toto nastavení projevilo, může být nutné přepnout zobrazení rychlé nabídky."
+msgstr "Povolení konfigurace možností zobrazení zaměřovacího kříže světelné pistole. POZNÁMKA: Aby se toto nastavení projevilo, může být nutné přepnout rychlou nabídku."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr "Škálování velikosti zaměřovacího kříže pistole"
+msgstr "Měřítko velikosti zaměřovacího kříže zbraně"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr "Rozšiřující sloty ovladačů"
+msgstr "Rozšiřující sloty ovladače"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr "Vyberte zařízení (VMU nebo vibrační modul) připojené do jednotlivých rozšiřujících slotů ovladačů."
+msgstr "Vyberte zařízení (VMU, rumble device) zapojené do každého rozšiřujícího slotu ovladače."
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
@@ -1027,11 +1027,11 @@ msgstr "Zařízení v rozšiřujícím slotu A1"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu A1 (port A, slot 1)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu A1 (port A slot 1)."
 
 msgctxt "#30290"
 msgid "Vibration Pack"
-msgstr "Vibrační modul"
+msgstr "Balíček vibrací"
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
@@ -1039,7 +1039,7 @@ msgstr "Zařízení v rozšiřujícím slotu A2"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu A2 (port A, slot 2)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu A2 (port A slot 2)."
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
@@ -1047,7 +1047,7 @@ msgstr "Zařízení v rozšiřujícím slotu B1"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu B1 (port B, slot 1)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu B1 (port B slot 1)."
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
@@ -1055,7 +1055,7 @@ msgstr "Zařízení v rozšiřujícím slotu B2"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu B2 (port B, slot 2)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu B2 (port B slot 2)."
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
@@ -1063,7 +1063,7 @@ msgstr "Zařízení v rozšiřujícím slotu C1"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu C1 (port C, slot 1)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu C1 (port C slot 1)."
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
@@ -1071,7 +1071,7 @@ msgstr "Zařízení v rozšiřujícím slotu C2"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu C2 (port C, slot 2)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu C2 (port C slot 2)."
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
@@ -1079,7 +1079,7 @@ msgstr "Zařízení v rozšiřujícím slotu D1"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu D1 (port D, slot 1)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu D1 (port D slot 1)."
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
@@ -1087,15 +1087,15 @@ msgstr "Zařízení v rozšiřujícím slotu D2"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr "Vyberte zařízení připojené do rozšiřujícího slotu D2 (port D, slot 2)."
+msgstr "Vyberte zařízení zapojené do rozšiřujícího slotu D2 (port D slot 2)."
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
-msgstr "Jednotka vizuální paměti"
+msgstr "Jednotka Vizuální Paměti"
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr "Nastavení souborů uložených dat VMU pro jednotlivé hry a viditelnosti VMU na obrazovce."
+msgstr "Konfigurace ukládacích souborů VMU pro jednotlivé hry a nastavení viditelnosti VMU na obrazovce."
 
 msgctxt "#30307"
 msgid ""
@@ -1103,29 +1103,29 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
-"Při vypnutí používají všechny hry až 8 sdílených souborů uložených dat VMU (A1/A2/B1/B2/C1/C2/D1/D2) umístěných v systémové složce RetroArchu.\n"
-"Nastavení „VMU A1“ vytváří pro každou spuštěnou hru jedinečný soubor VMU „A1“ ve složce uložených dat RetroArchu.\n"
-"Nastavení „Všechny VMU“ vytváří pro každou spuštěnou hru až 8 jedinečných souborů VMU (A1/A2/B1/B2/C1/C2/D1/D2)."
+"Pokud je vypnuto, všechny hry sdílejí až 8 souborů VMU (A1/A2/B1/B2/C1/C2/D1/D2) umístěných v systémové složce aplikace RetroArch.\n"
+"Nastavení „VMU A1“ vytvoří pro každou spuštěnou hru jedinečný soubor VMU „A1“ ve složce uložení aplikace RetroArch.\n"
+"Nastavení „Všechny VMU“ vytvoří pro každou spuštěnou hru až 8 jedinečných souborů VMU (A1/A2/B1/B2/C1/C2/D1/D2)."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr "Zvuky jednotek/systémů vizuální paměti (VMU)"
+msgstr "Vizuální paměťové jednotky/systémy (VMU) Zvuky"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr "Při povolení se přehrávají pípnutí VMU."
+msgstr "Pokud je tato funkce povolena, přehrávají se zvukové signály VMU."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr "Úložiště VMU DreamPotato"
+msgstr "Úložiště DreamPotato VMU"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr "Povolit ukládání dat VMU do připojeného emulátoru DreamPotato. Při povolení se místní soubor uložených dat VMU nepoužívá."
+msgstr "Povolí ukládání dat VMU na připojený emulátor DreamPotato. Pokud je tato funkce povolena, místní soubor VMU se nepoužívá."
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr "Povolit nastavení viditelnosti, velikosti, pozice a barvy emulované obrazovky LCD VMU. POZNÁMKA: Aby se toto nastavení projevilo, může být nutné přepnout zobrazení rychlé nabídky."
+msgstr "Umožňuje konfiguraci viditelnosti, velikosti, polohy a barvy obrazovky LCD emulovaného VMU. POZNÁMKA: Může být nutné přepnout Rychlé Menu, aby se toto nastavení projevilo."
 
 msgctxt "#30313"
 msgid "Japan"

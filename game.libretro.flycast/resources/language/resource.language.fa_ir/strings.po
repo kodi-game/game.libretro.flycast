@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "جهت صفحه نمایش"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "منطقه"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "زبان"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "ویدیو"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "داده"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -612,7 +612,7 @@ msgstr ""
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "سیستم"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
@@ -840,7 +840,7 @@ msgstr ""
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "پیش‌فرض"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
@@ -896,7 +896,7 @@ msgstr ""
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "عملکرد"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."

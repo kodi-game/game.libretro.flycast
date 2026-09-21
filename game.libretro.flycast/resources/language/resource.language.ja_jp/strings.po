@@ -48,27 +48,27 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "画面の向き"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr ""
+msgstr "半透明ソート"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr ""
+msgstr "GD-ROM 高速読み込み (不正確)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr ""
+msgstr "ミップマッピング"
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "フォグエフェクト"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr ""
+msgstr "ボリュームモディファイア"
 
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
@@ -76,15 +76,15 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
+msgstr "ワイドスクリーンチート (再起動が必要)"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "ケーブルの種類"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr ""
+msgstr "放送方式"
 
 msgctxt "#30016"
 msgid "Framerate"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "地域"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -108,39 +108,39 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr ""
+msgstr "アナログスティックデッドゾーン"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr ""
+msgstr "トリガーデッドゾーン"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr ""
+msgstr "デジタルトリガー"
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "DSP を有効にする"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "異方性フィルタリング"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "PowerVR2 ポストプロセスフィルター"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "テクスチャアップスケーリング (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr ""
+msgstr "テクスチャアップスケーリング最大フィルターサイズ"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr ""
+msgstr "RTT (テクスチャへのレンダリング) バッファを有効にする"
 
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
@@ -156,11 +156,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr ""
+msgstr "フレーム入れ替え遅延"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr ""
+msgstr "フレームスキップ"
 
 msgctxt "#30035"
 msgid "Purupuru Pack/Vibration Pack"
@@ -176,135 +176,135 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr ""
+msgstr "カスタムテクスチャをロード"
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
+msgstr "テクスチャをダンプ"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr ""
+msgstr "ゲームごとのビジュアルメモリユニット/システム (VMU)"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr ""
+msgstr "ビジュアルメモリユニット/システム (VMU) 表示設定を表示"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr ""
+msgstr "VMU 画面 1 表示"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr ""
+msgstr "VMU 画面 1 位置"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr ""
+msgstr "VMU 画面 1 サイズ"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr ""
+msgstr "VMU 画面 1ピクセルオンカラー"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr ""
+msgstr "VMU 画面 1ピクセルオフカラー"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr ""
+msgstr "VMU 画面 1 不透明度"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr ""
+msgstr "VMU 画面 2 表示"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr ""
+msgstr "VMU 画面 2 位置"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr ""
+msgstr "VMU 画面 2 サイズ"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr ""
+msgstr "VMU 画面 2 ピクセルオンカラー"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr ""
+msgstr "VMU 画面 2 ピクセルオフカラー"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr ""
+msgstr "VMU 画面 2 不透明度"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr ""
+msgstr "VMU 画面 3 表示"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr ""
+msgstr "VMU 画面 3 位置"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr ""
+msgstr "VMU 画面 3 サイズ"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr ""
+msgstr "VMU 画面 3 ピクセルオンカラー"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr ""
+msgstr "VMU 画面 3 ピクセルオフカラー"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr ""
+msgstr "VMU 画面 3 不透明度"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr ""
+msgstr "VMU 画面 4 表示"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr ""
+msgstr "VMU 画面 4 位置"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr ""
+msgstr "VMU 画面 4 サイズ"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr ""
+msgstr "VMU 画面 4 ピクセルオンカラー"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr ""
+msgstr "VMU 画面 4 ピクセルオフカラー"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr ""
+msgstr "VMU 画面 4 不透明度"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr ""
+msgstr "ライトガン設定を表示"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr ""
+msgstr "ガンクロスヘア 1 表示"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr ""
+msgstr "ガンクロスヘア 2 表示"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr ""
+msgstr "ガンクロスヘア 3 表示"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr ""
+msgstr "ガンクロスヘア 4 表示"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -328,23 +328,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "高レベルエミュレーション BIOS の使用を強制します。"
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "ストリップ単位 (低精度, 高速)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "トライアングル単位 (通常)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "ピクセル単位 (高精度, 低速)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "GD-ROM の読み込みを高速化します。"
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -356,11 +356,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "ドリームキャストのオーディオ DSP のエミュレーションを有効にします。生成されるサウンドの精度を向上させますが、パフォーマンス要件が増加します。"
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "GPU と CPU を別のスレッドで実行します。強く推奨されます。"
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "ビデオ"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -384,39 +384,39 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "より高い解像度で正しく出力するには、より高い値が必要になる可能性があります。"
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "描画解像度を変更します。"
 
 msgctxt "#30092"
 msgid "Horizontal"
-msgstr ""
+msgstr "水平"
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "垂直"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "オブジェクトの影を描画するためにゲームで一般的に使用されるドリームキャスト GPU の機能です。通常は有効にする必要があります。パフォーマンスへの影響は最小限か無視できる程度です。"
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "出力信号の種類を選択します。[TV (コンポジット)] が最も広くサポートされています。"
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M (ブラジル)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
-msgstr ""
+msgstr "PAL-N (アルゼンチン, パラグアイ, ウルグアイ)"
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL (世界)"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "通常"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -436,11 +436,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "レンダリングされた画像にポストプロセスを適用し、PowerVR2 GPU およびアナログビデオ信号に特定の効果をシミュレートします。"
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "手書きの 2D ピクセルアートグラフィックを強化します。2D ピクセルアートのゲームでのみ使用することをお勧めします。"
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -448,11 +448,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "表示される各フレーム間でスキップするフレーム数を設定します。"
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "入力"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -484,123 +484,123 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "デフォルトでオン"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "デフォルトでオフ"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "黒"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "ブルー"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "ライトブルー"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "グリーン"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "シアン"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "シアンブルー"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "ライトグリーン"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "シアングリーン"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "ライトシアン"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "レッド"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "紫"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "ライトパープル"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "イエロー"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "グレー"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "ライトパープル (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "ライトグリーン (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "ライトグリーン (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "ライトシアン (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "ライトレッド (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "マゼンタ"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "ライトパープル (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "ライトオレンジ"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "オレンジ"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "ライトパープル (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "ライトイエロー"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "ライトイエロー (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "白"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "エミュレーションハック"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -608,39 +608,39 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "特定のゲームをワイドスクリーン形式で表示できるようにするチートを有効にします。"
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "システム"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "地域、言語、BIOS および基本的なハードウェアの設定を変更します。"
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "BIOS や複数の言語を含むゲームで使用される言語を変更します。"
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "HLE BIOS (再起動が必要)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "アーケードサービスボタンを許可"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "アーケードゲームでサービスボタンを有効にし、キャビネット設定を行います。"
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "NAOMI ゲームを無料プレイにする"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "無料プレイを行うためにゲームのコイン設定を変更します。"
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -656,7 +656,7 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "ブロードバンドアダプタエミュレーション"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
@@ -664,11 +664,11 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "UPnP を有効にする"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "オンラインゲーム用にルーターの UPnP を自動的に設定し使用します。"
 
 msgctxt "#30162"
 msgid "Use DCNet"
@@ -680,19 +680,19 @@ msgstr ""
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "解像度、描画順に依存しない透明度および視覚効果の設定を変更します。"
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "内部解像度"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240 (半分)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (ネイティブ)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -756,7 +756,7 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "7040x5280 (x11)"
-msgstr ""
+msgstr "7040x580 (x11)"
 
 msgctxt "#30184"
 msgid "7680x5760 (x12)"
@@ -796,71 +796,71 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "半透明ポリゴンがどのように並べ替えられるかを選択します。"
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "累積ピクセルバッファサイズ"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "最大透明レイヤー数"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "複雑なシーンでは、より高い値が必要になる可能性があります。"
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "完全なフレームバッファエミュレーション"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "VRAM で完全なフレームバッファエミュレーションを有効にします。フレームバッファを VRAM で直接読み書きするゲームに便利です。有効にすると、内部解像度は 640x480 に固定され、実行速度に深刻な影響を与える可能性があります。"
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "レンダリングされたテクスチャを GPU から VRAM にコピーします。このオプションは通常、これを必要とするゲームで有効になります。有効にすると、テクスチャアップスケーリングが無効になり、実行速度に影響を与える可能性があります。"
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "有効にすると、テクスチャが遠くに表示される際に小さいバージョンが使用されます。パフォーマンスが向上し、チラつきが減少します。"
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "カメラに対して斜めの視野角にあるテクスチャ表面の品質を向上させます。値を高くするほど GPU への負荷が大きくなります。この設定を反映するには再起動が必要です。"
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "テクスチャフィルタリング"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "使用するテクスチャフィルタリングモードを選択します。すべてのテクスチャに特定のフィルタリングモードを強制することで、デフォルトよりも鮮明 (または滑らかな) 外観を得るために使用できます。デフォルト以外の値はレンダリングに問題が発生する可能性があります。この設定を反映するには再起動が必要です。"
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "デフォルト"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "強制ニアレストネイバー"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "強制リニア"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "画面の点滅やビデオの描画バグを回避するために便利です。遅いプラットフォームではお勧めしません。"
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "フレームレートの変更を検出"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "内部フレームレートが変更された際にフロントエンドに通知します (例: 60fps から 30fps)。30fps または 20fps の固定フレームレートで実行されるゲームでフレームペーシングを改善します。ゲームが固定フレームレートでない場合は無効にする必要があります。注意: 自動フレームスキップが有効の場合は使用できません。"
 
 msgctxt "#30210"
 msgid "2x"
@@ -876,75 +876,75 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "アップスケーリングされるテクスチャの最大サイズ値を選択します。テクスチャサイズが選択された値より大きい場合はアップスケーリングされなくなります。"
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "ネイティブ深度補完"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "AMD GPU でテクスチャの破損や深度の問題を改善します。場合によっては インテル GPU でを改善することもできます。"
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "アップスケーリング滲み修正"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "アップスケーリング時のテクスチャの滲みを改善します。2D ゲームのアップスケーリング時にピクセルが歪む場合、無効にすることで解決できます。"
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "パフォーマンス"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "スレッド化したレンダリングとフレームスキップの設定を変更します。"
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "スレッド化されたレンダリング"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "自動フレームスキップ"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "エミュレータの動作が遅い場合、自動的にフレームをスキップします。注意: この設定は [レンダリングのスレッド化] が有効な場合にのみ適用されます。"
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "最大"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "ワイドスクリーンハック、GD-ROM 読み込み速度およびテクスチャの置換設定を変更します。"
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "ワイドスクリーンハック"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "通常の 4:3 アスペクト比の外側にジオメトリを描画します。新たに表示された領域でグラフィックに不具合が発生する可能性があります。"
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
-msgstr ""
+msgstr "ドリームキャスト 32MB RAM MOD"
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "ドリームキャストの 32MB RAM MOD を有効にします。互換性に影響を与える可能性があります。"
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "SH4 CPU アンダー/オーバークロック"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "SH4 メイン CPU クロックをデフォルトの 200 MHz から変更します。アンダークロックは遅いプラットフォームで動作を改善する可能性があります。オーバークロックは一部のゲームのフレームレートを上昇させる可能性があります。注意して使用してください。"
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -1112,7 +1112,7 @@ msgstr ""
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "[system/dc/textures/<game-id>/] フォルダに置かれたカスタムテクスチャを読み込みます。"
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
@@ -1124,7 +1124,7 @@ msgstr ""
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "ゲームで新しいテクスチャが使用されるたび、テクスチャを .png ファイルとして [system/dc/texdump/<game-id>] フォルダに保存します。"
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
@@ -1136,119 +1136,119 @@ msgstr ""
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "ゲームパッドとライトガンの設定を変更します。"
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "アナログスティックが処理され始めるまでどれだけ傾ける必要があるかを選択します。"
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "トリガーが処理されるまでどれだけ押し込む必要があるかを選択します。"
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "有効にすると、トリガーは通常のボタンのように処理されます。つまり、押し込み量は考慮されず、完全に押されているか全く押されていないかのように処理されます。"
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "デジタル出力配信"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "TCP ポート 8000 でデジタル出力とフォースフィードバックの状態を配信します。MAME の [-output network] オプションと互換性があります。"
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "ライトガンのクロスヘア表示に関する設定を有効にします。注意: この設定を反映するにはクイックメニューを開き直す必要があります。"
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "ガンクロスヘアサイズ表示倍率"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "コントローラー拡張スロット"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "各コントローラー拡張スロットに接続されるデバイス (VMU、振動デバイス) を選択します。"
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "拡張スロット A1 デバイス"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "拡張スロット A1 (ポート A スロット 1) に接続するデバイスを選択します。"
 
 msgctxt "#30290"
 msgid "Vibration Pack"
-msgstr ""
+msgstr "ぷるぷるぱっく"
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "拡張スロット A2 デバイス"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "拡張スロット A2 (ポート A スロット 2) に接続するデバイスを選択します。"
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "拡張スロット B1 デバイス"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "拡張スロット B1 (ポート B スロット 1) に接続するデバイスを選択します。"
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "拡張スロット B2 デバイス"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "拡張スロット B2 (ポート B スロット 2) に接続するデバイスを選択します。"
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "拡張スロット C1 デバイス"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "拡張スロット C1 (ポート C スロット 1) に接続するデバイスを選択します。"
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "拡張スロット C2 デバイス"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "拡張スロット C2 (ポート C スロット 2) に接続するデバイスを選択します。"
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "拡張スロット D1 デバイス"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "拡張スロット D1 (ポート D スロット 1) に接続するデバイスを選択します。"
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "拡張スロット D2 デバイス"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "拡張スロット D2 (ポート D スロット 2) に接続するデバイスを選択します。"
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
-msgstr ""
+msgstr "ビジュアルメモリユニット"
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "ゲームごとの VMU セーブファイルと OSD VMU の表示設定を変更します。"
 
 msgctxt "#30307"
 msgid ""
@@ -1259,11 +1259,11 @@ msgstr ""
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "ビジュアルメモリユニット/システム (VMU) サウンド"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "有効にすると、VMU ビープ音が再生されます。"
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
@@ -1275,7 +1275,7 @@ msgstr ""
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "エミュレートされた VMU 液晶ディスプレイの表示/非表示、サイズ、位置および色の設定を有効にします。注意: この設定を反映するにはクイックメニューを開き直す必要があります。"
 
 msgctxt "#30313"
 msgid "Japan"

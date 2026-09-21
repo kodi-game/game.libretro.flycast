@@ -48,27 +48,27 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "화면 방향"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr ""
+msgstr "알파 정렬"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr ""
+msgstr "GD-ROM 빠른 로딩 (정확하지 않음)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr ""
+msgstr "밉맵"
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "안개 효과"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr ""
+msgstr "볼륨 모디파이어"
 
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
@@ -76,15 +76,15 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
+msgstr "와이드스크린 핵 (재시작 필요)"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "케이블 타입"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr ""
+msgstr "방송 표준"
 
 msgctxt "#30016"
 msgid "Framerate"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "지역"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "언어"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -108,39 +108,39 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr ""
+msgstr "아날로그 스틱 데드존"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr ""
+msgstr "트리거 데드존"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr ""
+msgstr "디지털 트리거"
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "HDR 활성화"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "비등방성 필터링"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "PowerVR2 포스트프로세싱 필터"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "텍스쳐 업스케일링 (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr ""
+msgstr "텍스쳐 업스케일링 필터 최대 크기"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr ""
+msgstr "RTT (Render To Texture) 버퍼 사용"
 
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
@@ -156,11 +156,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr ""
+msgstr "프레임 스왑 지연"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr ""
+msgstr "프레임 건너뛰기"
 
 msgctxt "#30035"
 msgid "Purupuru Pack/Vibration Pack"
@@ -176,135 +176,135 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr ""
+msgstr "커스텀 텍스처 불러오기"
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
+msgstr "텍스쳐 덤프하기"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr ""
+msgstr "게임당 별도 Visual Memory Units/Systems(VMU) 사용"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr ""
+msgstr "Visual Memory Unit/System(VMU) 디스플레이 설정 표시"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr ""
+msgstr "VMU 화면 1 표시"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr ""
+msgstr "VMU 화면 1 위치"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr ""
+msgstr "VMU 화면 1 크기"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr ""
+msgstr "VMU 화면 1 켜진 픽셀 색상"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr ""
+msgstr "VMU 화면 1 꺼진 픽셀 색상"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr ""
+msgstr "VMU 화면 1 투명도"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr ""
+msgstr "VMU 화면 2 표시"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr ""
+msgstr "VMU 화면 2 위치"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr ""
+msgstr "VMU 화면 2 크기"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr ""
+msgstr "VMU 화면 2 켜진 픽셀 색상"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr ""
+msgstr "VMU 화면 2 꺼진 픽셀 색상"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr ""
+msgstr "VMU 화면 2 투명도"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr ""
+msgstr "VMU 화면 3 표시"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr ""
+msgstr "VMU 화면 3 위치"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr ""
+msgstr "VMU 화면 3 크기"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr ""
+msgstr "VMU 화면 3 켜진 픽셀 색상"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr ""
+msgstr "VMU 화면 3 꺼진 픽셀 색상"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr ""
+msgstr "VMU 화면 3 투명도"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr ""
+msgstr "VMU 화면 4 표시"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr ""
+msgstr "VMU 화면 4 위치"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr ""
+msgstr "VMU 화면 4 크기"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr ""
+msgstr "VMU 화면 4 켜진 픽셀 색상"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr ""
+msgstr "VMU 화면 4 꺼진 픽셀 색상"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr ""
+msgstr "VMU 화면 4 투명도"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr ""
+msgstr "라이트 건 설정 표시"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr ""
+msgstr "라이트건 조준선 1 표시"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr ""
+msgstr "라이트건 조준선 2 표시"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr ""
+msgstr "라이트건 조준선 3 표시"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr ""
+msgstr "라이트건 조준선 4 표시"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -328,23 +328,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "HLE BIOS 사용을 강제합니다."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "줄당 (빠름, 가장 부정확)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "삼각형당 (중간)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "픽셀당 (정확, 가장 느림)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "GD-ROM 로딩 속도를 높입니다."
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -356,11 +356,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "Dreamcast의 오디오 DSP(디지털 신호 프로세서)의 에뮬레이션을 활성화합니다. 사운드의 정확도는 향상되지만 성능 요구 사항이 증가합니다."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "GPU와 CPU를 별도의 스레드에서 실행합니다. 사용하는 것이 매우 권장됩니다."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "비디오"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -384,39 +384,39 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "높은 해상도 출력을 올바르게 표시하려면 이 값을 높은 값으로 설정해야 할 수도 있습니다."
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "렌더링 해상도를 변경합니다."
 
 msgctxt "#30092"
 msgid "Horizontal"
-msgstr ""
+msgstr "가로"
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "세로"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "드림캐스트 GPU의 기능으로 보통 개체의 그림자를 그리는 데 사용됩니다. 이 기능은 보통 활성화해두어야 하며 성능에 미치는 영향은 아주 적습니다."
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "외부 출력 형식. 'TV (컴포지트)'가 가장 많이 지원됨."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M (브라질)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
-msgstr ""
+msgstr "PAL-N (아르헨티나, 파라과이, 우르과이)"
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL (국제)"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "보통"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -436,11 +436,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "렌더된 이미지에 PowerVR2 GPU와 아날로그 비디오 신호에서 나타나는 효과를 후처리로 구현합니다."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "손으로 그려진 2D 픽셀아트 그래픽을 개선합니다. 2D 픽셀아트 게임에서만 사용되어야 합니다."
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -448,11 +448,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "표시되는 각 프레임 사이에서 건너뛸 프레임 수를 설정합니다."
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "입력"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -484,123 +484,123 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "기본설정 켜짐"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "기본설정 꺼짐"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "검정"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "파랑"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "밝은 파랑"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "초록"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "청록"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "청록 파랑"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "밝은 녹색"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "청록 초록"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "밝은 청록"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "빨강"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "보라"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "밝은 보라"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "노란색"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "회색"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "연보라색 (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "밝은 녹색 (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "밝은 녹색 (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "밝은 청록 (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "밝은 빨강 (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "자홍색"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "연보라색 (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "밝은 주황색"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "오렌지"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "연보라색 (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "연한 노란색"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "연한 노란색 (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "흰색"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "에뮬레이션 핵"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -608,39 +608,39 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "일부 게임이 와이드스크린 형식으로 출력되게 하는 치트를 활성화합니다."
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "시스템"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "지역, 언어, BIOS 및 하드웨어 설정을 구성합니다."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "BIOS 및 다국어 게임에서 사용되는 언어 설정을 변경합니다"
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "HLE BIOS (재시작 필요)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "아케이드 서비스 버튼 허용"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "아케이드 게임에서 캐비넷 설정에 들어가기 위한 서비스 버튼을 활성화합니다."
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "NAOMI 게임을 무료 플레이로 설정"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "무료 플레이를 위해 게임의 코인 설정을 수정합니다."
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -656,43 +656,43 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "브로드밴드 어댑터 에뮬레이션"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr ""
+msgstr "모뎀 대신 이더넷 브로드밴드 어댑터를 에뮬레이트합니다. (재시작 필요)"
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "UPnP 활성화"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "온라인 게임에서 UPnP를 사용해 자동으로 인터넷 라우터를 설정합니다."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "DCNet 사용"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "DCNet 클라우드 서비스를 통해 Dreamcast를 인터넷에 연결합니다."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "해상도, 투명도 및 화면 효과 설정을 구성합니다."
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "내부 해상도"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240 (절반)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (네이티브)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -796,71 +796,71 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "투명 폴리곤을 정렬할 방식을 선택합니다."
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "누산 픽셀 버퍼 크기"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "최대 투명 레이어"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "복잡한 장면을 그릴 때 높은 값이 필요할 수 있습니다."
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "전체 프레임버퍼 에뮬레이션"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "VRAM 상 전체 프레임버퍼 에뮬레이션을 활성화합니다. VRAM 상의 프레임버퍼에 직접 읽기 또는 쓰기를 수행하는 게임을 실행할 때 유용합니다. 활성화할 경우, 내부 해상도가 640x480으로 고정되며 성능에 큰 영향을 끼칠 수 있습니다."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "렌더된 텍스쳐를 GPU에서 VRAM으로 복사합니다. 이 옵션은 이 옵션을 필요로 하는 게임에서는 기본적으로 활성화됩니다. 활성화할 경우, 텍스쳐 업스케일링이 비활성화되며 성능에 큰 영향을 끼칠 수 있습니다."
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "활성화할 경우 멀리 떨어진 곳에 텍스처를 그릴 때 작은 버전의 텍스처를 사용하여 성능을 개선하고 번쩍이는 효과를 억제합니다."
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "카메라와 비스듬하게 배치된 표면의 텍스쳐 품질을 향상합니다. 높은 값으로 설정하면 GPU 부하가 높아집니다. 변경 사항은 코어를 다시 시작해야 적용됩니다."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "텍스쳐 필터링"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "사용할 텍스쳐 필터링 모드를 선택합니다. 모든 텍스쳐에 강제로 특정 필터링 모드를 적용하여 더 날카로운(또는 부드러운) 비주얼을 얻을 수 있습니다. 기본 외의 다른 값으로 설정 시 다양한 렌더링 문제가 발생할 수 있습니다. 변경 사항은 코어를 다시 시작해야 적용됩니다."
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "기본"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "강제 최근접이웃"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "강제 선형"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "화면이 번쩍이거나 깨지는 것을 방지할 수 있습니다. 느린 플랫폼에서는 사용을 권장하지 않습니다."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "프레임 레이트 변화 감지"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "내부 프레임 레이트가 변경될 때(예: 60FPS에서 30FPS로) 프론트엔드에게 알림을 보냅니다. 30FPS 또는 20FPS 고정으로 실행되는 게임에서는 프레임 페이스를 개선하지만, 무제한(불안정) 프레임 레이트로 실행되는 게임(예: Ecco the Dolphin, Unreal Tournament)을 실행할 때는 비활성화되어야 합니다. 주의: '자동 프레임 건너뛰기'가 활성화되어있으면 작동하지 않습니다."
 
 msgctxt "#30210"
 msgid "2x"
@@ -876,75 +876,75 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "텍스처를 업스케일할 최대 크기를 선택합니다. 텍스처의 크기가 설정한 크기보다 클 경우에는 텍스처를 업스케일하지 않습니다."
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "네이티브 깊이 보간"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "AMD GPU에서 깊이 문제와 텍스쳐 망가짐 증상을 개선하는 데 도움이 됩니다. 일부 상황에서는 인텔 GPU에서도 도움이 될 수 있습니다."
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "업스케일 시 테두리 블리딩 억제"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "업스케일 시 텍스처 블리딩 문제를 완화합니다. 비활성화할 경우 일부 2D 게임(MVC2, CVS, KOF 등)에서 픽셀이 뒤틀리는 현상이 해결될 수 있습니다."
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "성능"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "스레드 렌더링 및 프레임 스킵 설정을 구성합니다."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "스레드 렌더링"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "자동 프레임 건너뛰기"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "에뮬레이터 실행이 느려질 경우 자동으로 프레임을 건너뜁니다. 주의: 이 설정은 '스레드 렌더링'이 활성화되어 있어야 적용됩니다."
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "최대"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "와이드스크린 핵, GD롬 로딩 속도 조절 및 텍스쳐 변경 설정등을 구성합니다."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "와이드스크린 핵"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "일반적인 4:3 화면비 밖에도 개체를 그립니다. 드러난 부분에서 그래픽 오류가 발생할 수도 있습니다."
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
-msgstr ""
+msgstr "드림캐스트 32MB RAM 모드"
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "드림캐스트용 32MB RAM 모드를 활성화합니다. 호환성에 영향이 있을 수 있습니다"
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "SH4 CPU 언더/오버클럭"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "SH4 메인 CPU 클럭을 기본 200MHz에서 변경합니다. 언더클럭하면 플랫폼 속도가 느려질 수 있습니다. 오버클럭하면 일부 게임에서 프레임 속도가 증가할 수 있습니다. 주의해서 사용하세요."
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -1112,143 +1112,143 @@ msgstr ""
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "'system/dc/textures/<game-id>/' 폴더에서 커스텀 텍스처를 불러옵니다."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr ""
+msgstr "커스텀 텍스처 미리 불러오기"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr ""
+msgstr "커스텀 텍스처를 게임 시작 시에 미리 불러옵니다. 성능이 향상될 수 있지만 메모리 사용량이 늘어납니다."
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "게임이 새로운 텍스처를 사용할 때마다, 'system/dc/texdump/<game-id>/' 폴더 안에 .png 파일로 저장되게 합니다."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr ""
+msgstr "교체된 텍스처 덤프하기"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr ""
+msgstr "커스텀 텍스처로 교체된 텍스처를 항상 덤프합니다."
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "게임패드 및 라이트 건 설정을 구성합니다."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "아날로그 스틱을 얼마나 기울여야 입력으로 인식할지를 선택합니다."
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "트리거를 얼마나 눌러야 입력으로 인식할지를 선택합니다."
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "활성화할 경우 트리거가 평범한 버튼으로 취급되며, 중간 상태 없이 완전히 눌리거나 눌리지 않은 상태로만 처리됩니다."
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "디지털 출력 송출하기"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "디지털 출력과 포스 피드백 상태를 TCP 포트 8000번으로 송출합니다. MAME의 \"-output network\" 옵션과 호환됩니다."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "라이트건 십자 조준선 옵션 구성을 활성화합니다. 참고: 이 설정을 적용하려면 빠른 메뉴를 다시 표시해야 할 수 있습니다."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "총 십자선 크기 조정"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "컨트롤러 확장 슬롯"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "컨트롤러의 각 확장 슬롯에 연결할 장치(VMU, 진동 장치)를 선택합니다."
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "확장 슬롯 A1의 장치"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "확장 슬롯 A1(포트 A 슬롯 1)에 연결할 장치를 선택합니다."
 
 msgctxt "#30290"
 msgid "Vibration Pack"
-msgstr ""
+msgstr "진동 팩"
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "확장 슬롯 A2의 장치"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "확장 슬롯 A2(포트 A 슬롯 2)에 연결할 장치를 선택합니다."
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "확장 슬롯 B1의 장치"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "확장 슬롯 B1(포트 B 슬롯 1)에 연결할 장치를 선택합니다."
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "확장 슬롯 B2의 장치"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "확장 슬롯 B2(포트 B 슬롯 2)에 연결할 장치를 선택합니다."
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "확장 슬롯 C1의 장치"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "확장 슬롯 C1(포트 C 슬롯 1)에 연결할 장치를 선택합니다."
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "확장 슬롯 C2의 장치"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "확장 슬롯 C2(포트 C 슬롯 2)에 연결할 장치를 선택합니다."
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "확장 슬롯 D1의 장치"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "확장 슬롯 D1(포트 D 슬롯 1)에 연결할 장치를 선택합니다."
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "확장 슬롯 D2의 장치"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "확장 슬롯 D2(포트 D 슬롯 2)에 연결할 장치를 선택합니다."
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
-msgstr ""
+msgstr "비쥬얼 메모리 유닛"
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "게임 별 VMU 저장 파일 및 VMU OSD 설정을 구성합니다."
 
 msgctxt "#30307"
 msgid ""
@@ -1256,26 +1256,29 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
+"비활성화할 경우, 모든 게임이 RetroArch의 시스템 폴더에 저장된 최대 8개의 VMU 저장 파일(A1/A2/B1/B2/C1/C2/D1/D2)을 공유합니다.\n"
+"'VMU A1' 옵션은 RetroArch의 저장 폴더에 게임 하나 당 하나의 VMU 'A1' 파일을 생성합니다.\n"
+"'모든 VMU'는 게임 하나 당 최대 8개의 VMU 파일(A1/A2/B1/B2/C1/C2/D1/D2)을 생성합니다."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "비주얼 메모리 유닛/시스템 (VMU) 사운드"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "활성화하면 VMU 신호음이 재생됩니다."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr ""
+msgstr "DreamPotato VMU 저장소 사용"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr ""
+msgstr "VMU 데이터를 연결된 DreamPotato 에뮬레이터에 저장합니다. 활성화할 경우, 로컬 VMU 세이브 파일은 사용되지 않습니다."
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "에뮬레이트되는 VMU LCD 화면의 표시 여부, 크기, 위치, 색상 설정을 표시합니다. 주의: 변경 사항이 적용되려면 빠른 메뉴를 껐다 켜야 할 수도 있습니다."
 
 msgctxt "#30313"
 msgid "Japan"

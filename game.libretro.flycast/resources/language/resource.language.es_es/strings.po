@@ -27,39 +27,39 @@ msgstr "Flycast es una bifurcación de Reicast, un emulador multiplataforma de S
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr "Orientación de Pantalla"
+msgstr "Orientación de pantalla"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr "Clasificación Alfa"
+msgstr "Ordenación de transparencias"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr "Carga Rápida de GD-ROM (imprecisa)"
+msgstr "Lectura rápida de GD-ROM (inexacta)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr "Mapeado MIP"
+msgstr "«Mipmapping»"
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr "Efecto Niebla"
+msgstr "Efectos de niebla"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr "Modificador de Volumen"
+msgstr "Modificador de volúmenes"
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr "Trucos de Pantalla Panorámica (Reinicio Requerido)"
+msgstr "Trucos para pantallas panorámicas (es necesario reiniciar)"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr "Tipo de Cable"
+msgstr "Tipo de cable"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr "Estándar de Transmisión"
+msgstr "Estándar de transmisión"
 
 msgctxt "#30017"
 msgid "Region"
@@ -71,15 +71,15 @@ msgstr "Idioma"
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr "Zona Muerta del Stick Analógico"
+msgstr "Zona muerta del stick analógico"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr "Zona Muerta del Gatillo"
+msgstr "Zona muerta de los gatillos"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr "Gatillos Digitales"
+msgstr "Gatillos digitales"
 
 msgctxt "#30024"
 msgid "Enable DSP"
@@ -87,163 +87,163 @@ msgstr "Activar DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr "Filtrado Anisotrópico"
+msgstr "Filtrado anisotrópico"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr "Filtro de Postprocesado PowerVR2"
+msgstr "Filtro de posprocesamiento del PowerVR2"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr "Ampliación de Textura (xBRZ)"
+msgstr "Reescalado de texturas (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr "Máx. Ampliación de Textura. Tamaño Filtrado"
+msgstr "Tamaño máximo del escalado de texturas"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr "Activar el Búfer RTT (Redenrizar a Textura)"
+msgstr "Activar el búfer RTT (renderizado a texturas)"
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr "Intercambio de Fotogramas con Retardo"
+msgstr "Retrasar cambio de fotogramas"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr "Salto de Fotograma"
+msgstr "Omisión de fotogramas"
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr "Cargar Texturas Personalizadas"
+msgstr "Cargar texturas personalizadas"
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr "Volcado de Texturas"
+msgstr "Volcar texturas"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Unidades de Memoria Visual Por Juego/Sistemas (VMU)"
+msgstr "Separar Visual Memory (VMU) por juego"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Mostrar Configuración de Pantalla de la Unidad de Memoria Visual/Sistema (VMU)"
+msgstr "Mostrar ajustes de visualización de las Visual Memory (VMU)"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr "Mostrar Pantalla 1 de la VMU"
+msgstr "Pantalla de la VMU 1"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr "Posición Pantalla 1 de la VMU"
+msgstr "Posición de la pantalla de la VMU 1"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr "Tamaño Pantalla 1 de la VMU"
+msgstr "Tamaño de la pantalla de la VMU 1"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr "Color de Pixel Encendido Pantalla 1 de la VMU"
+msgstr "Color de píxeles encendidos de la VMU 1"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr "Color de Pixel Apagado Pantalla 1 de la VMU"
+msgstr "Color de píxeles apagados de la VMU 1"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr "Opacidad Pantalla 1 de la VMU"
+msgstr "Opacidad de la pantalla de la VMU 1"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr "Mostrar Pantalla 2 de la VMU"
+msgstr "Pantalla de la VMU 2"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr "Posición Pantalla 2 de la VMU"
+msgstr "Posición de la pantalla de la VMU 2"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr "Tamaño Pantalla 2 de la VMU"
+msgstr "Tamaño de la pantalla de la VMU 2"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr "Color de Pixel Encendido Pantalla 2 de la VMU"
+msgstr "Color de píxeles encendidos de la VMU 2"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr "Color de Pixel Apagado Pantalla 2 de la VMU"
+msgstr "Color de píxeles apagados de la VMU 2"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr "Opacidad Pantalla 2 de la VMU"
+msgstr "Opacidad de la pantalla de la VMU 2"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr "Mostrar Pantalla 3 de la VMU"
+msgstr "Pantalla de la VMU 3"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr "Posición Pantalla 3 de la VMU"
+msgstr "Posición de la pantalla de la VMU 3"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr "Tamaño Pantalla 3 de la VMU"
+msgstr "Tamaño de la pantalla de la VMU 3"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr "Color de Pixel Encendido Pantalla 3 de la VMU"
+msgstr "Color de píxeles encendidos de la VMU 3"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr "Color de Pixel Apagado Pantalla 3 de la VMU"
+msgstr "Color de píxeles apagados de la VMU 3"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr "Opacidad Pantalla 3 de la VMU"
+msgstr "Opacidad de la pantalla de la VMU 3"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr "Mostrar Pantalla 4 de la VMU"
+msgstr "Pantalla de la VMU 4"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr "Posición Pantalla 4 de la VMU"
+msgstr "Posición de la pantalla de la VMU 4"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr "Tamaño Pantalla 4 de la VMU"
+msgstr "Tamaño de la pantalla de la VMU 4"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr "Color de Pixel Encendido Pantalla 4 de la VMU"
+msgstr "Color de píxeles encendidos de la VMU 4"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr "Color de Pixel Apagado Pantalla 4 de la VMU"
+msgstr "Color de píxeles apagados de la VMU 4"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr "Opacidad Pantalla 4 de la VMU"
+msgstr "Opacidad de la pantalla de la VMU 4"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr "Mostrar Ajustes Pistola de Luz"
+msgstr "Mostrar ajustes de las pistolas de luz"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr "Visualización Punto de Mira Pistola 1"
+msgstr "Mostrar punto de mira del arma 1"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr "Visualización Punto de Mira Pistola 2"
+msgstr "Mostrar punto de mira del arma 2"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr "Visualización Punto de Mira Pistola 3"
+msgstr "Mostrar punto de mira del arma 3"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr "Visualización Punto de Mira Pistola 4"
+msgstr "Mostrar punto de mira del arma 4"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -267,23 +267,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "Fuerza el uso de una BIOS creada con emulación de alto nivel."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "Por bandas (rápida, menos precisa)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "Por triángulos (normal)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "Por píxeles (precisa, pero lenta)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "Acelera la carga de los GD-ROM."
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -295,11 +295,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "Habilita la emulación del DSP (procesador de señales digitales) de audio de Dreamcast. Mejora la precisión del sonido generado a costa de aumentar los requisitos."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "Ejecuta la GPU y la CPU en hilos distintos. Muy recomendado."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -315,7 +315,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -323,11 +323,11 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "Es posible que sea necesario un valor alto para que la imagen se muestre bien a resoluciones superiores a la nativa."
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "Modifica la resolución de renderizado."
 
 msgctxt "#30092"
 msgid "Horizontal"
@@ -339,15 +339,15 @@ msgstr ""
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "Una característica de la GPU de Dreamcast que suelen utilizar los juegos para dibujar las sombras de objetos. Esta opción debe activarse por norma general; apenas afecta al rendimiento."
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "El tipo de señal de salida de la imagen. «TV (Compuesto)» es el formato más compatible de todos."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M (Brasil)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
@@ -355,7 +355,7 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL (Resto del mundo)"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -375,11 +375,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "Posprocesa la imagen renderizada para simular los efectos dedicados de la GPU PowerVR2 y las señales de vídeo analógico."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "Mejora los gráficos 2D de corte «pixel art» dibujado a mano. Utilizar solo con juegos en 2D pixelado."
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -387,11 +387,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "Establece la cantidad de fotogramas que se omitirán tras cada fotograma que se muestre."
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -423,87 +423,87 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "Predeterminado (encendido)"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "Predeterminado (apagado)"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Negro"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "Azul claro"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "Cian"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "Azul celeste"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "Verde claro"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "Verde cian"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "Cian claro"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Rojo"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Violeta"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "Violeta claro"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Amarillo"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "Gris"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "Violeta claro (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "Verde claro (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "Verde claro (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "Cian claro (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "Rojo claro (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
@@ -511,35 +511,35 @@ msgstr ""
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "Violeta claro (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "Naranja claro"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Naranja"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "Violeta claro (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "Amarillo claro"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "Amarillo claro (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Blanco"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Arreglos de emulación"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -547,39 +547,39 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "Activa los trucos que permiten a ciertos juegos mostrarse en formato panorámico."
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "Cambia los ajustes de región, idioma, BIOS y del hardware base."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "Cambia el idioma que utilizará la BIOS y cualquier juego que contenga varios idiomas."
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS HLE (es necesario reiniciar)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "Activar botones de servicio de arcade"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "Activa el botón SERVICE para los juegos para recreativas/arcades, con el que acceder a la configuración del mueble."
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "Partidas gratuitas en NAOMI"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "Modifica la configuración de monedas del juego a partidas gratuitas."
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -595,211 +595,211 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "Emulación del Broadband Adapter (BBA)"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr ""
+msgstr "Emula el adaptador de banda ancha por Ethernet en lugar del módem (es necesario reiniciar)."
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "Activar UPnP"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "Utiliza UPnP para configurar automáticamente tu router/enrutador de Internet para poder conectarte a juegos online."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "Utilizar DCNet"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "Utiliza el servicio en la nube DCNet para conectar la Dreamcast a Internet."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "Cambia los ajustes de resolución, las transparencias independientes del orden y los efectos visuales."
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Resolución interna"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320 × 240 (50 %)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640 × 480 (nativa)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
-msgstr ""
+msgstr "800 × 600 (125 %)"
 
 msgctxt "#30169"
 msgid "960x720 (x1.5)"
-msgstr ""
+msgstr "960 × 720 (150 %)"
 
 msgctxt "#30170"
 msgid "1024x768 (x1.6)"
-msgstr ""
+msgstr "1024 × 768 (160 %)"
 
 msgctxt "#30171"
 msgid "1280x960 (x2)"
-msgstr ""
+msgstr "1280 × 960 (200 %)"
 
 msgctxt "#30172"
 msgid "1440x1080 (x2.25)"
-msgstr ""
+msgstr "1440 × 1080 (225 %)"
 
 msgctxt "#30173"
 msgid "1600x1200 (x2.5)"
-msgstr ""
+msgstr "1600 × 1200 (250 %)"
 
 msgctxt "#30174"
 msgid "1920x1440 (x3)"
-msgstr ""
+msgstr "1920 × 1440 (300 %)"
 
 msgctxt "#30175"
 msgid "2560x1920 (x4)"
-msgstr ""
+msgstr "2560 × 1920 (400 %)"
 
 msgctxt "#30176"
 msgid "2880x2160 (x4.5)"
-msgstr ""
+msgstr "2880 × 2160 (450 %)"
 
 msgctxt "#30177"
 msgid "3200x2400 (x5)"
-msgstr ""
+msgstr "3200 × 2400 (500 %)"
 
 msgctxt "#30178"
 msgid "3840x2880 (x6)"
-msgstr ""
+msgstr "3840 × 2880 (600 %)"
 
 msgctxt "#30179"
 msgid "4480x3360 (x7)"
-msgstr ""
+msgstr "4480 × 3360 (700 %)"
 
 msgctxt "#30180"
 msgid "5120x3840 (x8)"
-msgstr ""
+msgstr "5120 × 3840 (800 %)"
 
 msgctxt "#30181"
 msgid "5760x4320 (x9)"
-msgstr ""
+msgstr "5760 × 4320 (900 %)"
 
 msgctxt "#30182"
 msgid "6400x4800 (x10)"
-msgstr ""
+msgstr "6400 × 4800 (1000 %)"
 
 msgctxt "#30183"
 msgid "7040x5280 (x11)"
-msgstr ""
+msgstr "7040 × 5280 (1100 %)"
 
 msgctxt "#30184"
 msgid "7680x5760 (x12)"
-msgstr ""
+msgstr "7680 × 5760 (1200 %)"
 
 msgctxt "#30185"
 msgid "8320x6240 (x13)"
-msgstr ""
+msgstr "8320 × 6240 (1300 %)"
 
 msgctxt "#30186"
 msgid "8960x6720 (x14)"
-msgstr ""
+msgstr "8960 × 6720 (1400 %)"
 
 msgctxt "#30187"
 msgid "9600x7200 (x15)"
-msgstr ""
+msgstr "9600 × 7200 (1500 %)"
 
 msgctxt "#30188"
 msgid "10240x7680 (x16)"
-msgstr ""
+msgstr "10240 × 7680 (1600 %)"
 
 msgctxt "#30189"
 msgid "10880x8160 (x17)"
-msgstr ""
+msgstr "10880 × 8160 (1700 %)"
 
 msgctxt "#30190"
 msgid "11520x8640 (x18)"
-msgstr ""
+msgstr "11520 × 8640 (1800 %)"
 
 msgctxt "#30191"
 msgid "12160x9120 (x19)"
-msgstr ""
+msgstr "12160 × 9120 (1900 %)"
 
 msgctxt "#30192"
 msgid "12800x9600 (x20)"
-msgstr ""
+msgstr "12800 × 9600 (2000 %)"
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "Selecciona el orden de dibujado de los polígonos transparentes."
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "Tamaño del búfer de acumulación de píxeles"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "N.º máximo de capas transparentes"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "Las escenas más complejas podrían necesitar un valor más alto."
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "Emulación completa del búfer de fotogramas"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "Activa la emulación completa del búfer de fotogramas dentro de la VRAM. Ideal para aquellos juegos que lean o escriban directamente al búfer de fotogramas de la VRAM. Al activar esta opción, se forzará una resolución interna de 640 × 480 y el rendimiento podría verse gravemente afectado."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "Copia las texturas renderizadas en la GPU de vuelta a la VRAM. Esta opción suele dejarse activada para aquellos juegos que la requieran. Al activar esta opción, se desactivará el escalado de texturas y el rendimiento podría verse afectado."
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "Al activar esta opción, las texturas mostrarán una versión con un tamaño más reducido cuanto más lejos estén de la pantalla. Puede mejorar el rendimiento y reducir los efectos de distorsión."
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Mejora la calidad de las texturas en aquellas superficies que se encuentren en un ángulo oblicuo respecto a la cámara. Un valor muy alto necesitará de mayores recursos de la GPU. Es necesario reiniciar para aplicar los cambios en este ajuste."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Filtrado de texturas"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Indica el modo de filtrado de texturas que se utilizará. Puede utilizarse para forzar un modo de filtrado concreto en todas las texturas con el fin de conseguir un aspecto más definido (o suavizado) que el valor predeterminado. Cualquier valor que no sea el predeterminado puede provocar problemas de renderizado. Es necesario reiniciar para aplicar los cambios en este ajuste."
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "Valor predeterminado"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "Forzar vecino más cercano"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "Forzar lineal"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "Ideal para evitar parpadeos constantes o vídeos con fallos gráficos. No se recomienda su uso en plataformas lentas."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "Detectar cambios en la frecuencia de actualización"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "Informa en el front-end cuando cambie la frecuencia de actualización interna (p. ej.: de 60 a 30 FPS). Mejora la cadencia de fotogramas en aquellos juegos que se ejecuten a 30 o 20 FPS fijos, pero esta opción debería desactivarse en aquellos juegos con frecuencias de fotogramas desbloqueadas (es decir, inestables, p. ej.: Ecco the Dolphin, Unreal Tournament...). NOTA: esta opción no estará disponible si se activa Omisión automática de fotogramas."
 
 msgctxt "#30210"
 msgid "2x"
@@ -815,379 +815,379 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "Selecciona un tamaño máximo para el escalado de texturas. Si el tamaño de una textura es superior al valor seleccionado, no se reescalará."
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "Interpolación nativa de profundidad"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "Mitiga la corrupción de texturas y los problemas de profundidad en GPU de AMD. En algunos casos podría ayudar también en GPU de Intel."
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "Corregir sangrado de bordes al escalar"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "Ayuda cuando las texturas muestren bordes sangrados al escalarlas. Desactivar esta opción puede ser útil si hay distorsión de píxeles al escalar juegos 2D (MVC2, CVS, KOF, etcétera)."
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Rendimiento"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "Configura los ajustes del renderizado multihilo y la omisión de fotogramas."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Renderizado multihilo"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "Omisión automática de fotogramas"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "Omite fotogramas de forma automática cuando el emulador se esté ejecutando lentamente. Nota: este ajuste solo surtirá efecto cuando la opción «Renderizado multihilo» esté activada."
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "Valor máximo"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "Cambia los ajustes de forzado de imagen panorámica, la velocidad de carga de GD-ROM y la sustitución de texturas."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "Arreglo para pantallas panorámicas"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "Dibuja la geometría más allá de la relación de aspecto normal de 4:3. Puede producir fallos gráficos en las zonas reveladas."
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
-msgstr ""
+msgstr "Mod de 32 MB de RAM para Dreamcast"
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "Activa el mod de 32 MB de RAM para Dreamcast. Podría afectar a la compatibilidad."
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "Velocidad de la CPU SH4"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "Cambia la velocidad de reloj de la CPU SH4 principal de los 200 MHz predeterminados. Una bajada de velocidad podría ayudar a plataformas lentas. Una subida podría acelerar la velocidad de fotogramas en ciertos juegos. Utilizar con precaución."
 
 msgctxt "#30231"
 msgid "100 MHz"
-msgstr ""
+msgstr "100 MHz"
 
 msgctxt "#30232"
 msgid "110 MHz"
-msgstr ""
+msgstr "110 MHz"
 
 msgctxt "#30233"
 msgid "120 MHz"
-msgstr ""
+msgstr "120 MHz"
 
 msgctxt "#30234"
 msgid "130 MHz"
-msgstr ""
+msgstr "130 MHz"
 
 msgctxt "#30235"
 msgid "140 MHz"
-msgstr ""
+msgstr "140 MHz"
 
 msgctxt "#30236"
 msgid "150 MHz"
-msgstr ""
+msgstr "150 MHz"
 
 msgctxt "#30237"
 msgid "160 MHz"
-msgstr ""
+msgstr "160 MHz"
 
 msgctxt "#30238"
 msgid "170 MHz"
-msgstr ""
+msgstr "170 MHz"
 
 msgctxt "#30239"
 msgid "180 MHz"
-msgstr ""
+msgstr "180 MHz"
 
 msgctxt "#30240"
 msgid "190 MHz"
-msgstr ""
+msgstr "190 MHz"
 
 msgctxt "#30241"
 msgid "200 MHz"
-msgstr ""
+msgstr "200 MHz"
 
 msgctxt "#30242"
 msgid "210 MHz"
-msgstr ""
+msgstr "210 MHz"
 
 msgctxt "#30243"
 msgid "220 MHz"
-msgstr ""
+msgstr "220 MHz"
 
 msgctxt "#30244"
 msgid "230 MHz"
-msgstr ""
+msgstr "230 MHz"
 
 msgctxt "#30245"
 msgid "240 MHz"
-msgstr ""
+msgstr "240 MHz"
 
 msgctxt "#30246"
 msgid "250 MHz"
-msgstr ""
+msgstr "250 MHz"
 
 msgctxt "#30247"
 msgid "260 MHz"
-msgstr ""
+msgstr "260 MHz"
 
 msgctxt "#30248"
 msgid "270 MHz"
-msgstr ""
+msgstr "270 MHz"
 
 msgctxt "#30249"
 msgid "280 MHz"
-msgstr ""
+msgstr "280 MHz"
 
 msgctxt "#30250"
 msgid "290 MHz"
-msgstr ""
+msgstr "290 MHz"
 
 msgctxt "#30251"
 msgid "300 MHz"
-msgstr ""
+msgstr "300 MHz"
 
 msgctxt "#30252"
 msgid "310 MHz"
-msgstr ""
+msgstr "310 MHz"
 
 msgctxt "#30253"
 msgid "320 MHz"
-msgstr ""
+msgstr "320 MHz"
 
 msgctxt "#30254"
 msgid "330 MHz"
-msgstr ""
+msgstr "330 MHz"
 
 msgctxt "#30255"
 msgid "340 MHz"
-msgstr ""
+msgstr "340 MHz"
 
 msgctxt "#30256"
 msgid "350 MHz"
-msgstr ""
+msgstr "350 MHz"
 
 msgctxt "#30257"
 msgid "360 MHz"
-msgstr ""
+msgstr "360 MHz"
 
 msgctxt "#30258"
 msgid "370 MHz"
-msgstr ""
+msgstr "370 MHz"
 
 msgctxt "#30259"
 msgid "380 MHz"
-msgstr ""
+msgstr "380 MHz"
 
 msgctxt "#30260"
 msgid "390 MHz"
-msgstr ""
+msgstr "390 MHz"
 
 msgctxt "#30261"
 msgid "400 MHz"
-msgstr ""
+msgstr "400 MHz"
 
 msgctxt "#30262"
 msgid "410 MHz"
-msgstr ""
+msgstr "410 MHz"
 
 msgctxt "#30263"
 msgid "420 MHz"
-msgstr ""
+msgstr "420 MHz"
 
 msgctxt "#30264"
 msgid "430 MHz"
-msgstr ""
+msgstr "430 MHz"
 
 msgctxt "#30265"
 msgid "440 MHz"
-msgstr ""
+msgstr "440 MHz"
 
 msgctxt "#30266"
 msgid "450 MHz"
-msgstr ""
+msgstr "450 MHz"
 
 msgctxt "#30267"
 msgid "460 MHz"
-msgstr ""
+msgstr "460 MHz"
 
 msgctxt "#30268"
 msgid "470 MHz"
-msgstr ""
+msgstr "470 MHz"
 
 msgctxt "#30269"
 msgid "480 MHz"
-msgstr ""
+msgstr "480 MHz"
 
 msgctxt "#30270"
 msgid "490 MHz"
-msgstr ""
+msgstr "490 MHz"
 
 msgctxt "#30271"
 msgid "500 MHz"
-msgstr ""
+msgstr "500 MHz"
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "Carga las texturas personalizadas que se encuentren en la carpeta «system/dc/textures/<id-del-juego>/»."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr ""
+msgstr "Precargar texturas personalizadas"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr ""
+msgstr "Carga las texturas personalizadas al ejecutar un juego. Podría mejorar el rendimiento, pero aumentará el consumo de memoria."
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "Cada vez que aparezca una textura nueva en el juego, se guardará en formato .PNG dentro de la carpeta «system/dc/texdump/<id-del-juego>/»."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr ""
+msgstr "Volcar texturas ya reemplazadas"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr ""
+msgstr "Vuelca siempre las texturas que ya hayan sido reemplazadas por otras personalizadas."
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "Cambia los ajustes de los mandos y las pistolas de luz."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "Selecciona la distancia a partir de la cual se empezará a reconocer el movimiento del stick analógico."
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "Selecciona la distancia a partir de la cual se empezará a reconocer la pulsación del gatillo."
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "Al activar esta opción, los gatillos funcionarán como botones normales, lo que significa que se procesarán como o pulsados por completo o sin pulsar, sin término medio."
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "Transmitir salidas digitales"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "Transmite las salidas digitales y el estado de la vibración al puerto TCP 8000. Compatible con la opción de MAME «-output network»."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Permite configurar los puntos de mira de las pistolas de luz. NOTA: es necesario salir y volver a entrar del menú rápido para que el cambio surta efecto."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "Escala del punto de mira de la pistola"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "Puertos de expansión de los mandos"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "Selecciona el dispositivo (Visual Memory/VMU/vibración) que irá conectado en cada puerto de expansión."
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión A1"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión A1 (puerto de mando A, ranura 1)."
 
 msgctxt "#30290"
 msgid "Vibration Pack"
-msgstr ""
+msgstr "Vibration Pack (vibración)"
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión A2"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión A2 (puerto de mando A, ranura 2)."
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión B1"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión B1 (puerto de mando B, ranura 1)."
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión B2"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión B2 (puerto de mando B, ranura 2)."
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión C1"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión C1 (puerto de mando C, ranura 1)."
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión C2"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión C2 (puerto de mando C, ranura 2)."
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión D1"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión D1 (puerto de mando D, ranura 1)."
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "Dispositivo del puerto de expansión D2"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "Selecciona el dispositivo conectado al puerto de expansión D2 (puerto de mando D, ranura 2)."
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
-msgstr ""
+msgstr "Visual Memory"
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "Cambia los ajustes de los archivos de VMU individuales para cada juego y la visibilidad en pantalla de las mismas."
 
 msgctxt "#30307"
 msgid ""
@@ -1195,26 +1195,29 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
+"Al desactivar esta opción, todos los juegos compartirán ocho archivos de guardado de VMU (A1/A2/B1/B2/C1/C2/D1/D2) que se encontrarán en la carpeta del sistema de RetroArch.\n"
+"El ajuste «VMU A1» creará un archivo único de la VMU A1 en la carpeta de guardados de RetroArch para cada juego que se ejecute.\n"
+"«Todas las VMU» creará ocho archivos VMU únicos (A1/A2/B1/B2/C1/C2/D1/D2) para cada juego que se ejecute."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "Sonidos de las Visual Memory (VMU)"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "Al activar esta opción, se reproducirán los pitidos de las Visual Memory/VMU."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr ""
+msgstr "Almacenar VMU en DreamPotato"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr ""
+msgstr "Activa el almacenamiento de datos de la Visual Memory/VMU al emulador DreamPotato conectado. Al activar esta opción, no se utilizará el archivo de guardado local como Visual Memory/VMU."
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Permite configurar la visibilidad, tamaño, posición y color de las pantallas LCD emuladas de las VMU. NOTA: es necesario salir y volver a entrar del menú rápido para que el cambio surta efecto."
 
 msgctxt "#30313"
 msgid "Japan"

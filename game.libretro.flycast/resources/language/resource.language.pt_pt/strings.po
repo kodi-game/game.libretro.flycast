@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Orientação do ecrã"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -96,7 +96,7 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -360,7 +360,7 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "Executa a GPU e a CPU em threads diferentes. Altamente recomendado."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -496,7 +496,7 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 msgctxt "#30119"
 msgid "Light Blue"
@@ -504,7 +504,7 @@ msgstr ""
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgctxt "#30121"
 msgid "Cyan"
@@ -528,7 +528,7 @@ msgstr ""
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Vermelho"
 
 msgctxt "#30127"
 msgid "Purple"
@@ -540,7 +540,7 @@ msgstr ""
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Amarelo"
 
 msgctxt "#30130"
 msgid "Gray"
@@ -856,11 +856,11 @@ msgstr ""
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "Detetar alterações na taxa de fotogramas"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "Notifica a interface quando a taxa de fotogramas interna muda (por exemplo, de 60 fps para 30 fps). Melhora o ritmo dos fotogramas em jogos que funcionam a 30 fps ou 20 fps bloqueados, mas deve ser desativado para jogos com taxas de fotogramas desbloqueadas (instáveis) (por exemplo, Ecco the Dolphin, Unreal Tournament). Nota: Não está disponível quando a opção \"Saltar fotogramas automaticamente\" está ativada."
 
 msgctxt "#30210"
 msgid "2x"
@@ -900,19 +900,19 @@ msgstr ""
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "Configurar a renderização multithread e as definições de salto de fotogramas."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Renderização multithread"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "Saltar fotogramas automaticamente"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "Saltar automaticamente os fotogramas quando o emulador está a funcionar lentamente. Nota: Esta definição só se aplica quando a opção \"Renderização multithread\" está ativada."
 
 msgctxt "#30223"
 msgid "Maximum"

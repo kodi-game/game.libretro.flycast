@@ -48,27 +48,27 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Ekrana orientigo"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
-msgstr ""
+msgstr "Alfa ordigo"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr ""
+msgstr "Rapida ŝargado de GD-ROMA (malpreciza)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
-msgstr ""
+msgstr "\"Mipmapping\""
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "Nebulaj efikoj"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr ""
+msgstr "Volumena modifilo"
 
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
@@ -76,15 +76,15 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
+msgstr "Larĝekranaj trompoj (bezonas restartigon)"
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "Dratospeco"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
-msgstr ""
+msgstr "Dissenda normo"
 
 msgctxt "#30016"
 msgid "Framerate"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "Regiono"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Lingvo"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -108,39 +108,39 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Analog Stick Deadzone"
-msgstr ""
+msgstr "Analogstanga malviva zono"
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr ""
+msgstr "Ĉana malviva zono"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr ""
+msgstr "Ciferecaj ĉanoj"
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "Ebligi DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Neizotropeca filtrado"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "Posttraktada filtrilo PowerVR2"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "Tekstura skalado (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr ""
+msgstr "Maksimuma filtrogrando de tekstura skalado"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr ""
+msgstr "Ebligi bufron RTT (bildigo al teksturo)"
 
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
@@ -156,11 +156,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr ""
+msgstr "Prokrasti filmera interŝanĝo"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
-msgstr ""
+msgstr "Filmera preterpaso"
 
 msgctxt "#30035"
 msgid "Purupuru Pack/Vibration Pack"
@@ -176,135 +176,135 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Load Custom Textures"
-msgstr ""
+msgstr "Ŝargi proprajn teksturojn"
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
+msgstr "Elŝuti teksturojn"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr ""
+msgstr "Porluda Visual Memory Units/Systems (VMU)"
 
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr ""
+msgstr "Montri ekranajn agordojn de Visual Memory Unit/System (VMU)"
 
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr ""
+msgstr "Ekrano de VMU 1"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr ""
+msgstr "Pozicio de ekrano de VMU 1"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr ""
+msgstr "Grando de ekrano de VMU 1"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr ""
+msgstr "Koloro de ŝaltitaj bilderoj de ekrano de VMU 1"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr ""
+msgstr "Koloro de malŝaltitaj bilderoj de ekrano de VMU 1"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr ""
+msgstr "Maldiafaneco de ekrano de VMU 1"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr ""
+msgstr "Ekrano de VMU 2"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr ""
+msgstr "Pozicio de ekrano de VMU 2"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr ""
+msgstr "Grando de ekrano de VMU 2"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr ""
+msgstr "Koloro de ŝaltitaj bilderoj de ekrano de VMU 2"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr ""
+msgstr "Koloro de malŝaltitaj bilderoj de ekrano de VMU 2"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr ""
+msgstr "Maldiafaneco de ekrano de VMU 2"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr ""
+msgstr "Ekrano de VMU 3"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr ""
+msgstr "Pozicio de ekrano de VMU 3"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr ""
+msgstr "Grando de ekrano de VMU 3"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr ""
+msgstr "Koloro de ŝaltitaj bilderoj de ekrano de VMU 3"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr ""
+msgstr "Koloro de malŝaltitaj bilderoj de ekrano de VMU 3"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr ""
+msgstr "Maldiafaneco de ekrano de VMU 3"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr ""
+msgstr "Ekrano de VMU 4"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr ""
+msgstr "Pozicio de ekrano de VMU 4"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr ""
+msgstr "Grando de ekrano de VMU 4"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr ""
+msgstr "Koloro de ŝaltitaj bilderoj de ekrano de VMU 4"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr ""
+msgstr "Koloro de malŝaltitaj bilderoj de ekrano de VMU 4"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr ""
+msgstr "Maldiafaneco de ekrano de VMU 4"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr ""
+msgstr "Montri agordojn pri \"light gun\""
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr ""
+msgstr "Montri pafilan celilon 1"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr ""
+msgstr "Montri pafilan celilon 2"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr ""
+msgstr "Montri pafilan celilon 3"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr ""
+msgstr "Montri pafilan celilon 4"
 
 msgctxt "#30071"
 msgid "Boot directly into the Dreamcast BIOS menu."
@@ -328,23 +328,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "Devigi uzon de altnivela imitada BIOS."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
-msgstr ""
+msgstr "Per strio (rapida, malplej preciza)"
 
 msgctxt "#30078"
 msgid "Per-Triangle (normal)"
-msgstr ""
+msgstr "Per triangulo (normala)"
 
 msgctxt "#30079"
 msgid "Per-Pixel (accurate, but slowest)"
-msgstr ""
+msgstr "Per bildero (preciza, malrapida)"
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "Plirapidigas ŝargadon de GD-ROM."
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -356,11 +356,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "Ebligi la imitadon de la sona DSP (traktilo de ciferecaj signaloj) de Dreamcast. Plibonigas la precizon de generita sono, sed pliigas rendimentajn postulojn."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "Rulas la grafikan procesoron kaj ĉefprocesoron en malsamaj fadenoj. Ege rekomendata."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -384,39 +384,39 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "Altaj valoroj povus esti bezonataj de altaj distingivoj por eligi ĝuste."
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "Modifi bildigan distingivon."
 
 msgctxt "#30092"
 msgid "Horizontal"
-msgstr ""
+msgstr "Horizontala"
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikala"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
-msgstr ""
+msgstr "Trajto de la grafika procesoro de Dreamcast, kiu kutime estas uzata de ludoj por bildigi ombrojn de objektoj. Ĉi tiu normale devus esti ebligita, ĉar la rendimenta influo estas minimume aŭ neglektinda."
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr ""
+msgstr "La eliga signalospeco. \"TV (kunmetita)\" estas la plej kongrua."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M (Brazilo)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
-msgstr ""
+msgstr "PAL-N (Argentino, Paragvajo, Urugvajo)"
 
 msgctxt "#30098"
 msgid "PAL (World)"
-msgstr ""
+msgstr "PAL (mondo)"
 
 msgctxt "#30099"
 msgid "Affects how emulator interacts with frontend. 'Full Speed' - emulator returns control to RetroArch each time a frame has been rendered. 'Normal' - emulator returns control to RetroArch each time a V-blank interrupt is generated. 'Full Speed' should be used in most cases. 'Normal' may improve frame pacing on some systems, but can cause unresponsive input when the screen is static (e.g. loading/pause screens). Note: This setting only applies when 'Threaded Rendering' is disabled."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -436,11 +436,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "Posttrakti la bildigitan bildon por imiti efikojn specifajn al la grafika procesoro de PowerVR2 kaj analogaj videosignaloj."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "Plibonigi permane desegnitajn 2D-ajn bilderartajn grafikojn. Ĝi devus esti nur uzata kun 2D-aj bilderigitaj ludoj."
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -448,11 +448,11 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
-msgstr ""
+msgstr "Agordas kiom da filmeroj preterpasi inter ĉiu montrita filmero."
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Enigo"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -484,123 +484,123 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Default ON"
-msgstr ""
+msgstr "Defaŭlta ŝaltita"
 
 msgctxt "#30116"
 msgid "Default OFF"
-msgstr ""
+msgstr "Defaŭlta malŝaltita"
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Nigra"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Blua"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "Hele blua"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Verda"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "Cejana"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "Cejanblua"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "Hele verda"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "Cejanverda"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "Hele cejana"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Ruĝa"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Viola"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "Hele viola"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Flava"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "Griza"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "Hele viola (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "Hele verda (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "Hele verda (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "Hele cejana (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "Hele ruĝa (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "Maĝenta"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "Hele viola (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "Hele oranĝa"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Oranĝa"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "Hele viola (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "Hele flava"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "Hele flava (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Blanka"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Imitadaj kodumoj"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -608,39 +608,39 @@ msgstr ""
 
 msgctxt "#30146"
 msgid "Activates cheats that allow certain games to display in widescreen format."
-msgstr ""
+msgstr "Aktivas trompojn, kiuj permesas al kelkaj ludoj montriĝi en larĝekrana formato."
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Sistemo"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "Konfiguri agordojn pri regiono, lingvo, BIOS kaj baza aparataro."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
-msgstr ""
+msgstr "Ŝanĝas la lingvon uzatan de la BIOS kaj de ĉiuj aliaj ludoj, kiuj enhavas plurajn lingvojn."
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS de altnivela imitado (bezonas restartigon)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
-msgstr ""
+msgstr "Permesi ludmaŝinajn servobutonojn"
 
 msgctxt "#30152"
 msgid "Enables SERVICE button for arcade games, to enter cabinet settings."
-msgstr ""
+msgstr "Ebligas la butonon SERVICE por ludmaŝinaj ludoj, por eniri la agordojn de la meblo."
 
 msgctxt "#30153"
 msgid "Set NAOMI Games to Free Play"
-msgstr ""
+msgstr "Agordi ludojn de NAOMI je senkosta ludo"
 
 msgctxt "#30154"
 msgid "Modify to coin settings of the game to free play."
-msgstr ""
+msgstr "Modifi la monerajn agordojn de la ludo je senkosta ludo."
 
 msgctxt "#30155"
 msgid "Coin Limit"
@@ -656,43 +656,43 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
-msgstr ""
+msgstr "Imitado de Broadband Adapter"
 
 msgctxt "#30159"
 msgid "Emulate the Ethernet broadband adapter instead of the modem. (Restart Required)"
-msgstr ""
+msgstr "Imiti la hejman adaptilon de Eterreto anstataŭ la modemo (bezonas restartigon)."
 
 msgctxt "#30160"
 msgid "Enable UPnP"
-msgstr ""
+msgstr "Ebligi UPnP"
 
 msgctxt "#30161"
 msgid "Use UPnP to automatically configure your Internet router for online games."
-msgstr ""
+msgstr "Uzi UPnP por aŭtomate konfiguri vian interretan enkursigilon por enretaj ludoj."
 
 msgctxt "#30162"
 msgid "Use DCNet"
-msgstr ""
+msgstr "Uzi DCNet"
 
 msgctxt "#30163"
 msgid "Use the DCNet cloud service for Dreamcast Internet access."
-msgstr ""
+msgstr "Uzi la nubservon DCNet por interreta aliro de Dreamcast."
 
 msgctxt "#30164"
 msgid "Configure resolution, order-independent transparency and visual effect settings."
-msgstr ""
+msgstr "Konfiguri agordojn pri distingivo, diafanecoj nedepndaj de ordo kaj vidaj efikoj."
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Interna Rezolucio"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr ""
+msgstr "320x240 (duona)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (indiĝena)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -796,71 +796,71 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
-msgstr ""
+msgstr "Elekti kiel la travideblaj plurlateroj ordiĝas."
 
 msgctxt "#30194"
 msgid "Accumulation Pixel Buffer Size"
-msgstr ""
+msgstr "Grando de bilderamasiga bufro"
 
 msgctxt "#30195"
 msgid "Maximum Transparent Layers"
-msgstr ""
+msgstr "Maksimumaj travideblaj tavoloj"
 
 msgctxt "#30196"
 msgid "Higher values might be required for complex scenes."
-msgstr ""
+msgstr "Altaj valoroj povus esti bezonataj por kompleksaj scenoj."
 
 msgctxt "#30197"
 msgid "Full framebuffer emulation"
-msgstr ""
+msgstr "Plena filmerbufra imitado"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr ""
+msgstr "Ebligi plena filmerbufra imitado en videomemoro. Ĉi tio estas utila por ludoj, kiuj rekte legas aŭ skribas la filmerbufron videomemore. Kiam ebligita, interna distingivo estas devigita je 640x480 kaj rendimento povas esti grave influata."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."
-msgstr ""
+msgstr "Kopii bildigitajn teksturojn reen el la grafika procesoro al videomemoro. Ĉi tiu opcio estar normale ebligita por ludoj, kiuj ĝin bezonas. Kiam ebligita, skalado de tekstura bildigo estas malebligita kaj rendimento povas esti influata."
 
 msgctxt "#30200"
 msgid "When enabled textures will use smaller version of themselves when they appear farther away, it can increase performances and reduce shimmering."
-msgstr ""
+msgstr "Kiam ebligitaj teksturoj uzos pli malgrandan version de si mem kiam ili aperos malproksime. Ĝi povas pliigi rendimentojn kaj malpliigi distordon."
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Plibonigi la kvaliton de teksturoj sur surfacoj, kiuj estas je oblikvaj vidaj anguloj laŭ la kamerao. Ju pli altaj la valoroj, des pli postulantaj sur la grafika procesoro. Ŝanĝoj al ĉi tiu agordo nur aplikiĝas post rekomenciĝo."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Tekstura filtrado"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "La reĝimo de tekstura filtrado uzota. Ĉi tio povas esti uzata por devigi kelkan teksturfiltran reĝimon sur ĉiuj teksturoj, por ke ili havu aspekton pli akran (aŭ glatan) ol defaŭlta. Aliaj valoroj ol defaŭlta povas kaŭzi plurajn bildigajn problemojn. Ŝanĝoj al ĉi tiu agordo nur aplikiĝas post restarto."
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "Defaŭlta"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr ""
+msgstr "Devigi plej proksiman najbaron"
 
 msgctxt "#30206"
 msgid "Force Linear"
-msgstr ""
+msgstr "Devigi linearan"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr ""
+msgstr "Utila por eviti fulmadajn ekranojn aŭ missignalozajn videaĵojn. Ne rekomendata por malrapidaj platformoj."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
-msgstr ""
+msgstr "Detekti filmeroftecajn ŝanĝojn"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr ""
+msgstr "Sciigi al fasado, kiam internaj filmeroftecaj ŝanĝoj (ekz. el 60 fps al 30 fps). Plibonigas filmeran rapidon en ludoj, kiuj ruliĝas je fiksitaj 30 fps aŭ 20 fps, sed devus esti malebligita por ludoj kun nefiksitaj (nestabilaj) filmeroftecoj (ekz. Ecco the Dolphin, Unreal Tournament). Noto: Nedisponebla kiam \"Aŭtomate preterpasi filmerojn\" estas ebligita."
 
 msgctxt "#30210"
 msgid "2x"
@@ -876,75 +876,75 @@ msgstr ""
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
-msgstr ""
+msgstr "Elekti la maksimuman valoron de grando, por ke teksturo estu skalita. Se la tekstura grando estas pli alta ol la elektita valoro, tiam ĝi ne estos skalita."
 
 msgctxt "#30214"
 msgid "Native Depth Interpolation"
-msgstr ""
+msgstr "Indiĝena interpolado de profundeco"
 
 msgctxt "#30215"
 msgid "Helps with texture corruption and depth issues on AMD GPUs. Can also help Intel GPUs in some cases."
-msgstr ""
+msgstr "Helpas kontraŭ la tekstura difektado kaj problemoj de profundeco je grafikaj procesoroj AMD. Ankaŭ povas helpi al grafikaj procesoroj Intel, kelkfoje."
 
 msgctxt "#30216"
 msgid "Fix Upscale Bleeding Edge"
-msgstr ""
+msgstr "Ripari eĝlikadon skalante"
 
 msgctxt "#30217"
 msgid "Helps with texture bleeding case when upscaling. Disabling it can help if pixels are warping when upscaling in 2D games (MVC2, CVS, KOF, etc.)"
-msgstr ""
+msgstr "Helpas kontraŭ tekstura likado kiam skalante. Malebligi ĉi tion povas helpi se bilderoj distordiĝas kiam skalante 2-dimensiaj ludoj (Marvel vs. Capcom 2, Capcom vs. SNK, King of Fighters, kc.)"
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Rendimento"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
-msgstr ""
+msgstr "Konfiguri agordojn pri fadenigita bildigo kaj filmera preterpaso."
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Fadenigita bildigo"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
-msgstr ""
+msgstr "Aŭtomate preterpasi filmerojn"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "Aŭtomate preterpasi filmerojn kiam la imitilo ruliĝos malrapide. Noto: ĉi tiu agordo nur aplikiĝas kiam \"Fadenigita bildigo\" estas ebligita."
 
 msgctxt "#30223"
 msgid "Maximum"
-msgstr ""
+msgstr "Maksimume"
 
 msgctxt "#30224"
 msgid "Configure widescreen overrides, GD-ROM loading speed and texture replacement settings."
-msgstr ""
+msgstr "Konfiguri agordojn pri larĝekranaj transpasoj, ŝargorapido de GD-ROM kaj tekstura anstataŭigo."
 
 msgctxt "#30225"
 msgid "Widescreen Hack"
-msgstr ""
+msgstr "Larĝekrana kodumo"
 
 msgctxt "#30226"
 msgid "Draw geometry outside of the normal 4:3 aspect ratio. May produce graphical glitches in the revealed areas."
-msgstr ""
+msgstr "Desegni geometrion ekster la normalan proporcion je 4:3. Povas produkti grafikajn missignalojn en la malkaŝitaj areoj."
 
 msgctxt "#30227"
 msgid "Dreamcast 32MB RAM Mod"
-msgstr ""
+msgstr "Modifo de 32MB je ĉefmemoro por Dreamcast"
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr ""
+msgstr "Ebligas modifon de 32MB je ĉefmemoro por Dreamcast. Povas influi kongruecon."
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
-msgstr ""
+msgstr "(Mal)trorapidigo de ĉefprocesoro SH4"
 
 msgctxt "#30230"
 msgid "Change the SH4 main CPU clock from the default 200 MHz. Underclocking may help slow platforms. Overclocking may increase the frame rate for some games. Use with caution."
-msgstr ""
+msgstr "Ŝanĝi la horloĝon de ĉefprocesoro SH4 el la defaŭlta 200 MHz. Maltrorapidigo povas helpi al malrapidaj platformoj. Trorapidigo povas pliigi la filmeran oftecon por kelkaj ludoj. Uzu singarde."
 
 msgctxt "#30231"
 msgid "100 MHz"
@@ -1112,75 +1112,75 @@ msgstr ""
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr ""
+msgstr "Ŝargi proprajn teksturojn lokitajn en la dosierujo \"system/dc/textures/<luda-identigilo>/\"."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr ""
+msgstr "Antaŭŝargi proprajn teksturojn"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr ""
+msgstr "Antaŭŝargi proprajn teksturojn ĉe starto de ludo. Povus plibonigi rendimenton sed pliigas uzon de memoro."
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr ""
+msgstr "Ĉiam, kiam nova teksturo estas uzata de la ludo, ĝi estos konservita kiel dosiero .png en la dosierujo \"system/dc/texdump/<identigilo-de-ludo>/\"."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr ""
+msgstr "Ŝuti anstataŭigitaj teksturoj"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr ""
+msgstr "Ĉiam ŝuti teksturojn, kiuj jam estas anstataŭigitaj de propraj teksturoj."
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr ""
+msgstr "Konfiguri agordojn pri ludregilo kaj \"light gun\"."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
-msgstr ""
+msgstr "Elekti kiom malproksime oni devas puŝi la analogstangon antaŭ ĝi komencos esti traktata."
 
 msgctxt "#30280"
 msgid "Select how much you have to press the trigger before it starts being processed."
-msgstr ""
+msgstr "Elekti kiom multe oni devas premi la ĉanon antaŭ ĝi komencos esti traktata."
 
 msgctxt "#30281"
 msgid "When enabled the triggers will act as regular buttons, meaning they will be processed as either fully pressed or not pressed at all, with no in-between."
-msgstr ""
+msgstr "Kiam ebligita, la ĉanoj agos kiel normaj butonoj, kio signifas, ke ili estos traktataj kiel plene premataj aŭ tute ne premataj, nenio meze."
 
 msgctxt "#30282"
 msgid "Broadcast Digital Outputs"
-msgstr ""
+msgstr "Dissendi ciferecajn eligojn"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr ""
+msgstr "Dissendi ciferecajn eligojn kaj vibra stato al konektejo TCP 8000. Kongrua kun la opcio de MAME \"-output network\"."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Ebligi konfiguron de montraj opcioj de celilo de \"light gun\". Noto: Rapida menuo povus bezoni esti ŝaltita por ke ĉi tiu agordo efikiĝu."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
-msgstr ""
+msgstr "Skalo de pafilcelila grando"
 
 msgctxt "#30286"
 msgid "Controller Expansion Slots"
-msgstr ""
+msgstr "Aldonregilaj fendoj"
 
 msgctxt "#30287"
 msgid "Select the device (VMU, rumble device) plugged in each controller expansion slot."
-msgstr ""
+msgstr "Elekti la aparaton (VMU, vibran aparaton) konektitan al ĉiu aldonregila fendo."
 
 msgctxt "#30288"
 msgid "Device in Expansion Slot A1"
-msgstr ""
+msgstr "Aparato en aldonplata fendo A1"
 
 msgctxt "#30289"
 msgid "Select the device plugged in the expansion slot A1 (port A slot 1)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo A1 (konektejo A fendo 1)."
 
 msgctxt "#30290"
 msgid "Vibration Pack"
@@ -1188,59 +1188,59 @@ msgstr ""
 
 msgctxt "#30291"
 msgid "Device in Expansion Slot A2"
-msgstr ""
+msgstr "Aparato en aldonplata fendo A2"
 
 msgctxt "#30292"
 msgid "Select the device plugged in the expansion slot A2 (port A slot 2)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo A2 (konektejo A fendo 2)."
 
 msgctxt "#30293"
 msgid "Device in Expansion Slot B1"
-msgstr ""
+msgstr "Aparato en aldonplata fendo B1"
 
 msgctxt "#30294"
 msgid "Select the device plugged in the expansion slot B1 (port B slot 1)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo B1 (konektejo B fendo 1)."
 
 msgctxt "#30295"
 msgid "Device in Expansion Slot B2"
-msgstr ""
+msgstr "Aparato en aldonplata fendo B2"
 
 msgctxt "#30296"
 msgid "Select the device plugged in the expansion slot B2 (port B slot 2)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo B2 (konektejo B fendo 2)."
 
 msgctxt "#30297"
 msgid "Device in Expansion Slot C1"
-msgstr ""
+msgstr "Aparato en aldonplata fendo C1"
 
 msgctxt "#30298"
 msgid "Select the device plugged in the expansion slot C1 (port C slot 1)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo C1 (konektejo C fendo 1)."
 
 msgctxt "#30299"
 msgid "Device in Expansion Slot C2"
-msgstr ""
+msgstr "Aparato en aldonplata fendo C2"
 
 msgctxt "#30300"
 msgid "Select the device plugged in the expansion slot C2 (port C slot 2)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo C2 (konektejo C fendo 2)."
 
 msgctxt "#30301"
 msgid "Device in Expansion Slot D1"
-msgstr ""
+msgstr "Aparato en aldonplata fendo D1"
 
 msgctxt "#30302"
 msgid "Select the device plugged in the expansion slot D1 (port D slot 1)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo D1 (konektejo D fendo 1)."
 
 msgctxt "#30303"
 msgid "Device in Expansion Slot D2"
-msgstr ""
+msgstr "Aparato en aldonplata fendo D2"
 
 msgctxt "#30304"
 msgid "Select the device plugged in the expansion slot D2 (port D slot 2)."
-msgstr ""
+msgstr "Elekti la aparaton konektita en la aldonplata fendo D2 (konektejo D fendo 2)."
 
 msgctxt "#30305"
 msgid "Visual Memory Unit"
@@ -1248,7 +1248,7 @@ msgstr ""
 
 msgctxt "#30306"
 msgid "Configure per-game VMU save files and on-screen VMU visibility settings."
-msgstr ""
+msgstr "Konfiguri agordojn pri laŭludaj konservdosieroj de VMU kaj videbleco de surekranajn VMU."
 
 msgctxt "#30307"
 msgid ""
@@ -1256,26 +1256,29 @@ msgid ""
 "The 'VMU A1' setting creates a unique VMU 'A1' file in RetroArch's save folder for each game that is launched.\n"
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
+"Kiam malebligita, ĉiuj ludoj kunhavigas ĝis 8 konservdosieroj de VMU (A1/A2/B1/B2/C1/C2/D1/D2) lokitaj en la sistema dosierujo de RetroArch.\n"
+"La agordo \"VMU A1\" kreas unikan dosieron VMU \"A1\" en la konservdosierujo de RetroArch por ĉiu ludo, kiu estas lanĉita.\n"
+"La agordo \"Ĉiuj VMU-oj\" kreas ĝis 8 unikajn VMU-dosierojn (A1/A2/B1/B2/C1/C2/D1/D2) por ĉiu ludo, kiu estas lanĉita."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
+msgstr "Sonoj de Visual Memory Units/Systems (VMU)"
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "Kiam ebligita, pepoj de VMU estas ludataj."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr ""
+msgstr "Konservejo de VMU de DreamPotato"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr ""
+msgstr "Ebligi konservadon de datumoj de VMU sur la konektita imitilo de DreamPotato. Kiam ebligita, la loka konservdosiero de VMU ne estas uzata."
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Ebligi konfiguradon de videbleco, grando, pozicio kaj koloro de imitata LCD-ekrano de VMU. NOTO: Eble oni bezonos ŝalti la Rapidan menuon, por ke ĉi tiu agordo efikiĝu."
 
 msgctxt "#30313"
 msgid "Japan"

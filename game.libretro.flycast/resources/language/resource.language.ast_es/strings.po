@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Orientación de la pantalla"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -64,11 +64,11 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Fog Effects"
-msgstr ""
+msgstr "Efeutos de nublina"
 
 msgctxt "#30011"
 msgid "Volume Modifier"
-msgstr ""
+msgstr "Modificador del volume"
 
 msgctxt "#30012"
 msgid "Widescreen Hack (Restart Required)"
@@ -80,7 +80,7 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Cable Type"
-msgstr ""
+msgstr "Tipu de cable"
 
 msgctxt "#30015"
 msgid "Broadcast Standard"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "Rexón"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Llingua"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -120,11 +120,11 @@ msgstr ""
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "Activar el DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Filtru anisotrópicu"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
@@ -344,7 +344,7 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "Speeds up GD-ROM loading."
-msgstr ""
+msgstr "Aumenta la velocidá de carga de los GD-ROMs."
 
 msgctxt "#30081"
 msgid "Optimize integer division"
@@ -356,7 +356,7 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "Activa la emulación del procesador de señal dixital d'audiu (DSP) de Dreamcast. Ameyora la precisión del soníu xeneráu mas aumenta los requirimientos de rindimientu."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30089"
 msgid "Configure visual buffers & effects, display parameters, framerate/-skip and rendering/texture parameters."
@@ -388,7 +388,7 @@ msgstr ""
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "Modifica la resolución de la renderización."
 
 msgctxt "#30092"
 msgid "Horizontal"
@@ -408,11 +408,11 @@ msgstr ""
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
-msgstr ""
+msgstr "PAL-M (Brasil)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
-msgstr ""
+msgstr "PAL-N (Arxentina, Paraguái ya Uruguái)"
 
 msgctxt "#30098"
 msgid "PAL (World)"
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -492,115 +492,115 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Prietu"
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 msgctxt "#30119"
 msgid "Light Blue"
-msgstr ""
+msgstr "Azul claro"
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "Cianu"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
-msgstr ""
+msgstr "Azul ciano"
 
 msgctxt "#30123"
 msgid "Light Green"
-msgstr ""
+msgstr "Verde claro"
 
 msgctxt "#30124"
 msgid "Cyan Green"
-msgstr ""
+msgstr "Verde ciano"
 
 msgctxt "#30125"
 msgid "Light Cyan"
-msgstr ""
+msgstr "Cianu claro"
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Coloráu"
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Moráu"
 
 msgctxt "#30128"
 msgid "Light Purple"
-msgstr ""
+msgstr "Moráu claro"
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Mariellu"
 
 msgctxt "#30130"
 msgid "Gray"
-msgstr ""
+msgstr "Buxu"
 
 msgctxt "#30131"
 msgid "Light Purple (2)"
-msgstr ""
+msgstr "Moráu claro (2)"
 
 msgctxt "#30132"
 msgid "Light Green (2)"
-msgstr ""
+msgstr "Verde claro (2)"
 
 msgctxt "#30133"
 msgid "Light Green (3)"
-msgstr ""
+msgstr "Verde claro (3)"
 
 msgctxt "#30134"
 msgid "Light Cyan (2)"
-msgstr ""
+msgstr "Cianu claro (2)"
 
 msgctxt "#30135"
 msgid "Light Red (2)"
-msgstr ""
+msgstr "Coloráu claro (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "Maxenta"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
-msgstr ""
+msgstr "Moráu claro (3)"
 
 msgctxt "#30138"
 msgid "Light Orange"
-msgstr ""
+msgstr "Naranxa claro"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Naranxa"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
-msgstr ""
+msgstr "Moráu claro (4)"
 
 msgctxt "#30141"
 msgid "Light Yellow"
-msgstr ""
+msgstr "Mariellu claro"
 
 msgctxt "#30142"
 msgid "Light Yellow (2)"
-msgstr ""
+msgstr "Mariellu claro (2)"
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Blancu"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de la emulación"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -612,7 +612,7 @@ msgstr ""
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
@@ -684,7 +684,7 @@ msgstr ""
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Resolución interna"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
@@ -696,15 +696,15 @@ msgstr ""
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
-msgstr ""
+msgstr "800x600 (x1,25)"
 
 msgctxt "#30169"
 msgid "960x720 (x1.5)"
-msgstr ""
+msgstr "960x720 (x1,5)"
 
 msgctxt "#30170"
 msgid "1024x768 (x1.6)"
-msgstr ""
+msgstr "1024x768 (x1,6)"
 
 msgctxt "#30171"
 msgid "1280x960 (x2)"
@@ -712,11 +712,11 @@ msgstr ""
 
 msgctxt "#30172"
 msgid "1440x1080 (x2.25)"
-msgstr ""
+msgstr "1440x1080 (x2,25)"
 
 msgctxt "#30173"
 msgid "1600x1200 (x2.5)"
-msgstr ""
+msgstr "1600x1200 (x2,5)"
 
 msgctxt "#30174"
 msgid "1920x1440 (x3)"
@@ -728,7 +728,7 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "2880x2160 (x4.5)"
-msgstr ""
+msgstr "2880x2160 (x4,5)"
 
 msgctxt "#30177"
 msgid "3200x2400 (x5)"
@@ -868,11 +868,11 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "4x"
-msgstr ""
+msgstr "x4"
 
 msgctxt "#30212"
 msgid "6x"
-msgstr ""
+msgstr "x6"
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
@@ -896,7 +896,7 @@ msgstr ""
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Rindimientu"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
@@ -1263,7 +1263,7 @@ msgstr ""
 
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
-msgstr ""
+msgstr "Cuando s'activa esta opción, reprodúcense los pitíos de la VMU."
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"

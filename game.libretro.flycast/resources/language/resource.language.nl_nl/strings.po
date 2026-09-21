@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Schermoriëntatie"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "Regio"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -360,7 +360,7 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "Voert de GPU en CPU uit op verschillende threads. Zeer aanbevolen."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "Normaal"
 
 msgctxt "#30102"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera."
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Invoer"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -496,7 +496,7 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Blue"
-msgstr ""
+msgstr "Blauw"
 
 msgctxt "#30119"
 msgid "Light Blue"
@@ -504,7 +504,7 @@ msgstr ""
 
 msgctxt "#30120"
 msgid "Green"
-msgstr ""
+msgstr "Groen"
 
 msgctxt "#30121"
 msgid "Cyan"
@@ -528,7 +528,7 @@ msgstr ""
 
 msgctxt "#30126"
 msgid "Red"
-msgstr ""
+msgstr "Rood"
 
 msgctxt "#30127"
 msgid "Purple"
@@ -540,7 +540,7 @@ msgstr ""
 
 msgctxt "#30129"
 msgid "Yellow"
-msgstr ""
+msgstr "Geel"
 
 msgctxt "#30130"
 msgid "Gray"
@@ -612,7 +612,7 @@ msgstr ""
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Systeem"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
@@ -840,7 +840,7 @@ msgstr ""
 
 msgctxt "#30204"
 msgid "Default"
-msgstr ""
+msgstr "Standaard"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
@@ -904,7 +904,7 @@ msgstr ""
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Gedraaide Rendering"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"
@@ -912,7 +912,7 @@ msgstr ""
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr ""
+msgstr "Automatisch frames overslaan wanneer de emulator traag draait. Deze instelling is alleen van toepassing wanneer 'Gedraaide Rendering' is ingeschakeld."
 
 msgctxt "#30223"
 msgid "Maximum"

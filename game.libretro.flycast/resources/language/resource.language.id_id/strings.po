@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Screen Orientation"
-msgstr ""
+msgstr "Orientasi Layar"
 
 msgctxt "#30007"
 msgid "Alpha Sorting"
@@ -76,7 +76,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Widescreen Cheats (Restart Required)"
-msgstr ""
+msgstr "Cheat Layar Lebar (Perlu Mulai Ulang)"
 
 msgctxt "#30014"
 msgid "Cable Type"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Region"
-msgstr ""
+msgstr "Daerah"
 
 msgctxt "#30018"
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 msgctxt "#30019"
 msgid "DIV Matching"
@@ -112,35 +112,35 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "Trigger Deadzone"
-msgstr ""
+msgstr "Pemicu Deadzone"
 
 msgctxt "#30023"
 msgid "Digital Triggers"
-msgstr ""
+msgstr "Pemicu Digital"
 
 msgctxt "#30024"
 msgid "Enable DSP"
-msgstr ""
+msgstr "Aktifkan DSP"
 
 msgctxt "#30025"
 msgid "Anisotropic Filtering"
-msgstr ""
+msgstr "Penyaringan Anisotropic"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr ""
+msgstr "Saring Pasca-pengolahan PowerVR2"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
-msgstr ""
+msgstr "Penskalaan Naik Tekstur (xBRZ)"
 
 msgctxt "#30028"
 msgid "Texture Upscaling Max. Filtered Size"
-msgstr ""
+msgstr "Ukuran Saring Maks. Tekstur Naik Skala"
 
 msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
-msgstr ""
+msgstr "Mengaktifkan Dapar RTT (Render Ke Tekstur)"
 
 msgctxt "#30030"
 msgid "Render To Texture Upscaling"
@@ -180,7 +180,7 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "Dump Textures"
-msgstr ""
+msgstr "Dump Tekstur"
 
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
@@ -328,7 +328,7 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
-msgstr ""
+msgstr "Paksa penggunaan BIOS emulasi tingkat tinggi."
 
 msgctxt "#30077"
 msgid "Per-Strip (fast, least accurate)"
@@ -356,11 +356,11 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Enable emulation of the Dreamcast's audio DSP (digital signal processor). Improves the accuracy of generated sound, but increases performance requirements."
-msgstr ""
+msgstr "Aktifkan emulasi DSP audio Dreamcast (pengolah sinyal digital). Perbaiki akurasi suara yang dihasilakan, tetapi tingkatkan persyaratan kinerja."
 
 msgctxt "#30084"
 msgid "Runs the GPU and CPU on different threads. Highly recommended."
-msgstr ""
+msgstr "Jalankan GPU dan CPU pada Thread berbeda. Sangat direkomendasikan."
 
 msgctxt "#30085"
 msgid "Waits for the GPU to finish rendering the previous frame instead of dropping the current one. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -384,11 +384,11 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
-msgstr ""
+msgstr "Mungkin perlu nilai yang lebih besar agar resolusi yang lebih besar terlihat benar."
 
 msgctxt "#30091"
 msgid "Modify rendering resolution."
-msgstr ""
+msgstr "Modifikasi resolusi render."
 
 msgctxt "#30092"
 msgid "Horizontal"
@@ -396,7 +396,7 @@ msgstr ""
 
 msgctxt "#30093"
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikal"
 
 msgctxt "#30094"
 msgid "A Dreamcast GPU feature that is typically used by games to draw object shadows. This should normally be enabled - the performance impact is usually minimal to negligible."
@@ -436,11 +436,11 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
-msgstr ""
+msgstr "Memasca-olah gambar yang di-render untuk meniru efek seperti di GPU PowerVR2 dan sinyal video analog."
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr ""
+msgstr "Meningkatkan grafis seni piksel 2D karya tangan. Hanya bisa digunakan di pemainan piksel 2D."
 
 msgctxt "#30105"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms. Note: This setting only applies when 'Threaded Rendering' is enabled."
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "Input"
-msgstr ""
+msgstr "Masukan"
 
 msgctxt "#30108"
 msgid "Configure controller & light gun settings."
@@ -492,7 +492,7 @@ msgstr ""
 
 msgctxt "#30117"
 msgid "Black"
-msgstr ""
+msgstr "Hitam"
 
 msgctxt "#30118"
 msgid "Blue"
@@ -532,7 +532,7 @@ msgstr ""
 
 msgctxt "#30127"
 msgid "Purple"
-msgstr ""
+msgstr "Ungu"
 
 msgctxt "#30128"
 msgid "Light Purple"
@@ -580,7 +580,7 @@ msgstr ""
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Oranye"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
@@ -596,11 +596,11 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "White"
-msgstr ""
+msgstr "Putih"
 
 msgctxt "#30144"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Peretasan Emulasi"
 
 msgctxt "#30145"
 msgid "Configure different emulation hacks."
@@ -612,11 +612,11 @@ msgstr ""
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "Sistem"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
-msgstr ""
+msgstr "Menyetel daerah, bahasa, BIOS, dan pengaturan peranti keras dasar."
 
 msgctxt "#30149"
 msgid "Changes the language used by the BIOS and by any games that contain multiple languages."
@@ -624,7 +624,7 @@ msgstr ""
 
 msgctxt "#30150"
 msgid "HLE BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS HLE (Perlu Mulai Ulang)"
 
 msgctxt "#30151"
 msgid "Allow Arcade Service Buttons"
@@ -684,7 +684,7 @@ msgstr ""
 
 msgctxt "#30165"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Resolusi Internal"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
@@ -692,7 +692,7 @@ msgstr ""
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr ""
+msgstr "640x480 (Lokal)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
@@ -828,15 +828,15 @@ msgstr ""
 
 msgctxt "#30201"
 msgid "Enhance the quality of textures on surfaces that are at oblique viewing angles with respect to the camera. Higher values are more demanding on the GPU. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Meningkatkan mutu tekstur permukaan yang bersudut pandang serong di mata kamera. Opsi nilai tinggi lebih menguras GPU. Perubahan ini hanya berlaku setelah dimulai ulang."
 
 msgctxt "#30202"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Penyaringan Tekstur"
 
 msgctxt "#30203"
 msgid "The texture filtering mode to use. This can be used to force a certain texture filtering mode on all textures to get a crisper (or smoother) appearance than Default. Values other than Default may cause various rendering issues. Changes to this setting only apply after restarting."
-msgstr ""
+msgstr "Pilihan mode saring tekstur. Ini dapat memaksa mode saring tekstur tertentu pada semua tekstur agar berpenampilan lebih tajam (atau mulus) dibandingkan Bawaan. Opsi nilai selain Bawaan mungkin akan muncul masalah visual. Perubahan ini hanya berlaku setelah dimulai ulang."
 
 msgctxt "#30204"
 msgid "Default"
@@ -896,7 +896,7 @@ msgstr ""
 
 msgctxt "#30218"
 msgid "Performance"
-msgstr ""
+msgstr "Kinerja"
 
 msgctxt "#30219"
 msgid "Configure threaded rendering and frame skip settings."
@@ -904,7 +904,7 @@ msgstr ""
 
 msgctxt "#30220"
 msgid "Threaded Rendering"
-msgstr ""
+msgstr "Perenderan Berutas"
 
 msgctxt "#30221"
 msgid "Auto Skip Frame"

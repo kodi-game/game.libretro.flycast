@@ -1,1 +1,1 @@
-flycast https://github.com/flyinghead/flycast/archive/628bd3dbb160ea2750230fc6b00c0bb8173cb1f6.tar.gz
+flycast https://github.com/kodi-game/flycast/archive/32a3c34b02688d42c91a2854ee63062fe19aa0bd.tar.gz

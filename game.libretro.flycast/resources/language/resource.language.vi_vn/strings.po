@@ -227,7 +227,7 @@ msgstr "Độ mờ của Màn hình VMU 4"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr "Hiển thị Cài đặt Súng Ánh Sáng"
+msgstr "Hiển thị Cài đặt Súng quang"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
@@ -983,7 +983,7 @@ msgstr "Luôn xuất các Kết cấu đã được thay thế bằng Kết cấ
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr "Cấu hình tay cầm và súng ánh sáng."
+msgstr "Cấu hình tay cầm và Súng quang."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."

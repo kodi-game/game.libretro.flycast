@@ -963,11 +963,11 @@ msgstr "加载位于 'system/dc/textures/<游戏ID>/' 文件夹中的自定义�
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
-msgstr ""
+msgstr "预加载自定义纹理"
 
 msgctxt "#30274"
 msgid "Preload custom textures at game start. May improve performance but increases memory usage."
-msgstr ""
+msgstr "游戏启动时预先加载自定义纹理贴图。这可能提升性能，但会增加内存占用。"
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
@@ -975,11 +975,11 @@ msgstr "每当游戏使用一个新纹理时，它将被保存为一个 .png 文
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
-msgstr ""
+msgstr "转储已被替换的纹理"
 
 msgctxt "#30277"
 msgid "Always dump textures that are already replaced by custom textures."
-msgstr ""
+msgstr "总是转储已经被自定义纹理替换的原始纹理"
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
@@ -1117,11 +1117,11 @@ msgstr "启用时，会播放 VMU 的“哔”声。"
 
 msgctxt "#30310"
 msgid "DreamPotato VMU storage"
-msgstr ""
+msgstr "DreamPotato VMU 存储"
 
 msgctxt "#30311"
 msgid "Enable storage of VMU data on the connected DreamPotato emulator. When enabled, the local VMU save file is not used."
-msgstr ""
+msgstr "在已连接的 DreamPotato 仿真器上启用VMU 数据存储。启用时，不使用本地VMU 保存文件。"
 
 msgctxt "#30312"
 msgid "Enable configuration of emulated VMU LCD screen visibility, size, position and color. NOTE: Quick Menu may need to be toggled for this setting to take effect."

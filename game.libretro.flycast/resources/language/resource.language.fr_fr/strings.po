@@ -535,111 +535,111 @@ msgstr "Résolution interne"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr "320x240 (Moitié)"
+msgstr "320 x 240 (Moitié)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr "640x480 (Natif)"
+msgstr "640 x 480 (Natif)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
-msgstr "800x600 (1,25x)"
+msgstr "800 x 600 (x1,25)"
 
 msgctxt "#30169"
 msgid "960x720 (x1.5)"
-msgstr "960x720 (1,5x)"
+msgstr "960 x 720 (x1,5)"
 
 msgctxt "#30170"
 msgid "1024x768 (x1.6)"
-msgstr "1024x768 (1,6x)"
+msgstr "1024 x 768 (x1,6)"
 
 msgctxt "#30171"
 msgid "1280x960 (x2)"
-msgstr "1280x960 (2x)"
+msgstr "1280 x 960 (x2)"
 
 msgctxt "#30172"
 msgid "1440x1080 (x2.25)"
-msgstr "1440x1080 (2,25x)"
+msgstr "1440 x 1080 (x2,25)"
 
 msgctxt "#30173"
 msgid "1600x1200 (x2.5)"
-msgstr "1600x1200 (2,5x)"
+msgstr "1600 x 1200 (x2,5)"
 
 msgctxt "#30174"
 msgid "1920x1440 (x3)"
-msgstr "1920x1440 (3x)"
+msgstr "1920 x 1440 (x3)"
 
 msgctxt "#30175"
 msgid "2560x1920 (x4)"
-msgstr "2560x1920 (4x)"
+msgstr "2560 x 1920 (x4)"
 
 msgctxt "#30176"
 msgid "2880x2160 (x4.5)"
-msgstr "2880x2160 (4,5x)"
+msgstr "2880 x 2160 (x4,5)"
 
 msgctxt "#30177"
 msgid "3200x2400 (x5)"
-msgstr "3200x2400 (5x)"
+msgstr "3200 x 2400 (x5)"
 
 msgctxt "#30178"
 msgid "3840x2880 (x6)"
-msgstr "3840x2880 (6x)"
+msgstr "3840 x 2880 (x6)"
 
 msgctxt "#30179"
 msgid "4480x3360 (x7)"
-msgstr "4480x3360 (7x)"
+msgstr "4480 x 3360 (x7)"
 
 msgctxt "#30180"
 msgid "5120x3840 (x8)"
-msgstr "5120x3840 (8x)"
+msgstr "5120 x 3840 (x8)"
 
 msgctxt "#30181"
 msgid "5760x4320 (x9)"
-msgstr "5760x4320 (9x)"
+msgstr "5760 x 4320 (x9)"
 
 msgctxt "#30182"
 msgid "6400x4800 (x10)"
-msgstr "6400x4800 (10x)"
+msgstr "6400 x 4800 (x10)"
 
 msgctxt "#30183"
 msgid "7040x5280 (x11)"
-msgstr "7040x5280 (11x)"
+msgstr "7040 x 5280 (x11)"
 
 msgctxt "#30184"
 msgid "7680x5760 (x12)"
-msgstr "7680x5760 (12x)"
+msgstr "7680 x 5760 (x12)"
 
 msgctxt "#30185"
 msgid "8320x6240 (x13)"
-msgstr "8320x6240 (13x)"
+msgstr "8320 x 6240 (x13)"
 
 msgctxt "#30186"
 msgid "8960x6720 (x14)"
-msgstr "8960x6720 (14x)"
+msgstr "8960 x 6720 (x14)"
 
 msgctxt "#30187"
 msgid "9600x7200 (x15)"
-msgstr "9600x7200 (15x)"
+msgstr "9600 x 7200 (x15)"
 
 msgctxt "#30188"
 msgid "10240x7680 (x16)"
-msgstr "10240x7680 (16x)"
+msgstr "10240 x 7680 (x16)"
 
 msgctxt "#30189"
 msgid "10880x8160 (x17)"
-msgstr "10880x8160 (17x)"
+msgstr "10880 x 8160 (x17)"
 
 msgctxt "#30190"
 msgid "11520x8640 (x18)"
-msgstr "11520x8640 (18x)"
+msgstr "11520 x 8640 (x18)"
 
 msgctxt "#30191"
 msgid "12160x9120 (x19)"
-msgstr "12160x9120 (19x)"
+msgstr "12160 x 9120 (x19)"
 
 msgctxt "#30192"
 msgid "12800x9600 (x20)"
-msgstr "12800x9600 (20x)"
+msgstr "12800 x 9600 (x20)"
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
@@ -663,7 +663,7 @@ msgstr "Émulation complète du tampon d'image"
 
 msgctxt "#30198"
 msgid "Enable full framebuffer emulation in VRAM. This is useful for games that directly read or write the framebuffer in VRAM. When enabled, Internal Resolution is forced to 640x480 and performance may be severely impacted."
-msgstr "Active l'émulation complète du tampon d'image dans la VRAM. Ceci est utile pour les jeux qui lisent ou écrivent directement le framebuffer dans la VRAM. Lorsque cette option est activée, la résolution interne est forcée à 640x480 et les performances peuvent être sévèrement affectées."
+msgstr "Active l'émulation complète du tampon d'image dans la VRAM. Ceci est utile pour les jeux qui lisent ou écrivent directement le framebuffer dans la VRAM. Lorsque cette option est activée, la résolution interne est forcée à 640 x 480 et les performances peuvent être sévèrement affectées."
 
 msgctxt "#30199"
 msgid "Copy rendered textures back from the GPU to VRAM. This option is normally enabled for games that require it. When enabled, texture rendering upscaling is disabled and performance may be impacted."

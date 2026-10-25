@@ -525,11 +525,11 @@ msgstr "Ändra spelets myntinställningar till free play."
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "Myntgräns"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "Inaktivera myntinsättning efter angiven gräns."
 
 msgctxt "#30157"
 msgid "disabled"
@@ -733,7 +733,7 @@ msgstr "Tvinga Linjär"
 
 msgctxt "#30207"
 msgid "Useful to avoid flashing screens or glitchy videos. Not recommended on slow platforms."
-msgstr "Användbart för att undvika blinkande skärmar eller glitchiga videor. Rekommenderas inte på långsamma plattformar."
+msgstr "Användbart för att undvika blinkande skärmar eller störningsfyllda videor. Rekommenderas inte på långsamma plattformar."
 
 msgctxt "#30208"
 msgid "Detect Frame Rate Changes"
@@ -817,7 +817,7 @@ msgstr "\"Dreamcast 32MB RAM-modifikation\""
 
 msgctxt "#30228"
 msgid "Enables 32MB RAM Mod for Dreamcast. May affect compatibility"
-msgstr "Aktiverar 32MB RAM-modifikation för Dreamcast. Kan påverka kompatibiliteten."
+msgstr "Aktiverar 32 MB RAM-modifikation för Dreamcast, vilket kan påverka kompatibiliteten"
 
 msgctxt "#30229"
 msgid "SH4 CPU under/overclock"
@@ -1299,11 +1299,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "Ignorera video och animerade texturer"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "Hoppa över dumpning av video (YUV) och redan uppdaterade texturer."
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

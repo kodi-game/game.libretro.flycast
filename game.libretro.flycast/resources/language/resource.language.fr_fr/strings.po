@@ -491,11 +491,11 @@ msgstr "Modifier les réglages de pièces du jeu en mode gratuit."
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "Limite de pièces"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "Désactiver l'insertion de pièces avant d'avoir atteint la limite définie."
 
 msgctxt "#30157"
 msgid "disabled"
@@ -711,7 +711,7 @@ msgstr "Notifier l'interface graphique lorsque la fréquence d’images interne 
 
 msgctxt "#30210"
 msgid "2x"
-msgstr ""
+msgstr "x2"
 
 msgctxt "#30211"
 msgid "4x"
@@ -1265,11 +1265,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "Ignorer les vidéos et les textures animées"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "Ignorer l'importation de la vidéo (YUV) et des textures déjà mises à jour."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

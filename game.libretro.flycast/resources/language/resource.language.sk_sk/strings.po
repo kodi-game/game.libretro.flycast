@@ -491,11 +491,11 @@ msgstr "Upraví nastavenia mincí hry na voľné hranie."
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "Limit mincí"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "Po dosiahnutí nastaveného limitu zakáže vhadzovanie mincí."
 
 msgctxt "#30157"
 msgid "disabled"
@@ -1265,11 +1265,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "Vynechať video a animované textúry"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "Pri ukladaní textúr preskočí video (YUV) a už aktualizované textúry."
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

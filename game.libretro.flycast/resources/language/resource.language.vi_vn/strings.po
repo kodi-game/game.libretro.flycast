@@ -491,11 +491,11 @@ msgstr "Chỉnh cài đặt đồng xu của trò chơi sang chế độ chơi m
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "Giới hạn xu"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "Tắt chức năng nạp xu sau khi đạt đến giới hạn đã đặt."
 
 msgctxt "#30157"
 msgid "disabled"
@@ -1265,11 +1265,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "Bỏ qua video và kết cấu động"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "Bỏ qua việc trích xuất video (YUV) và các kết cấu đã được cập nhật."
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

@@ -491,11 +491,11 @@ msgstr "Modifica la configuració de monedes del joc a partides gratuïtes."
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "Límit de monedes"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "Desactiva l'inserció de monedes després del límit definit."
 
 msgctxt "#30157"
 msgid "disabled"
@@ -1262,11 +1262,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "Descarta el vídeo i les textures animades"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "Omet l'abocament de vídeo (YUV) i de les textures actualitzades."
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

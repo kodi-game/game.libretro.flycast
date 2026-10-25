@@ -491,11 +491,11 @@ msgstr "Ändert die Münzeinstellungen des Spiels zu kostenlos."
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "Münzlimit"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "Münzeinwurf nach Erreichen des festgelegten Limits deaktivieren."
 
 msgctxt "#30157"
 msgid "disabled"
@@ -535,19 +535,19 @@ msgstr "Interne Auflösung"
 
 msgctxt "#30166"
 msgid "320x240 (Half)"
-msgstr "320×240 (Halb)"
+msgstr "320 × 240 (Halb)"
 
 msgctxt "#30167"
 msgid "640x480 (Native)"
-msgstr "640×480 (Nativ)"
+msgstr "640 × 480 (Nativ)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
-msgstr "800×600 (×1,25)"
+msgstr "800 × 600 (×1,25)"
 
 msgctxt "#30169"
 msgid "960x720 (x1.5)"
-msgstr "960×720 (×1,5)"
+msgstr "960 × 720 (×1,5)"
 
 msgctxt "#30170"
 msgid "1024x768 (x1.6)"
@@ -555,91 +555,91 @@ msgstr "1024×768 (×1,6)"
 
 msgctxt "#30171"
 msgid "1280x960 (x2)"
-msgstr "1280×960 (×2)"
+msgstr "1280 × 960 (×2)"
 
 msgctxt "#30172"
 msgid "1440x1080 (x2.25)"
-msgstr "1440×1080 (×2,25)"
+msgstr "1440 × 1080 (×2,25)"
 
 msgctxt "#30173"
 msgid "1600x1200 (x2.5)"
-msgstr "1600×1200 (×2,5)"
+msgstr "1600 × 1200 (×2,5)"
 
 msgctxt "#30174"
 msgid "1920x1440 (x3)"
-msgstr "1920×1440 (×3)"
+msgstr "1920 × 1440 (×3)"
 
 msgctxt "#30175"
 msgid "2560x1920 (x4)"
-msgstr "2560×1920 (×4)"
+msgstr "2560 × 1920 (×4)"
 
 msgctxt "#30176"
 msgid "2880x2160 (x4.5)"
-msgstr "2880×2160 (×4,5)"
+msgstr "2880 × 2160 (×4,5)"
 
 msgctxt "#30177"
 msgid "3200x2400 (x5)"
-msgstr "3200×2400 (×5)"
+msgstr "3200 × 2400 (×5)"
 
 msgctxt "#30178"
 msgid "3840x2880 (x6)"
-msgstr "3840×2880 (×6)"
+msgstr "3840 × 2880 (×6)"
 
 msgctxt "#30179"
 msgid "4480x3360 (x7)"
-msgstr "4480×3360 (×7)"
+msgstr "4480 × 3360 (×7)"
 
 msgctxt "#30180"
 msgid "5120x3840 (x8)"
-msgstr "5120×3840 (×8)"
+msgstr "5120 × 3840 (×8)"
 
 msgctxt "#30181"
 msgid "5760x4320 (x9)"
-msgstr "5760×4320 (×9)"
+msgstr "5760 × 4320 (×9)"
 
 msgctxt "#30182"
 msgid "6400x4800 (x10)"
-msgstr "6400×4800 (×10)"
+msgstr "6400 × 4800 (×10)"
 
 msgctxt "#30183"
 msgid "7040x5280 (x11)"
-msgstr "7040×5280 (×11)"
+msgstr "7040 × 5280 (×11)"
 
 msgctxt "#30184"
 msgid "7680x5760 (x12)"
-msgstr "7680×5760 (×12)"
+msgstr "7680 × 5760 (×12)"
 
 msgctxt "#30185"
 msgid "8320x6240 (x13)"
-msgstr "8320×6240 (×13)"
+msgstr "8320 × 6240 (×13)"
 
 msgctxt "#30186"
 msgid "8960x6720 (x14)"
-msgstr "8960×6720 (×14)"
+msgstr "8960 × 6720 (×14)"
 
 msgctxt "#30187"
 msgid "9600x7200 (x15)"
-msgstr "9600×7200 (×15)"
+msgstr "9600 × 7200 (×15)"
 
 msgctxt "#30188"
 msgid "10240x7680 (x16)"
-msgstr "10240×7680 (×6)"
+msgstr "10240 × 7680 (×6)"
 
 msgctxt "#30189"
 msgid "10880x8160 (x17)"
-msgstr "10880×8160 (×17)"
+msgstr "10880 × 8160 (×17)"
 
 msgctxt "#30190"
 msgid "11520x8640 (x18)"
-msgstr "11520×8640 (×18)"
+msgstr "11520 × 8640 (×18)"
 
 msgctxt "#30191"
 msgid "12160x9120 (x19)"
-msgstr "12160×9120 (×19)"
+msgstr "12160 × 9120 (×19)"
 
 msgctxt "#30192"
 msgid "12800x9600 (x20)"
-msgstr "12800×9600 (×20)"
+msgstr "12800 × 9600 (×20)"
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
@@ -711,7 +711,7 @@ msgstr "Benachrichtigt das Frontend, wenn sich die interne Bildrate ändert (z.�
 
 msgctxt "#30210"
 msgid "2x"
-msgstr ""
+msgstr "2×"
 
 msgctxt "#30211"
 msgid "4x"
@@ -1265,11 +1265,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "Videotexturen und animierte Texturen verwerfen"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "Das Dumpen von Videodaten (YUV) und bereits aktualisierten Texturen überspringen."
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

@@ -227,7 +227,7 @@ msgstr "Opacidad de la pantalla de la VMU 4"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
-msgstr "Mostrar ajustes de las pistolas de luz"
+msgstr "Mostrar ajustes de lightguns"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
@@ -299,7 +299,7 @@ msgstr "Una característica de la GPU de Dreamcast que suelen utilizar los juego
 
 msgctxt "#30095"
 msgid "The output signal type. 'TV (Composite)' is the most widely supported."
-msgstr "El tipo de señal de salida de la imagen. «TV (Compuesto)» es el formato más compatible de todos."
+msgstr "El tipo de señal de salida de la imagen. \"TV (Compuesto)\" es el formato más compatible."
 
 msgctxt "#30096"
 msgid "PAL-M (Brazil)"
@@ -323,7 +323,7 @@ msgstr "Posprocesa la imagen renderizada para simular los efectos dedicados de l
 
 msgctxt "#30104"
 msgid "Enhance hand-drawn 2D pixel art graphics. Should only be used with 2D pixelated games."
-msgstr "Mejora los gráficos 2D de corte «pixel art» dibujado a mano. Utilizar solo con juegos en 2D pixelado."
+msgstr "Mejora los gráficos 2D de corte pixel art dibujado a mano. Utilizar solo con juegos en 2D pixelado."
 
 msgctxt "#30106"
 msgid "Sets the number of frames to skip between each displayed frame."
@@ -491,11 +491,11 @@ msgstr "Modifica la configuración de monedas del juego a partidas gratuitas."
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "Límite de monedas"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "Desactiva la introducción de monedas al alcanzar un límite definido."
 
 msgctxt "#30157"
 msgid "disabled"
@@ -691,7 +691,7 @@ msgstr "Valor predeterminado"
 
 msgctxt "#30205"
 msgid "Force Nearest-Neighbor"
-msgstr "Forzar vecino más cercano"
+msgstr "Forzar vecino más próximo"
 
 msgctxt "#30206"
 msgid "Force Linear"
@@ -707,19 +707,19 @@ msgstr "Detectar cambios en la frecuencia de actualización"
 
 msgctxt "#30209"
 msgid "Notify frontend when internal frame rate changes (e.g. from 60 fps to 30 fps). Improves frame pacing in games that run at a locked 30 fps or 20 fps, but should be disabled for games with unlocked (unstable) frame rates (e.g. Ecco the Dolphin, Unreal Tournament). Note: Unavailable when 'Auto Skip Frame' is enabled."
-msgstr "Informa en el front-end cuando cambie la frecuencia de actualización interna (p. ej.: de 60 a 30 FPS). Mejora la cadencia de fotogramas en aquellos juegos que se ejecuten a 30 o 20 FPS fijos, pero esta opción debería desactivarse en aquellos juegos con frecuencias de fotogramas desbloqueadas (es decir, inestables, p. ej.: Ecco the Dolphin, Unreal Tournament...). NOTA: esta opción no estará disponible si se activa Omisión automática de fotogramas."
+msgstr "Informa en el front-end cuando cambie la frecuencia de actualización interna (p. ej.: de 60 a 30 FPS). Mejora el ritmo de fotogramas en aquellos juegos que se ejecuten a 30 o 20 FPS fijos, pero esta opción debería desactivarse en aquellos juegos con frecuencias de fotogramas desbloqueadas (es decir, inestables, p. ej.: Ecco the Dolphin, Unreal Tournament...). NOTA: esta opción no estará disponible si se activa Omisión automática de fotogramas."
 
 msgctxt "#30210"
 msgid "2x"
-msgstr ""
+msgstr "× 2"
 
 msgctxt "#30211"
 msgid "4x"
-msgstr ""
+msgstr "× 4"
 
 msgctxt "#30212"
 msgid "6x"
-msgstr ""
+msgstr "× 6"
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
@@ -759,7 +759,7 @@ msgstr "Omisión automática de fotogramas"
 
 msgctxt "#30222"
 msgid "Automatically skip frames when the emulator is running slow. Note: This setting only applies when 'Threaded Rendering' is enabled."
-msgstr "Omite fotogramas de forma automática cuando el emulador se esté ejecutando lentamente. Nota: este ajuste solo surtirá efecto cuando la opción «Renderizado multihilo» esté activada."
+msgstr "Omite fotogramas de forma automática cuando el emulador se esté ejecutando lentamente. Nota: este ajuste solo se aplicará cuando el renderizado multihilo esté activado."
 
 msgctxt "#30223"
 msgid "Maximum"
@@ -959,7 +959,7 @@ msgstr "500 MHz"
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
-msgstr "Carga las texturas personalizadas que se encuentren en la carpeta «system/dc/textures/<id-del-juego>/»."
+msgstr "Carga las texturas personalizadas que se encuentren en la carpeta \"system/dc/textures/<id-del-juego>/\"."
 
 msgctxt "#30273"
 msgid "Preload Custom Textures"
@@ -971,7 +971,7 @@ msgstr "Carga las texturas personalizadas al ejecutar un juego. Podría mejorar 
 
 msgctxt "#30275"
 msgid "Every time a new texture is used by the game, it will be saved as a .png file in the 'system/dc/texdump/<game-id>/' folder."
-msgstr "Cada vez que aparezca una textura nueva en el juego, se guardará en formato .PNG dentro de la carpeta «system/dc/texdump/<id-del-juego>/»."
+msgstr "Cada vez que aparezca una textura nueva en el juego, se guardará en formato .PNG dentro de la carpeta \"system/dc/texdump/<id-del-juego>/\"."
 
 msgctxt "#30276"
 msgid "Dump Replaced Textures"
@@ -983,7 +983,7 @@ msgstr "Vuelca siempre las texturas que ya hayan sido reemplazadas por otras per
 
 msgctxt "#30278"
 msgid "Configure gamepad and light gun settings."
-msgstr "Cambia los ajustes de los mandos y las pistolas de luz."
+msgstr "Cambia los ajustes de los mandos y las lightguns (pistolas de luz)."
 
 msgctxt "#30279"
 msgid "Select how far you have to push the analog stick before it starts being processed."
@@ -1003,11 +1003,11 @@ msgstr "Transmitir salidas digitales"
 
 msgctxt "#30283"
 msgid "Broadcast digital outputs and force-feedback state on TCP port 8000. Compatible with the \"-output network\" MAME option."
-msgstr "Transmite las salidas digitales y el estado de la vibración al puerto TCP 8000. Compatible con la opción de MAME «-output network»."
+msgstr "Transmite las salidas digitales y el estado de la vibración al puerto TCP 8000. Compatible con la opción de MAME \"-output network\"."
 
 msgctxt "#30284"
 msgid "Enable configuration of light gun crosshair display options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr "Permite configurar los puntos de mira de las pistolas de luz. NOTA: es necesario salir y volver a entrar del menú rápido para que el cambio surta efecto."
+msgstr "Permite configurar los puntos de mira de las lightguns. NOTA: es necesario salir y volver a entrar del menú rápido para que el cambio surta efecto."
 
 msgctxt "#30285"
 msgid "Gun Crosshair Size Scaling"
@@ -1104,8 +1104,8 @@ msgid ""
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
 "Al desactivar esta opción, todos los juegos compartirán ocho archivos de guardado de VMU (A1/A2/B1/B2/C1/C2/D1/D2) que se encontrarán en la carpeta del sistema de RetroArch.\n"
-"El ajuste «VMU A1» creará un archivo único de la VMU A1 en la carpeta de guardados de RetroArch para cada juego que se ejecute.\n"
-"«Todas las VMU» creará ocho archivos VMU únicos (A1/A2/B1/B2/C1/C2/D1/D2) para cada juego que se ejecute."
+"El ajuste VMU A1 creará un archivo único de la VMU A1 en la carpeta de guardados de RetroArch para cada juego que se ejecute.\n"
+"Todas las VMU creará ocho archivos VMU únicos (A1/A2/B1/B2/C1/C2/D1/D2) para cada juego que se ejecute."
 
 msgctxt "#30308"
 msgid "Visual Memory Units/Systems (VMU) Sounds"
@@ -1265,11 +1265,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "Omitir vídeos y texturas animadas"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "Omite el volcado de vídeos (formato YUV) y de texturas que ya hayan sido actualizadas."
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

@@ -491,11 +491,11 @@ msgstr "修改游戏的投币设置，使其变为免费游玩模式。"
 
 msgctxt "#30155"
 msgid "Coin Limit"
-msgstr ""
+msgstr "硬币数量限制"
 
 msgctxt "#30156"
 msgid "Disable coin insertion after defined limit."
-msgstr ""
+msgstr "在达到硬币数量限制后禁用插入硬币。"
 
 msgctxt "#30157"
 msgid "disabled"
@@ -1265,11 +1265,11 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"
-msgstr ""
+msgstr "丢弃视频和动画纹理"
 
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
-msgstr ""
+msgstr "跳过转储视频的 YUV 数据和已更新纹理。"
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

@@ -711,7 +711,7 @@ msgstr ""
 
 msgctxt "#30210"
 msgid "2x"
-msgstr ""
+msgstr "2倍"
 
 msgctxt "#30211"
 msgid "4x"

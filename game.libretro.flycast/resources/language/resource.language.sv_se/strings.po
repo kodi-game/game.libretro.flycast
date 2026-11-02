@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.flycast\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2025-11-09 08:13+0000\n"
+"PO-Revision-Date: 2026-11-02 20:47+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-flycast/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Sega - Dreamcast/Naomi (Flycast)"
@@ -33,10 +33,9 @@ msgctxt "#30007"
 msgid "Alpha Sorting"
 msgstr "Alfasortering"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr "GD-ROM Snabbladdning (felaktig)"
+msgstr "Snabb inläsning från GD-ROM (oprecis)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
@@ -58,7 +57,6 @@ msgctxt "#30014"
 msgid "Cable Type"
 msgstr "Kabeltyp"
 
-#, fuzzy
 msgctxt "#30015"
 msgid "Broadcast Standard"
 msgstr "Sändningsstandard"
@@ -91,10 +89,9 @@ msgctxt "#30025"
 msgid "Anisotropic Filtering"
 msgstr "Anisotropisk Filtering"
 
-#, fuzzy
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr "PowerVR2 Efterbehandlingsfilter"
+msgstr "PowerVR2-efterbehandlingsfilter"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
@@ -108,10 +105,9 @@ msgctxt "#30029"
 msgid "Enable RTT (Render To Texture) Buffer"
 msgstr "Aktivera RTT (Render To Texture) buffert"
 
-#, fuzzy
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr "Fördröj bildrutebyte"
+msgstr "Fördröj bildruteväxling"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
@@ -125,159 +121,129 @@ msgctxt "#30039"
 msgid "Dump Textures"
 msgstr "Dumpa texturer"
 
-#, fuzzy
 msgctxt "#30040"
 msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Per-spel visningsminnesenheter/systemer (VMU)"
+msgstr "Visuella minnesenheter/system per spel (VMU)"
 
-#, fuzzy
 msgctxt "#30041"
 msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Visa inställningar för Visual Memory Unit/System (VMU)-skärmen"
+msgstr "Visa inställningar för visuella minnesenheters/systems skärm (VMU)"
 
-#, fuzzy
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr "Visa VMU-skärm 1"
+msgstr "VMU-skärm 1, visning"
 
-#, fuzzy
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr "Position för VMU-skärm 1"
+msgstr "VMU-skärm 1, position"
 
-#, fuzzy
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr "Storlek för VMU-skärm 1"
+msgstr "VMU-skärm 1, storlek"
 
-#, fuzzy
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr "VMU Skärm 1 Pixel PÅ Färg"
+msgstr "VMU-skärm 1, färg för aktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr "VMU Skärm 1 Pixel AV Färg"
+msgstr "VMU-skärm 1, färg för inaktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr "VMU Skärm 1 Opacitet"
+msgstr "VMU-skärm 1, opacitet"
 
-#, fuzzy
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr "VMU Skärm 2 Visa"
+msgstr "VMU-skärm 2, visning"
 
-#, fuzzy
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr "VMU Skärm 2 Position"
+msgstr "VMU-skärm 2, position"
 
-#, fuzzy
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr "VMU Skärm 2 Storlek"
+msgstr "VMU-skärm 2, storlek"
 
-#, fuzzy
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr "VMU Skärm 2 Pixel PÅ Färg"
+msgstr "VMU-skärm 2, färg för aktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr "VMU Skärm 2 Pixel AV Färg"
+msgstr "VMU-skärm 2, färg för inaktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr "VMU Skärm 2 Opacitet"
+msgstr "VMU-skärm 2, opacitet"
 
-#, fuzzy
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr "Visa VMU skärm 3"
+msgstr "VMU-skärm 3, visning"
 
-#, fuzzy
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr "Positionen för VMU skärm 3"
+msgstr "VMU-skärm 3, position"
 
-#, fuzzy
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr "VMU skärm 3 Storlek"
+msgstr "VMU-skärm 3, storlek"
 
-#, fuzzy
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr "Aktivera pixelfärg på VMU skärm 3"
+msgstr "VMU-skärm 3, färg för aktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr "Avaktivera pixelfärg på VMU skärm 3"
+msgstr "VMU-skärm 3, färg för inaktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr "Opaciteten för VMU Skärm 3"
+msgstr "VMU-skärm 3, opacitet"
 
-#, fuzzy
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr "Visa VMU skärm 4"
+msgstr "VMU-skärm 4, visning"
 
-#, fuzzy
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr "Positionen för VMU skärm 4"
+msgstr "VMU-skärm 4, position"
 
-#, fuzzy
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr "VMU skärm 4 Storlek"
+msgstr "VMU-skärm 4, storlek"
 
-#, fuzzy
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr "VMU Skärm 4 Pixel PÅ Färg"
+msgstr "VMU-skärm 4, färg för aktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr "VMU Skärm 4 Pixel AV Färg"
+msgstr "VMU-skärm 4, färg för inaktiverad bildpunkt"
 
-#, fuzzy
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr "VMU Skärm 4 Opacitet"
+msgstr "VMU-skärm 4, opacitet"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
 msgstr "Visa ljuspistolinställningar"
 
-#, fuzzy
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr "Visa hårkors för pistol 1"
+msgstr "Visning av hårkors för pistol 1"
 
-#, fuzzy
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr "Visa hårkors för pistol 2"
+msgstr "Visning av hårkors för pistol 2"
 
-#, fuzzy
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr "Visa hårkors för pistol 3"
+msgstr "Visning av hårkors för pistol 3"
 
-#, fuzzy
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr "Visa hårkors för pistol 4"
+msgstr "Visning av hårkors för pistol 4"
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
@@ -309,7 +275,7 @@ msgstr "Kör GPU och CPU på olika trådar. Starkt rekommenderat."
 
 msgctxt "#30088"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30090"
 msgid "Higher values might be required for higher resolutions to output correctly."
@@ -341,7 +307,7 @@ msgstr "PAL-M (Brasilien)"
 
 msgctxt "#30097"
 msgid "PAL-N (Argentina, Paraguay, Uruguay)"
-msgstr ""
+msgstr "PAL-N (Argentina, Paraguay, Uruguay)"
 
 msgctxt "#30098"
 msgid "PAL (World)"
@@ -349,7 +315,7 @@ msgstr "PAL (Världen)"
 
 msgctxt "#30101"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "#30103"
 msgid "Post-process the rendered image to simulate effects specific to the PowerVR2 GPU and analog video signals."
@@ -393,7 +359,7 @@ msgstr "Grön"
 
 msgctxt "#30121"
 msgid "Cyan"
-msgstr ""
+msgstr "Cyan"
 
 msgctxt "#30122"
 msgid "Cyan Blue"
@@ -453,7 +419,7 @@ msgstr "Ljusröd (2)"
 
 msgctxt "#30136"
 msgid "Magenta"
-msgstr ""
+msgstr "Magenta"
 
 msgctxt "#30137"
 msgid "Light Purple (3)"
@@ -465,7 +431,7 @@ msgstr "Ljusorange"
 
 msgctxt "#30139"
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 msgctxt "#30140"
 msgid "Light Purple (4)"
@@ -493,7 +459,7 @@ msgstr "Aktiverar fusk som gör det möjligt för vissa spel att visas i bredbil
 
 msgctxt "#30147"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgctxt "#30148"
 msgid "Configure region, language, BIOS and base hardware settings."
@@ -533,7 +499,7 @@ msgstr "Inaktivera myntinsättning efter angiven gräns."
 
 msgctxt "#30157"
 msgid "disabled"
-msgstr ""
+msgstr "inaktiverad"
 
 msgctxt "#30158"
 msgid "Broadband Adapter Emulation"
@@ -577,103 +543,103 @@ msgstr "640x480 (Inbyggd)"
 
 msgctxt "#30168"
 msgid "800x600 (x1.25)"
-msgstr ""
+msgstr "800x600 (x1,25)"
 
 msgctxt "#30169"
 msgid "960x720 (x1.5)"
-msgstr ""
+msgstr "960x720 (x1,5)"
 
 msgctxt "#30170"
 msgid "1024x768 (x1.6)"
-msgstr ""
+msgstr "1024x768 (x1,6)"
 
 msgctxt "#30171"
 msgid "1280x960 (x2)"
-msgstr ""
+msgstr "1280x960 (x2)"
 
 msgctxt "#30172"
 msgid "1440x1080 (x2.25)"
-msgstr ""
+msgstr "1440x1080 (x2,25)"
 
 msgctxt "#30173"
 msgid "1600x1200 (x2.5)"
-msgstr ""
+msgstr "1600x1200 (x2,5)"
 
 msgctxt "#30174"
 msgid "1920x1440 (x3)"
-msgstr ""
+msgstr "1920x1440 (x3)"
 
 msgctxt "#30175"
 msgid "2560x1920 (x4)"
-msgstr ""
+msgstr "2560x1920 (x4)"
 
 msgctxt "#30176"
 msgid "2880x2160 (x4.5)"
-msgstr ""
+msgstr "2880x2160 (x4,5)"
 
 msgctxt "#30177"
 msgid "3200x2400 (x5)"
-msgstr ""
+msgstr "3200x2400 (x5)"
 
 msgctxt "#30178"
 msgid "3840x2880 (x6)"
-msgstr ""
+msgstr "3840x2880 (x6)"
 
 msgctxt "#30179"
 msgid "4480x3360 (x7)"
-msgstr ""
+msgstr "4480x3360 (x7)"
 
 msgctxt "#30180"
 msgid "5120x3840 (x8)"
-msgstr ""
+msgstr "5120x3840 (x8)"
 
 msgctxt "#30181"
 msgid "5760x4320 (x9)"
-msgstr ""
+msgstr "5760x4320 (x9)"
 
 msgctxt "#30182"
 msgid "6400x4800 (x10)"
-msgstr ""
+msgstr "6400x4800 (x10)"
 
 msgctxt "#30183"
 msgid "7040x5280 (x11)"
-msgstr ""
+msgstr "7040x5280 (x11)"
 
 msgctxt "#30184"
 msgid "7680x5760 (x12)"
-msgstr ""
+msgstr "7680x5760 (x12)"
 
 msgctxt "#30185"
 msgid "8320x6240 (x13)"
-msgstr ""
+msgstr "8320x6240 (x13)"
 
 msgctxt "#30186"
 msgid "8960x6720 (x14)"
-msgstr ""
+msgstr "8960x6720 (x14)"
 
 msgctxt "#30187"
 msgid "9600x7200 (x15)"
-msgstr ""
+msgstr "9600x7200 (x15)"
 
 msgctxt "#30188"
 msgid "10240x7680 (x16)"
-msgstr ""
+msgstr "10240x7680 (x16)"
 
 msgctxt "#30189"
 msgid "10880x8160 (x17)"
-msgstr ""
+msgstr "10880x8160 (x17)"
 
 msgctxt "#30190"
 msgid "11520x8640 (x18)"
-msgstr ""
+msgstr "11520x8640 (x18)"
 
 msgctxt "#30191"
 msgid "12160x9120 (x19)"
-msgstr ""
+msgstr "12160x9120 (x19)"
 
 msgctxt "#30192"
 msgid "12800x9600 (x20)"
-msgstr ""
+msgstr "12800x9600 (x20)"
 
 msgctxt "#30193"
 msgid "Select how the transparent polygons are sorted."
@@ -745,15 +711,15 @@ msgstr "Meddela gränssnittet när den interna bildrutefrekvensen ändras (till 
 
 msgctxt "#30210"
 msgid "2x"
-msgstr ""
+msgstr "2x"
 
 msgctxt "#30211"
 msgid "4x"
-msgstr ""
+msgstr "4x"
 
 msgctxt "#30212"
 msgid "6x"
-msgstr ""
+msgstr "6x"
 
 msgctxt "#30213"
 msgid "Select a maximum size value for a texture to be upscaled, if the texture size is higher than the selected value then it will not be upscaled."
@@ -829,167 +795,167 @@ msgstr "Ändra SH4 huvud-CPU-klockan från standarden 200 MHz. Att sänka klockf
 
 msgctxt "#30231"
 msgid "100 MHz"
-msgstr ""
+msgstr "100 MHz"
 
 msgctxt "#30232"
 msgid "110 MHz"
-msgstr ""
+msgstr "110 MHz"
 
 msgctxt "#30233"
 msgid "120 MHz"
-msgstr ""
+msgstr "120 MHz"
 
 msgctxt "#30234"
 msgid "130 MHz"
-msgstr ""
+msgstr "130 MHz"
 
 msgctxt "#30235"
 msgid "140 MHz"
-msgstr ""
+msgstr "140 MHz"
 
 msgctxt "#30236"
 msgid "150 MHz"
-msgstr ""
+msgstr "150 MHz"
 
 msgctxt "#30237"
 msgid "160 MHz"
-msgstr ""
+msgstr "160 MHz"
 
 msgctxt "#30238"
 msgid "170 MHz"
-msgstr ""
+msgstr "170 MHz"
 
 msgctxt "#30239"
 msgid "180 MHz"
-msgstr ""
+msgstr "180 MHz"
 
 msgctxt "#30240"
 msgid "190 MHz"
-msgstr ""
+msgstr "190 MHz"
 
 msgctxt "#30241"
 msgid "200 MHz"
-msgstr ""
+msgstr "200 MHz"
 
 msgctxt "#30242"
 msgid "210 MHz"
-msgstr ""
+msgstr "210 MHz"
 
 msgctxt "#30243"
 msgid "220 MHz"
-msgstr ""
+msgstr "220 MHz"
 
 msgctxt "#30244"
 msgid "230 MHz"
-msgstr ""
+msgstr "230 MHz"
 
 msgctxt "#30245"
 msgid "240 MHz"
-msgstr ""
+msgstr "240 MHz"
 
 msgctxt "#30246"
 msgid "250 MHz"
-msgstr ""
+msgstr "250 MHz"
 
 msgctxt "#30247"
 msgid "260 MHz"
-msgstr ""
+msgstr "260 MHz"
 
 msgctxt "#30248"
 msgid "270 MHz"
-msgstr ""
+msgstr "270 MHz"
 
 msgctxt "#30249"
 msgid "280 MHz"
-msgstr ""
+msgstr "280 MHz"
 
 msgctxt "#30250"
 msgid "290 MHz"
-msgstr ""
+msgstr "290 MHz"
 
 msgctxt "#30251"
 msgid "300 MHz"
-msgstr ""
+msgstr "300 MHz"
 
 msgctxt "#30252"
 msgid "310 MHz"
-msgstr ""
+msgstr "310 MHz"
 
 msgctxt "#30253"
 msgid "320 MHz"
-msgstr ""
+msgstr "320 MHz"
 
 msgctxt "#30254"
 msgid "330 MHz"
-msgstr ""
+msgstr "330 MHz"
 
 msgctxt "#30255"
 msgid "340 MHz"
-msgstr ""
+msgstr "340 MHz"
 
 msgctxt "#30256"
 msgid "350 MHz"
-msgstr ""
+msgstr "350 MHz"
 
 msgctxt "#30257"
 msgid "360 MHz"
-msgstr ""
+msgstr "360 MHz"
 
 msgctxt "#30258"
 msgid "370 MHz"
-msgstr ""
+msgstr "370 MHz"
 
 msgctxt "#30259"
 msgid "380 MHz"
-msgstr ""
+msgstr "380 MHz"
 
 msgctxt "#30260"
 msgid "390 MHz"
-msgstr ""
+msgstr "390 MHz"
 
 msgctxt "#30261"
 msgid "400 MHz"
-msgstr ""
+msgstr "400 MHz"
 
 msgctxt "#30262"
 msgid "410 MHz"
-msgstr ""
+msgstr "410 MHz"
 
 msgctxt "#30263"
 msgid "420 MHz"
-msgstr ""
+msgstr "420 MHz"
 
 msgctxt "#30264"
 msgid "430 MHz"
-msgstr ""
+msgstr "430 MHz"
 
 msgctxt "#30265"
 msgid "440 MHz"
-msgstr ""
+msgstr "440 MHz"
 
 msgctxt "#30266"
 msgid "450 MHz"
-msgstr ""
+msgstr "450 MHz"
 
 msgctxt "#30267"
 msgid "460 MHz"
-msgstr ""
+msgstr "460 MHz"
 
 msgctxt "#30268"
 msgid "470 MHz"
-msgstr ""
+msgstr "470 MHz"
 
 msgctxt "#30269"
 msgid "480 MHz"
-msgstr ""
+msgstr "480 MHz"
 
 msgctxt "#30270"
 msgid "490 MHz"
-msgstr ""
+msgstr "490 MHz"
 
 msgctxt "#30271"
 msgid "500 MHz"
-msgstr ""
+msgstr "500 MHz"
 
 msgctxt "#30272"
 msgid "Load custom textures located in the 'system/dc/textures/<game-id>/' folder."
@@ -1163,139 +1129,139 @@ msgstr "Möjliggör konfiguration av emulerad VMU LCD-skärmens synlighet, storl
 
 msgctxt "#30313"
 msgid "Japan"
-msgstr ""
+msgstr "Japan"
 
 msgctxt "#30314"
 msgid "USA"
-msgstr ""
+msgstr "USA"
 
 msgctxt "#30315"
 msgid "Europe"
-msgstr ""
+msgstr "Europa"
 
 msgctxt "#30316"
 msgid "Japanese"
-msgstr ""
+msgstr "Japanska"
 
 msgctxt "#30317"
 msgid "English"
-msgstr ""
+msgstr "Engelska"
 
 msgctxt "#30318"
 msgid "German"
-msgstr ""
+msgstr "Tyska"
 
 msgctxt "#30319"
 msgid "French"
-msgstr ""
+msgstr "Franska"
 
 msgctxt "#30320"
 msgid "Spanish"
-msgstr ""
+msgstr "Spanska"
 
 msgctxt "#30321"
 msgid "Italian"
-msgstr ""
+msgstr "Italienska"
 
 msgctxt "#30322"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#30323"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#30324"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#30325"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#30326"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#30327"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#30328"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#30329"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#30330"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#30331"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgctxt "#30332"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgctxt "#30333"
 msgid "12"
-msgstr ""
+msgstr "12"
 
 msgctxt "#30334"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 msgctxt "#30335"
 msgid "14"
-msgstr ""
+msgstr "14"
 
 msgctxt "#30336"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgctxt "#30337"
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgctxt "#30338"
 msgid "17"
-msgstr ""
+msgstr "17"
 
 msgctxt "#30339"
 msgid "18"
-msgstr ""
+msgstr "18"
 
 msgctxt "#30340"
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgctxt "#30341"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "#30342"
 msgid "NTSC"
-msgstr ""
+msgstr "NTSC"
 
 msgctxt "#30343"
 msgid "VMU"
-msgstr ""
+msgstr "VMU"
 
 msgctxt "#30344"
 msgid "DreamPotato"
-msgstr ""
+msgstr "DreamPotato"
 
 msgctxt "#30345"
 msgid "VMU A1"
-msgstr ""
+msgstr "VMU A1"
 
 msgctxt "#30346"
 msgid "All VMUs"
-msgstr ""
+msgstr "Alla VMU:er"
 
 msgctxt "#30347"
 msgid "Discard Video and Animated Textures"

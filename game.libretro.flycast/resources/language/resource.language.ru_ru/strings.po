@@ -1259,17 +1259,17 @@ msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr "Пропускать дамп видео (YUV) и уже обновлённых текстур."
 
-#~ msgctxt "#30040"
-#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
-#~ msgstr "Блоки/системы визуальной памяти (VMU) для каждой игры"
+msgctxt "#30349"
+msgid "Per-Game VMUs"
+msgstr ""
 
-#~ msgctxt "#30041"
-#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-#~ msgstr "Показывать настройки дисплея блока/системы визуальной памяти (VMU)"
+msgctxt "#30350"
+msgid "VMU Sounds"
+msgstr ""
 
-#~ msgctxt "#30308"
-#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
-#~ msgstr "Звуки блоков/систем визуальной памяти (VMU)"
+msgctxt "#30351"
+msgid "Show VMU Display Settings"
+msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"
@@ -1330,6 +1330,14 @@ msgstr "Пропускать дамп видео (YUV) и уже обновлё�
 #~ msgctxt "#30037"
 #~ msgid "Enable NAOMI 15KHz DIP switch"
 #~ msgstr "Включить DIP-переключатель 15 кГц NAOMI"
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "Блоки/системы визуальной памяти (VMU) для каждой игры"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "Показывать настройки дисплея блока/системы визуальной памяти (VMU)"
 
 #~ msgctxt "#30071"
 #~ msgid "Boot directly into the Dreamcast BIOS menu."
@@ -1422,6 +1430,10 @@ msgstr "Пропускать дамп видео (YUV) и уже обновлё�
 #~ msgctxt "#30145"
 #~ msgid "Configure different emulation hacks."
 #~ msgstr "Настройка различных хаков эмуляции."
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr "Звуки блоков/систем визуальной памяти (VMU)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

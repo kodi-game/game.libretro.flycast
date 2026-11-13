@@ -1271,18 +1271,6 @@ msgctxt "#30351"
 msgid "Show VMU Display Settings"
 msgstr "Zobrazit Nastavení VMU Displeje"
 
-#~ msgctxt "#30040"
-#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
-#~ msgstr "Vizuální Paměťové Jednotky/Systémy pro Jednotlivé Hry (VMU)"
-
-#~ msgctxt "#30041"
-#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-#~ msgstr "Zobrazit Nastavení Displeje Vizuální Paměťové Jednotky/Systému (VMU)"
-
-#~ msgctxt "#30308"
-#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
-#~ msgstr "Vizuální paměťové jednotky/systémy (VMU) Zvuky"
-
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"
 #~ msgstr "Spouštět do BIOSu (vyžaduje restart)"
@@ -1342,6 +1330,14 @@ msgstr "Zobrazit Nastavení VMU Displeje"
 #~ msgctxt "#30037"
 #~ msgid "Enable NAOMI 15KHz DIP switch"
 #~ msgstr "Povolit DIP přepínač NAOMI 15 kHz"
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "Vizuální Paměťové Jednotky/Systémy pro Jednotlivé Hry (VMU)"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "Zobrazit Nastavení Displeje Vizuální Paměťové Jednotky/Systému (VMU)"
 
 #~ msgctxt "#30071"
 #~ msgid "Boot directly into the Dreamcast BIOS menu."
@@ -1434,3 +1430,7 @@ msgstr "Zobrazit Nastavení VMU Displeje"
 #~ msgctxt "#30145"
 #~ msgid "Configure different emulation hacks."
 #~ msgstr "Konfigurovat různé úpravy emulace."
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr "Vizuální paměťové jednotky/systémy (VMU) Zvuky"

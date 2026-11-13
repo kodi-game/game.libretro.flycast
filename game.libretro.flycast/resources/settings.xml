@@ -892,7 +892,7 @@
 		</category>
 		<category id="vmu" label="30305" help="30306">
 			<group id="1">
-				<setting id="reicast_per_content_vmus" type="string" label="30040" help="30307">
+				<setting id="reicast_per_content_vmus" type="string" label="30349" help="30307">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -904,7 +904,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_vmu_sound" type="string" label="30308" help="30309">
+				<setting id="reicast_vmu_sound" type="string" label="30350" help="30309">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -926,7 +926,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="reicast_show_vmu_screen_settings" type="string" label="30041" help="30312">
+				<setting id="reicast_show_vmu_screen_settings" type="string" label="30351" help="30312">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>

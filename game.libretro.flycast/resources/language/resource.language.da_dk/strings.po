@@ -121,14 +121,6 @@ msgctxt "#30039"
 msgid "Dump Textures"
 msgstr "Dump teksturer"
 
-msgctxt "#30040"
-msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Visuelle hukommelsesenheder/-systemer per spil (VMU)"
-
-msgctxt "#30041"
-msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Vis skærmindstillinger for visuelle hukommelsesenheder/-systemer per spil (VMU)"
-
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
 msgstr "VMU skærm 1 visning"
@@ -1104,10 +1096,6 @@ msgid ""
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
 
-msgctxt "#30308"
-msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr ""
-
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
 msgstr ""
@@ -1267,6 +1255,18 @@ msgstr ""
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr ""
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "Visuelle hukommelsesenheder/-systemer per spil (VMU)"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "Vis skærmindstillinger for visuelle hukommelsesenheder/-systemer per spil (VMU)"
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

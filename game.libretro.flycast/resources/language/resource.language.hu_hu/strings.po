@@ -121,14 +121,6 @@ msgctxt "#30039"
 msgid "Dump Textures"
 msgstr "Textúrák lementése"
 
-msgctxt "#30040"
-msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Játékonként külön Visual Memory Unit/System (VMU)"
-
-msgctxt "#30041"
-msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Visual Memory Unit/System (VMU) megjelenítési beállítások jelenjenek meg"
-
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
 msgstr "VMU 1 képernyő megjelenítése"
@@ -1107,10 +1099,6 @@ msgstr ""
 "\"VMU A1\" beállításnál minden elindított játéknak külön VMU \"A1\" fájlt hoz létre.\n"
 "\"Minden VMU\" beállításnál minden elindított játéknak legfeljebb 8 külön VMU fájlt (A1/A2/B1/B2/C1/C2/D1/D2) hoz létre."
 
-msgctxt "#30308"
-msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr "A Visual Memory Unit / System (VMU) hangjai"
-
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
 msgstr "Bekapcsolva a VMU csipogása is hallható."
@@ -1270,6 +1258,30 @@ msgstr ""
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr ""
+
+msgctxt "#30349"
+msgid "Per-Game VMUs"
+msgstr "Játékonként külön VMU"
+
+msgctxt "#30350"
+msgid "VMU Sounds"
+msgstr "VMU hangok"
+
+msgctxt "#30351"
+msgid "Show VMU Display Settings"
+msgstr "VMU megjelenítési beállítások jelenjenek meg"
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "Játékonként külön Visual Memory Unit/System (VMU)"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "Visual Memory Unit/System (VMU) megjelenítési beállítások jelenjenek meg"
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr "A Visual Memory Unit / System (VMU) hangjai"
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

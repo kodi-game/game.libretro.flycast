@@ -121,14 +121,6 @@ msgctxt "#30039"
 msgid "Dump Textures"
 msgstr "Abocar textures"
 
-msgctxt "#30040"
-msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Separar Visual Memory (VMU) per cada joc"
-
-msgctxt "#30041"
-msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Mostra la configuració de visualització de les Visual Memory (VMU)"
-
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
 msgstr "Pantalla de la VMU 1"
@@ -1104,10 +1096,6 @@ msgid ""
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr "En desactivar aquesta opció, tots els jocs compartiran els 8 fitxers de desats de VMU (A1/A2/B1/B2/C1/C2/D1/D2) que es troben a la carpeta del sistema de RetroArch. L'opció \"VMU A1\" crearà un únic fitxer de la VMU A1 a la carpeta de desats de RetroArch per cada joc que s'executi. L'opció \"Totes les VMU\" crearà 8 fitxers VMU únics per cada joc que s'executi."
 
-msgctxt "#30308"
-msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr "Sons de les Visual Memory (VMU)"
-
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
 msgstr "Quan està actiu, es reprodueixen els sons de la VMU."
@@ -1267,6 +1255,30 @@ msgstr "Descarta el vídeo i les textures animades"
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr "Omet l'abocament de vídeo (YUV) i de les textures actualitzades."
+
+msgctxt "#30349"
+msgid "Per-Game VMUs"
+msgstr "VMUs individuals per cada joc"
+
+msgctxt "#30350"
+msgid "VMU Sounds"
+msgstr "Sons VMU"
+
+msgctxt "#30351"
+msgid "Show VMU Display Settings"
+msgstr "Mostra la configuració de pantalla de VMU"
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "Separar Visual Memory (VMU) per cada joc"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "Mostra la configuració de visualització de les Visual Memory (VMU)"
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr "Sons de les Visual Memory (VMU)"
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

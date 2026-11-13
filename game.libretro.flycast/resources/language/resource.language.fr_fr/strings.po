@@ -121,14 +121,6 @@ msgctxt "#30039"
 msgid "Dump Textures"
 msgstr "Importer les textures"
 
-msgctxt "#30040"
-msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Unités/systèmes de mémoire visuelle par jeu (VMU)"
-
-msgctxt "#30041"
-msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Afficher les réglage d'affichage de l'unité/système de mémoire visuelle (VMU)"
-
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
 msgstr "Affichage de l'écran du VMU 1"
@@ -1107,10 +1099,6 @@ msgstr ""
 "Le réglage 'VMU A1' crée un fichier VMU 'A1' unique dans le dossier de sauvegarde de RetroArch pour chaque jeu qui est lancé.\n"
 "Le réglage 'Toutes les VMU' crée jusqu'à 8 fichiers VMU uniques (A1/A2/B1/B2/C1/C2/D1/D2) pour chaque jeu qui est lancé."
 
-msgctxt "#30308"
-msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr "Sons des unités/systèmes de mémoire visuelle (VMU)"
-
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
 msgstr "Si cette option est activée, les bips des VMU sont joués."
@@ -1270,6 +1258,30 @@ msgstr "Ignorer les vidéos et les textures animées"
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr "Ignorer l'importation de la vidéo (YUV) et des textures déjà mises à jour."
+
+msgctxt "#30349"
+msgid "Per-Game VMUs"
+msgstr "VMU par jeu"
+
+msgctxt "#30350"
+msgid "VMU Sounds"
+msgstr "Sons des VMU"
+
+msgctxt "#30351"
+msgid "Show VMU Display Settings"
+msgstr "Afficher les réglages d'affichage du VMU"
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "Unités/systèmes de mémoire visuelle par jeu (VMU)"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "Afficher les réglage d'affichage de l'unité/système de mémoire visuelle (VMU)"
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr "Sons des unités/systèmes de mémoire visuelle (VMU)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

@@ -121,14 +121,6 @@ msgctxt "#30039"
 msgid "Dump Textures"
 msgstr "テクスチャをダンプ"
 
-msgctxt "#30040"
-msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "ゲームごとのビジュアルメモリユニット/システム (VMU)"
-
-msgctxt "#30041"
-msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "ビジュアルメモリユニット/システム (VMU) 表示設定を表示"
-
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
 msgstr "VMU 画面 1 表示"
@@ -1104,10 +1096,6 @@ msgid ""
 "The 'All VMUs' setting creates up to 8 unique VMU files (A1/A2/B1/B2/C1/C2/D1/D2) for each game that is launched."
 msgstr ""
 
-msgctxt "#30308"
-msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr "ビジュアルメモリユニット/システム (VMU) サウンド"
-
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
 msgstr "有効にすると、VMU ビープ音が再生されます。"
@@ -1267,6 +1255,30 @@ msgstr ""
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr ""
+
+msgctxt "#30349"
+msgid "Per-Game VMUs"
+msgstr "ゲームごとの VMU"
+
+msgctxt "#30350"
+msgid "VMU Sounds"
+msgstr "VMU サウンド"
+
+msgctxt "#30351"
+msgid "Show VMU Display Settings"
+msgstr "VMU 表示設定を表示"
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "ゲームごとのビジュアルメモリユニット/システム (VMU)"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "ビジュアルメモリユニット/システム (VMU) 表示設定を表示"
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr "ビジュアルメモリユニット/システム (VMU) サウンド"
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"

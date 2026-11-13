@@ -35,7 +35,7 @@ msgstr "Alfasortering"
 
 msgctxt "#30008"
 msgid "GD-ROM Fast Loading (inaccurate)"
-msgstr "Snabb inläsning från GD-ROM (oprecis)"
+msgstr "GD-ROM Snabbladdning (felaktig)"
 
 msgctxt "#30009"
 msgid "Mipmapping"
@@ -91,7 +91,7 @@ msgstr "Anisotropisk Filtering"
 
 msgctxt "#30026"
 msgid "PowerVR2 Post-processing Filter"
-msgstr "PowerVR2-efterbehandlingsfilter"
+msgstr "PowerVR2 Efterbehandlingsfilter"
 
 msgctxt "#30027"
 msgid "Texture Upscaling (xBRZ)"
@@ -107,7 +107,7 @@ msgstr "Aktivera RTT (Render To Texture) buffert"
 
 msgctxt "#30033"
 msgid "Delay Frame Swapping"
-msgstr "Fördröj bildruteväxling"
+msgstr "Fördröj bildrutebyte"
 
 msgctxt "#30034"
 msgid "Frame Skipping"
@@ -121,109 +121,101 @@ msgctxt "#30039"
 msgid "Dump Textures"
 msgstr "Dumpa texturer"
 
-msgctxt "#30040"
-msgid "Per-Game Visual Memory Units/Systems (VMU)"
-msgstr "Visuella minnesenheter/system per spel (VMU)"
-
-msgctxt "#30041"
-msgid "Show Visual Memory Unit/System (VMU) Display Settings"
-msgstr "Visa inställningar för visuella minnesenheters/systems skärm (VMU)"
-
 msgctxt "#30042"
 msgid "VMU Screen 1 Display"
-msgstr "VMU-skärm 1, visning"
+msgstr "Visa VMU-skärm 1"
 
 msgctxt "#30043"
 msgid "VMU Screen 1 Position"
-msgstr "VMU-skärm 1, position"
+msgstr "Position för VMU-skärm 1"
 
 msgctxt "#30044"
 msgid "VMU Screen 1 Size"
-msgstr "VMU-skärm 1, storlek"
+msgstr "Storlek för VMU-skärm 1"
 
 msgctxt "#30045"
 msgid "VMU Screen 1 Pixel On Color"
-msgstr "VMU-skärm 1, färg för aktiverad bildpunkt"
+msgstr "VMU Skärm 1 Pixel PÅ Färg"
 
 msgctxt "#30046"
 msgid "VMU Screen 1 Pixel Off Color"
-msgstr "VMU-skärm 1, färg för inaktiverad bildpunkt"
+msgstr "VMU Skärm 1 Pixel AV Färg"
 
 msgctxt "#30047"
 msgid "VMU Screen 1 Opacity"
-msgstr "VMU-skärm 1, opacitet"
+msgstr "VMU Skärm 1 Opacitet"
 
 msgctxt "#30048"
 msgid "VMU Screen 2 Display"
-msgstr "VMU-skärm 2, visning"
+msgstr "VMU Skärm 2 Visa"
 
 msgctxt "#30049"
 msgid "VMU Screen 2 Position"
-msgstr "VMU-skärm 2, position"
+msgstr "VMU Skärm 2 Position"
 
 msgctxt "#30050"
 msgid "VMU Screen 2 Size"
-msgstr "VMU-skärm 2, storlek"
+msgstr "VMU Skärm 2 Storlek"
 
 msgctxt "#30051"
 msgid "VMU Screen 2 Pixel On Color"
-msgstr "VMU-skärm 2, färg för aktiverad bildpunkt"
+msgstr "VMU Skärm 2 Pixel PÅ Färg"
 
 msgctxt "#30052"
 msgid "VMU Screen 2 Pixel Off Color"
-msgstr "VMU-skärm 2, färg för inaktiverad bildpunkt"
+msgstr "VMU Skärm 2 Pixel AV Färg"
 
 msgctxt "#30053"
 msgid "VMU Screen 2 Opacity"
-msgstr "VMU-skärm 2, opacitet"
+msgstr "VMU Skärm 2 Opacitet"
 
 msgctxt "#30054"
 msgid "VMU Screen 3 Display"
-msgstr "VMU-skärm 3, visning"
+msgstr "Visa VMU skärm 3"
 
 msgctxt "#30055"
 msgid "VMU Screen 3 Position"
-msgstr "VMU-skärm 3, position"
+msgstr "Positionen för VMU skärm 3"
 
 msgctxt "#30056"
 msgid "VMU Screen 3 Size"
-msgstr "VMU-skärm 3, storlek"
+msgstr "VMU skärm 3 Storlek"
 
 msgctxt "#30057"
 msgid "VMU Screen 3 Pixel On Color"
-msgstr "VMU-skärm 3, färg för aktiverad bildpunkt"
+msgstr "Aktivera pixelfärg på VMU skärm 3"
 
 msgctxt "#30058"
 msgid "VMU Screen 3 Pixel Off Color"
-msgstr "VMU-skärm 3, färg för inaktiverad bildpunkt"
+msgstr "Avaktivera pixelfärg på VMU skärm 3"
 
 msgctxt "#30059"
 msgid "VMU Screen 3 Opacity"
-msgstr "VMU-skärm 3, opacitet"
+msgstr "Opaciteten för VMU Skärm 3"
 
 msgctxt "#30060"
 msgid "VMU Screen 4 Display"
-msgstr "VMU-skärm 4, visning"
+msgstr "Visa VMU skärm 4"
 
 msgctxt "#30061"
 msgid "VMU Screen 4 Position"
-msgstr "VMU-skärm 4, position"
+msgstr "Positionen för VMU skärm 4"
 
 msgctxt "#30062"
 msgid "VMU Screen 4 Size"
-msgstr "VMU-skärm 4, storlek"
+msgstr "VMU skärm 4 Storlek"
 
 msgctxt "#30063"
 msgid "VMU Screen 4 Pixel On Color"
-msgstr "VMU-skärm 4, färg för aktiverad bildpunkt"
+msgstr "VMU Skärm 4 Pixel PÅ Färg"
 
 msgctxt "#30064"
 msgid "VMU Screen 4 Pixel Off Color"
-msgstr "VMU-skärm 4, färg för inaktiverad bildpunkt"
+msgstr "VMU Skärm 4 Pixel AV Färg"
 
 msgctxt "#30065"
 msgid "VMU Screen 4 Opacity"
-msgstr "VMU-skärm 4, opacitet"
+msgstr "VMU Skärm 4 Opacitet"
 
 msgctxt "#30066"
 msgid "Show Light Gun Settings"
@@ -231,19 +223,19 @@ msgstr "Visa ljuspistolinställningar"
 
 msgctxt "#30067"
 msgid "Gun Crosshair 1 Display"
-msgstr "Visning av hårkors för pistol 1"
+msgstr "Visa hårkors för pistol 1"
 
 msgctxt "#30068"
 msgid "Gun Crosshair 2 Display"
-msgstr "Visning av hårkors för pistol 2"
+msgstr "Visa hårkors för pistol 2"
 
 msgctxt "#30069"
 msgid "Gun Crosshair 3 Display"
-msgstr "Visning av hårkors för pistol 3"
+msgstr "Visa hårkors för pistol 3"
 
 msgctxt "#30070"
 msgid "Gun Crosshair 4 Display"
-msgstr "Visning av hårkors för pistol 4"
+msgstr "Visa hårkors för pistol 4"
 
 msgctxt "#30076"
 msgid "Force use of high-level emulation BIOS."
@@ -1107,10 +1099,6 @@ msgstr ""
 "Inställningen ”VMU A1” skapar en unik VMU-fil ”A1” i RetroArchs sparmapp för varje spel som startas.\n"
 "Inställningen ”Alla VMU: er” skapar upp till 8 unika VMU-filer (A1/A2/B1/B2/C1/C2/D1/D2) för varje spel som startas."
 
-msgctxt "#30308"
-msgid "Visual Memory Units/Systems (VMU) Sounds"
-msgstr "Ljud för visuella minnesenheter/System (VMU)"
-
 msgctxt "#30309"
 msgid "When enabled, VMU beeps are played."
 msgstr "När detta är aktiverad, spelas VMU-pipen."
@@ -1270,6 +1258,30 @@ msgstr "Ignorera video och animerade texturer"
 msgctxt "#30348"
 msgid "Skip dumping video (YUV) and already updated textures."
 msgstr "Hoppa över dumpning av video (YUV) och redan uppdaterade texturer."
+
+msgctxt "#30349"
+msgid "Per-Game VMUs"
+msgstr "VMU:er per spel"
+
+msgctxt "#30350"
+msgid "VMU Sounds"
+msgstr "VMU-ljud"
+
+msgctxt "#30351"
+msgid "Show VMU Display Settings"
+msgstr "Visa VMU-skärminställningar"
+
+#~ msgctxt "#30040"
+#~ msgid "Per-Game Visual Memory Units/Systems (VMU)"
+#~ msgstr "Visuella minnesenheter/system per spel (VMU)"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Visual Memory Unit/System (VMU) Display Settings"
+#~ msgstr "Visa inställningar för visuella minnesenheters/systems skärm (VMU)"
+
+#~ msgctxt "#30308"
+#~ msgid "Visual Memory Units/Systems (VMU) Sounds"
+#~ msgstr "Ljud för visuella minnesenheter/System (VMU)"
 
 #~ msgctxt "#30001"
 #~ msgid "Boot to BIOS (Restart Required)"
